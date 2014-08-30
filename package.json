@@ -12,6 +12,9 @@
         "url" : "http://github.com/Andersos/andersos.net/issues"
     },
     "main": "server.js",
+    "scripts": {
+        "start": "node index.js"
+    },
     "dependencies": {
         "express": "4.x"
     }
