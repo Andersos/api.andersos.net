@@ -1,8 +1,34 @@
-andersos.net
-============
+# andersos.net
 
-This is my personal webpage
+This is my personal website.
+Right now you can find it on [heroku](andersos.herokuapp.com "URL to website").
 
+## Install
+```bash
+npm install
+```
+
+## Run
+```bash
+npm install
+```
+
+## Testing
+```bash
+npm test
+```
+Right now it will just run [JSHint](http://example.com/ "JSHint").
+
+## Production
+This app is running on Heroku.
+To push to production do
+```bash
+git push heroku master
+```
+
+
+----
+Other stuff
 
 Books:
 I read this book 26.08.2014 https://bookofbadarguments.com/
