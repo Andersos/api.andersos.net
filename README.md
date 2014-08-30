@@ -13,14 +13,14 @@ npm install
 
 ## Run
 ```bash
-npm install
+npm start
 ```
 
 ## Testing
 ```bash
 npm test
 ```
-Right now it will just run [JSHint](http://example.com/ "JSHint").
+Right now it will just run [JSHint](http://www.jshint.com/docs/ "JSHint").
 
 ## Production
 This app is running on Heroku.
