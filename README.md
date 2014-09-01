@@ -13,7 +13,7 @@ npm install
 
 ## Run
 ```bash
-npm start
+foreman start web
 ```
 
 ## Testing
