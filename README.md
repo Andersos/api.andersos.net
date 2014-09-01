@@ -5,6 +5,7 @@
 
 This is my personal website.
 Right now you can find it on [heroku](andersos.herokuapp.com "URL to website").
+You need the [Heroku toolbelt](https://toolbelt.heroku.com/) to use forman or to push to production.
 
 ## Install
 ```bash
