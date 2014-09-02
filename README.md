@@ -35,7 +35,10 @@ git push heroku master
 Other stuff
 
 Books:
-I read this book 26.08.2014 https://bookofbadarguments.com/
+book 26.08.2014 https://bookofbadarguments.com/
+02.09.2014 The Power of Habit: Why We Do What We Do, and How to Change
+ISBN-13: 978-1847946249
+http://www.amazon.com/Power-Habit-Why-What-Change-ebook/dp/B006WAIV6M/
 
 
 TODO:
