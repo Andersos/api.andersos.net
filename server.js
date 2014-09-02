@@ -22,7 +22,11 @@ app.get('/', function(req, res){
     res.render('index');
 });
 
-app.get('/music', function(req, res){
+app.get('/api', function(req, res){
+    res.json({'books':'api/books'});
+});
+
+app.get('api/music', function(req, res){
     var topartists;
     request('https://ws.audioscrobbler.com/2.0/user/AndersOSandvik/topartists.xml', function (error, response, body) {
         if (!error && response.statusCode === 200) {
@@ -34,6 +38,10 @@ app.get('/music', function(req, res){
     res.render('music', {
         topartists: topartists
     });
+});
+
+app.get('/api/books', function(req, res){
+    res.json({'Books':'Book'});
 });
 
 var server = app.listen(app.get('port'), function() {
