@@ -1,6 +1,7 @@
 # andersos.net
 
 [![Build Status](https://img.shields.io/travis/Andersos/andersos.net.svg?style=flat)](https://travis-ci.org/Andersos/andersos.net)
+[![Code Climate](https://codeclimate.com/github/Andersos/andersos.net/badges/gpa.svg?style=flat)](https://codeclimate.com/github/Andersos/andersos.net)
 [![Coverage Status](https://img.shields.io/coveralls/Andersos/andersos.net.svg?style=flat)](https://coveralls.io/r/Andersos/andersos.net)
 
 This is my personal website.
