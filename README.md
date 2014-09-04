@@ -41,6 +41,11 @@ book 26.08.2014 https://bookofbadarguments.com/
 ISBN-13: 978-1847946249
 http://www.amazon.com/Power-Habit-Why-What-Change-ebook/dp/B006WAIV6M/
 
+book 2014.09.04 
+ASIN: B00IFXHQVU
+The Nerd's Guide to Being Confident
+9781629219578
+
 
 TODO:
 http://git-scm.com/book
