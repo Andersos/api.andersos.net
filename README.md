@@ -35,6 +35,9 @@ git push heroku master
 ----
 Other stuff
 
+Serie:
+2014.09.15 Broen S01E01
+
 Books:
 book 26.08.2014 https://bookofbadarguments.com/
 02.09.2014 The Power of Habit: Why We Do What We Do, and How to Change
