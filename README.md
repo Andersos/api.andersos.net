@@ -37,6 +37,9 @@ Other stuff
 
 Serie:
 2014.09.15 Broen S01E01
+2014.09.16 Broen S01E02
+2014.09.17 Broen S01E03
+
 
 Books:
 book 26.08.2014 https://bookofbadarguments.com/
