@@ -35,6 +35,9 @@ git push heroku master
 ----
 Other stuff
 
+Trip:
+2014.09.17 Stockholm
+
 Serie:
 2014.09.15 Broen S01E01
 2014.09.16 Broen S01E02
