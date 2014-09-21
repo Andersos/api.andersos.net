@@ -48,6 +48,19 @@ Serie:
 Books:
 book 26.08.2014 https://bookofbadarguments.com/
 02.09.2014 The Power of Habit: Why We Do What We Do, and How to Change
+Catching Fire
+Mockingjay
+The Lost Symbol
+World War Z
+Steve Jobs
+A Short History of Nearly Everything
+The art of deception
+The big shot
+What I wish I knew when I was twenty
+Not a match
+Are you lonesome tonight
+The power of habit
+
 
 
 
