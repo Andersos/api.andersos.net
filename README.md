@@ -42,6 +42,7 @@ Serie:
 2014.09.15 Broen S01E01
 2014.09.16 Broen S01E02
 2014.09.17 Broen S01E03
+2014.09.20 Broen S01E04
 
 
 Books:
@@ -54,7 +55,7 @@ book 2014.08.26
 ISBN-13: 978-1847946249
 http://www.amazon.com/Power-Habit-Why-What-Change-ebook/dp/B006WAIV6M/
 
-book 2014.09.04 
+book 2014.09.04
 ASIN: B00IFXHQVU
 The Nerd's Guide to Being Confident
 9781629219578
