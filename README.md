@@ -45,7 +45,9 @@ Serie:
 2014.09.20 Broen S01E04  
 2014.09.21 Broen S01E05  
 2014.09.22 Broen S01E06    
-
+2014.09.24 Broen S01E07  
+2014.09.24 Broen S01E08
+2014.09.24 Broen S01E09
 
 Books:
 book 26.08.2014 https://bookofbadarguments.com/
