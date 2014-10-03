@@ -48,6 +48,7 @@ Serie:
 2014.09.24 Broen S01E07  
 2014.09.24 Broen S01E08
 2014.09.24 Broen S01E09
+2014.10.03 BBT S08E01 S08E02 S08E03
 
 Books:
 book 26.08.2014 https://bookofbadarguments.com/
