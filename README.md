@@ -50,6 +50,14 @@ Serie:
 2014.09.24 Broen S01E09
 2014.10.03 BBT S08E01 S08E02 S08E03
 2014.10.06 Under the dome S01E01 S01E02 S01E03
+2014.10.06 Under the dome S01E04 S01E05
+2014.10.07 Under the dome S01E06 S01E07 S01E08
+
+Frisør:
+2014.10.07
+
+Podcast:
+2014.10.07 Sannhetsministeriet S01E01 S01E02
 
 Game:
 Journet complete 2014.10.06
