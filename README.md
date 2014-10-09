@@ -52,6 +52,7 @@ Serie:
 2014.10.06 Under the dome S01E01 S01E02 S01E03
 2014.10.06 Under the dome S01E04 S01E05
 2014.10.07 Under the dome S01E06 S01E07 S01E08
+2014.10.08 Under the dome S01E09 S01E10 
 
 Frisør:
 2014.10.07
