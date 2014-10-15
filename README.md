@@ -55,12 +55,15 @@ Serie:
 2014.10.08 Under the dome S01E09 S01E10 
 2014.10.08 Under the dome S01E11 S01E12 S01E13 
 2014.10.12 BBT S08E04 Under the dome S02E01 S02E02 S02E03 S02E04 S02E05
+2014.10.13 Under the dome S02E06
 
 Frisør:
 2014.10.07
 
 Podcast:
 2014.10.07 Sannhetsministeriet S01E01 S01E02
+2014.10.13 Sannhetsministeriet S01E03
+2014.10.14 NodeUp a team netflix show 71
 
 Game:
 Journet complete 2014.10.06
