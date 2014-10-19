@@ -56,8 +56,9 @@ Serie:
 2014.10.08 Under the dome S01E11 S01E12 S01E13 
 2014.10.12 BBT S08E04 Under the dome S02E01 S02E02 S02E03 S02E04 S02E05
 2014.10.13 Under the dome S02E06 S02E07
+2014.10.15 Under the dome S02E08
 2014.10.18 South Park S18E01
-2014.10.18 Under the dome S02E09
+2014.10.19 Under the dome S02E09
 
 
 Frisør:
