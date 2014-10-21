@@ -59,7 +59,7 @@ Serie:
 2014.10.15 Under the dome S02E08
 2014.10.18 South Park S18E01
 2014.10.19 Under the dome S02E09 S02E10 S02E11 S02E12
-
+2014.10.21 Under the dome S02E13
 
 Frisør:
 2014.10.07
