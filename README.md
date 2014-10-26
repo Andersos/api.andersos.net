@@ -103,4 +103,4 @@ The Nerd's Guide to Being Confident
 
 
 TODO:
-http://git-scm.com/book
+http://git-scm.com/book / http://git-scm.com/book/en/v2
