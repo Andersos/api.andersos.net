@@ -31,6 +31,13 @@ To push to production do
 git push heroku master
 ```
 
+## Database
+I am using Postgresql for the database.
+
+Schema is of the following:
+Date ISO 8601
+Type Name
+
 
 ----
 Other stuff

@@ -22,6 +22,10 @@ app.get('/', function(req, res){
     res.render('index');
 });
 
+app.get('/todo', function(req, res){
+    res.render('todo');
+});
+
 app.get('/api', function(req, res){
     res.json({'books':'api/books'});
 });
