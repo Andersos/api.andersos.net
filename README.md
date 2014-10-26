@@ -28,6 +28,7 @@ Right now it will just run [JSHint](http://www.jshint.com/docs/ "JSHint").
 This app is running on Heroku.
 To push to production do
 ```bash
+ssh-add ~/.ssh/heroku_id_rsa
 git push heroku master
 ```
 
@@ -51,7 +52,7 @@ Serie:
 2014.09.17 Broen S01E03  
 2014.09.20 Broen S01E04  
 2014.09.21 Broen S01E05  
-2014.09.22 Broen S01E06    
+2014.09.22 Broen S01E06
 2014.09.24 Broen S01E07  
 2014.09.24 Broen S01E08
 2014.09.24 Broen S01E09
@@ -59,8 +60,8 @@ Serie:
 2014.10.06 Under the dome S01E01 S01E02 S01E03
 2014.10.06 Under the dome S01E04 S01E05
 2014.10.07 Under the dome S01E06 S01E07 S01E08
-2014.10.08 Under the dome S01E09 S01E10 
-2014.10.08 Under the dome S01E11 S01E12 S01E13 
+2014.10.08 Under the dome S01E09 S01E10
+2014.10.08 Under the dome S01E11 S01E12 S01E13
 2014.10.12 BBT S08E04 Under the dome S02E01 S02E02 S02E03 S02E04 S02E05
 2014.10.13 Under the dome S02E06 S02E07
 2014.10.15 Under the dome S02E08
