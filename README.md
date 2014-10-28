@@ -77,9 +77,10 @@ Podcast:
 2014.10.13 Sannhetsministeriet S01E03  
 2014.10.20 Sannhetsministeriet S01E04  
 2014.10.14 NodeUp a team netflix show 71
+2014.10.28 Sannhetsministeriet S01E05
 
 Game:
-Journet complete 2014.10.06
+Journey complete 2014.10.06
 
 Books:
 book 26.08.2014 https://bookofbadarguments.com/
