@@ -6,18 +6,13 @@
 
 This is my personal website.
 
-## Install
-```bash
-npm install
-```
-
 ## Run
-```bash
+```sh
 foreman start web
 ```
 
 ## Testing
-```bash
+```sh
 npm test
 ```
 
