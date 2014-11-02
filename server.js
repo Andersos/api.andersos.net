@@ -1,3 +1,4 @@
+require('newrelic');
 var express = require('express');
 var hbs  = require('express-handlebars');
 var routes = require('./lib/routes');
