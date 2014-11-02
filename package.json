@@ -18,7 +18,7 @@
   "scripts": {
     "start": "node server.js",
     "dev": "forever -w server.js",
-    "test": "jshint server.js test/ newrelic.js && mocha test test/* && npm run coverage",
+    "test": "jshint server.js newrelic.js test routes lib && mocha test test/* && npm run coverage",
     "tdd": "mocha --watch test test/*",
     "coverage": "istanbul cover ./node_modules/mocha/bin/_mocha --report lcovonly -- -R spec",
     "coverage-report": "cat ./coverage/lcov.info | ./node_modules/coveralls/bin/coveralls.js && rm -rf ./coverage"
