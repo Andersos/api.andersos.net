@@ -18,7 +18,7 @@
     "scripts": {
         "start": "node server.js",
         "start-dev": "forever -w server.js",
-        "test": "jshint server.js newrelic.js"
+        "test": "jshint server.js test/ newrelic.js"
     },
     "dependencies": {
         "express": "4.x",

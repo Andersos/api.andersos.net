@@ -32,7 +32,9 @@ app.get('/api', function(req, res){
 
 app.get('api/music', function(req, res){
     var topartists;
-    request('https://ws.audioscrobbler.com/2.0/user/AndersOSandvik/topartists.xml', function (error, response, body) {
+    request(
+        'https://ws.audioscrobbler.com/2.0/user/AndersOSandvik/topartists.xml',
+        function (error, response, body) {
         if (!error && response.statusCode === 200) {
             console.log(parser.parseString(body));
             //console.log(topartists);
