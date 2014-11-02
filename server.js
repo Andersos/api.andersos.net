@@ -4,11 +4,11 @@ var routes = require('./lib/routes');
 
 var app = express();
 
-app.engine('handlebars', hbs({
+app.engine('.hbs', hbs({
     defaultLayout: 'default',
     extname: '.hbs'
 }));
-app.set('view engine', 'handlebars');
+app.set('view engine', '.hbs');
 
 app.use(express.static(__dirname + '/public'));
 
