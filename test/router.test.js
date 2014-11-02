@@ -17,4 +17,11 @@ describe('The routes', function () {
         .expect(200, done);
     });
 
+    it('renders /', function (done) {
+        request
+        .get('/')
+        .expect('Content-Type', 'text/html; charset=utf-8')
+        .expect(200, done);
+    });
+
 });

@@ -5,8 +5,6 @@
 [![Coverage Status](https://img.shields.io/coveralls/Andersos/andersos.net.svg)](https://coveralls.io/r/Andersos/andersos.net)
 
 This is my personal website.
-Right now you can find it on [heroku](andersos.herokuapp.com "URL to website").
-You need the [Heroku toolbelt](https://toolbelt.heroku.com/) to use forman or to push to production.
 
 ## Install
 ```bash
@@ -22,7 +20,6 @@ foreman start web
 ```bash
 npm test
 ```
-Right now it will just run [JSHint](http://www.jshint.com/docs/ "JSHint").
 
 ## Production
 This app is running on Heroku.
@@ -53,7 +50,7 @@ Serie:
 2014.09.20 Broen S01E04  
 2014.09.21 Broen S01E05  
 2014.09.22 Broen S01E06  
-2014.09.24 Broen S01E07 
+2014.09.24 Broen S01E07
 2014.09.24 Broen S01E08  
 2014.09.24 Broen S01E09  
 2014.10.03 BBT S08E01 S08E02 S08E03  
