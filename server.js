@@ -1,11 +1,10 @@
-//require('newrelic');
 var express = require('express');
 var xml2js = require('xml2js');
-var favicon = require('serve-favicon');
 var hbs = require('express-hbs');
 var request = require('request');
 var app = express();
 var parser = new xml2js.Parser();
+var baseUriPath = process.env.BASE_URI_PATH || '';
 
 app.engine('hbs', hbs.express3({
     layoutsDir: __dirname + '/views/_layouts',
@@ -15,8 +14,7 @@ app.engine('hbs', hbs.express3({
 app.set('view engine', 'hbs');
 app.set('views', __dirname + '/views');
 app.set('port', (process.env.PORT || 3000));
-app.use('/public', express.static(__dirname + '/public'));
-app.use(favicon(__dirname + '/public/favicon.ico'));
+app.use(baseUriPath, express.static(__dirname + '/public'));
 
 app.get('/', function(req, res){
     res.render('index');

@@ -1,7 +1,7 @@
 {
     "name": "andersos.net",
     "version": "0.0.1",
-    "description": "This is my personal webpage",
+    "description": "This is my personal website",
     "author": "Anders Olsen Sandvik",
     "homepage": "https://www.andersos.net",
     "repository": {
@@ -9,7 +9,7 @@
         "url": "https://github.com/Andersos/andersos.net"
     },
     "bugs": {
-        "url": "http://github.com/Andersos/andersos.net/issues"
+        "url": "https://github.com/Andersos/andersos.net/issues"
     },
     "main": "server.js",
     "engines": {
@@ -17,20 +17,27 @@
     },
     "scripts": {
         "start": "node server.js",
-        "start-dev": "forever -w server.js",
-        "test": "jshint server.js test/ newrelic.js"
+        "dev": "forever -w server.js",
+        "test": "jshint server.js test/ newrelic.js && mocha test test/* && npm run coverage",
+        "tdd": "mocha --watch test test/*",
+        "coverage": "istanbul cover ./node_modules/mocha/bin/_mocha --report lcovonly -- -R spec",
+        "coverage-report": "cat ./coverage/lcov.info | ./node_modules/coveralls/bin/coveralls.js && rm -rf ./coverage"
     },
     "dependencies": {
         "express": "4.x",
-        "express-hbs": "^0.7.11",
-        "newrelic": "^1.10.3",
-        "request": "^2.40.0",
-        "serve-favicon": "^2.1.1",
+        "express-hbs": "0.7.11",
+        "newrelic": "1.10.3",
+        "request": "2.40.0",
+        "serve-favicon": "2.1.1",
         "xml2js": "^0.4.4"
     },
     "devDependencies": {
-        "forever": "^0.11.1",
-        "jshint": "^2.5.6",
-        "pre-commit": "0.0.9"
+        "coveralls": "^2.11.2",
+        "forever": "0.11.1",
+        "istanbul": "^0.3.2",
+        "jshint": "2.5.6",
+        "mocha": "2.0.1",
+        "pre-commit": "0.0.9",
+        "supertest": "0.14.0"
     }
 }

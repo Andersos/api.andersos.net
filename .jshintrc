@@ -48,5 +48,10 @@
 
     "node"          : true,
 
-    "globals"       : {}
+    "globals"       : {
+        "describe": false,
+        "it": false,
+        "before": false,
+        "after": false
+    }
 }

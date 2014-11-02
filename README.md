@@ -2,7 +2,7 @@
 
 [![Build Status](https://img.shields.io/travis/Andersos/andersos.net.svg?style=flat)](https://travis-ci.org/Andersos/andersos.net)
 [![Code Climate](http://img.shields.io/codeclimate/github/Andersos/andersos.net.svg?style=flat)](https://codeclimate.com/github/Andersos/andersos.net)
-[![Coverage Status](https://img.shields.io/coveralls/Andersos/andersos.net.svg?style=flat)](https://coveralls.io/r/Andersos/andersos.net)
+[![Coverage Status](https://img.shields.io/coveralls/Andersos/andersos.net.svg)](https://coveralls.io/r/Andersos/andersos.net)
 
 This is my personal website.
 Right now you can find it on [heroku](andersos.herokuapp.com "URL to website").
