@@ -31,4 +31,11 @@ describe('The routes', function () {
         .expect(200, done);
     });
 
+    it('dose not render pages that are not defined', function (done) {
+        request
+        .get('/dosenotexsist')
+        .expect('Content-Type', 'text/html; charset=utf-8')
+        .expect(404, done);
+    });
+
 });
