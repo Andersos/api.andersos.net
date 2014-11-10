@@ -36,7 +36,7 @@ Type Name
 Other stuff
 
 Trip:
-2014.09.17 Stockholm
+2014.09.17-20 Stockholm
 
 Serie:  
 2014.09.15 Broen S01E01  
@@ -60,8 +60,7 @@ Serie:
 2014.10.18 South Park S18E01  
 2014.10.19 Under the dome S02E09 S02E10 S02E11 S02E12  
 2014.10.21 Under the dome S02E13  
-2014.10.28 Modern Family S04E05 S04E06 S04E07  
-2014.11.01 Modern Family S04E08 S04E09 Two and a half men S12E01  
+2014.11.01 Two and a half men S12E01  
 
 Frisør:
 2014.10.07
@@ -77,6 +76,7 @@ Game:
 Journey complete 2014.10.06
 
 Books:
+2014.11.03 The Maze Runner (Book 1) ISBN-13: 978-0385737951
 book 26.08.2014 https://bookofbadarguments.com/
 02.09.2014 The Power of Habit: Why We Do What We Do, and How to Change  
 Catching Fire  
