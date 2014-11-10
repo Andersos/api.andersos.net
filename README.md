@@ -71,14 +71,18 @@ Podcast:
 2014.10.20 Sannhetsministeriet S01E04  
 2014.10.14 NodeUp a team netflix show 71
 2014.10.28 Sannhetsministeriet S01E05
+2014.10.05 Sannhetsministeriet S01E06
 
 Game:
 Journey complete 2014.10.06
 
 Books:
 2014.11.03 The Maze Runner (Book 1) ISBN-13: 978-0385737951
-book 26.08.2014 https://bookofbadarguments.com/
-02.09.2014 The Power of Habit: Why We Do What We Do, and How to Change  
+2014.09.02 The Power of Habit: Why We Do What We Do, and How to Change ISBN-13: 978-1847946249
+2014.08.26 Book of bad arguemnts https://bookofbadarguments.com/
+2014.09.04 The Nerd's Guide to Being Confident 9781629219578
+
+Old:
 Catching Fire  
 Mockingjay  
 The Lost Symbol  
@@ -90,20 +94,3 @@ The big shot
 What I wish I knew when I was twenty  
 Not a match  
 Are you lonesome tonight  
-The power of habit  
-
-
-
-
-book 2014.08.26
-ISBN-13: 978-1847946249
-http://www.amazon.com/Power-Habit-Why-What-Change-ebook/dp/B006WAIV6M/
-
-book 2014.09.04
-ASIN: B00IFXHQVU
-The Nerd's Guide to Being Confident
-9781629219578
-
-
-TODO:
-http://git-scm.com/book / http://git-scm.com/book/en/v2
