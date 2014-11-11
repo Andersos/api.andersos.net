@@ -71,7 +71,8 @@ Podcast:
 2014.10.20 Sannhetsministeriet S01E04  
 2014.10.14 NodeUp a team netflix show 71
 2014.10.28 Sannhetsministeriet S01E05
-2014.10.05 Sannhetsministeriet S01E06
+2014.11.05 Sannhetsministeriet S01E06
+2014.11.11 Sannhetsministeriet S01E07
 
 Game:
 Journey complete 2014.10.06
