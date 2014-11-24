@@ -65,15 +65,6 @@ Serie:
 Frisør:
 2014.10.07
 
-Podcast:
-2014.10.07 Sannhetsministeriet S01E01 S01E02  
-2014.10.13 Sannhetsministeriet S01E03  
-2014.10.20 Sannhetsministeriet S01E04  
-2014.10.14 NodeUp a team netflix show 71
-2014.10.28 Sannhetsministeriet S01E05
-2014.11.05 Sannhetsministeriet S01E06
-2014.11.11 Sannhetsministeriet S01E07
-
 Game:
 Journey complete 2014.10.06
 

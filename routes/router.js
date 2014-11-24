@@ -2,11 +2,11 @@ var express = require('express');
 var router = express.Router();
 
 router.get('/', function(req, res) {
-    res.render('index');
+    res.redirect('http://blog.andersos.net');
 });
 
-router.get('/todo', function(req, res){
-    res.render('todo');
+router.get('/gtd', function(req, res){
+    res.render('gtd');
 });
 
 module.exports = router;
