@@ -21,7 +21,7 @@ This app is running on Heroku.
 To push to production do
 ```bash
 ssh-add ~/.ssh/heroku_id_rsa
-git push heroku master
+git push heroku 
 ```
 
 ## Database
