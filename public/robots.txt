@@ -1,3 +1,0 @@
-User-agent: *
-Disallow: 
-Sitemap: http://www.andersos.net/sitemap.xml
