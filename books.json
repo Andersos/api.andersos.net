@@ -3,6 +3,17 @@
 {"isbn":9780307346605,"name":"World War Z","tags":["Have read","Audible"]},
 {"isbn":9780735611313,"name":"Code","tags":["To read","Bookshelf"]},
 {"isbn":9788205388932,"name":"Luftslottet som sprengtes","tags":["Bookshelf","To read"]},
+{"isbn":9780470857441,"name":"Innocent Code","tags":["Have read", "Bookshelf"]},
+{"isbn":9780615314464,"name":"Xkcd","tags":["Have read", "Bookshelf"]},
+{"isbn":9780262533058,"name":"Introduction to Algorithms","tags":["Have read", "Bookshelf"]},
+{"isbn":9780596522346,"name":"Slide:ology","tags":["Have read", "Bookshelf"]},
+{"isbn":9780060512804,"name":"Cryptonomicon","tags":["Google Play","To read"]},
+{"isbn":9780764542800,"name":"The Art of Deception","tags":["Have read"]},
+{"isbn":9780393338829,"name":"The Big Short","tags":["Have read", "Christian"]},
+{"isbn":9780767908184,"name":"A Short History of Nearly Everything","tags":["Have read"]},
+{"isbn":0,"name":"","tags":[]},
+{"isbn":0,"name":"","tags":[]},
+{"isbn":0,"name":"","tags":[]},
 {"isbn":0,"name":"","tags":[]},
 {"isbn":0,"name":"","tags":[]},
 {"isbn":0,"name":"","tags":[]},
@@ -12,22 +23,6 @@
 {"isbn":0,"name":"","tags":[]},
 {"isbn":0,"name":"","tags":[]},
 
-
-
-
-
-  {
-    "name": "The art of deception",
-    "status": "read"
-  },
-  {
-    "name": "The big short",
-    "status": "read"
-  },
-  {
-    "name": "A short history of nearly everything",
-    "status": "read"
-  },
   {
     "name": "What I wish I knew when I was 20",
     "status": "read"
