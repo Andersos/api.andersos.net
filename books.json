@@ -1,14 +1,21 @@
 [
-  {
-    "name": "Innovasjon i praksis",
-    "isbn": 9788299926713,
-    "status": "reading"
-  },
-  {
-    "name": "World War Z: An Oral History of the Zombie War",
-    "isbn": 9780307346605,
-    "status": "read"
-  },
+{"isbn":9788299926713,"name":"Innovasjon i praksis","tags":["Reading", "Bookshelf"]},
+{"isbn":9780307346605,"name":"World War Z","tags":["Have read","Audible"]},
+{"isbn":9780735611313,"name":"Code","tags":["To read","Bookshelf"]},
+{"isbn":9788205388932,"name":"Luftslottet som sprengtes","tags":["Bookshelf","To read"]},
+{"isbn":0,"name":"","tags":[]},
+{"isbn":0,"name":"","tags":[]},
+{"isbn":0,"name":"","tags":[]},
+{"isbn":0,"name":"","tags":[]},
+{"isbn":0,"name":"","tags":[]},
+{"isbn":0,"name":"","tags":[]},
+{"isbn":0,"name":"","tags":[]},
+{"isbn":0,"name":"","tags":[]},
+
+
+
+
+
   {
     "name": "The art of deception",
     "status": "read"
