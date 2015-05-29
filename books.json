@@ -62,20 +62,26 @@
 {"isbn":9780345339713,"name":"The Lord of the Rings: The Two Towers","tags":["Audible"]},
 {"isbn":9780345339706,"name":"The Lord of the Rings: The Fellowship of the Ring","tags":["Audible"]},
 {"isbn":9781494277536,"name":"Hooked","tags":["Have read","Audible"]},
-{"isbn":0,"name":"","tags":["To read","Audible"]},
-{"isbn":0,"name":"","tags":["To read","Audible"]},
-{"isbn":0,"name":"","tags":["To read","Audible"]},
-{"isbn":0,"name":"","tags":["To read","Audible"]},
+{"isbn":9781451639612,"name":"The 7 Habits of Highly Effective People","tags":["To read","Audible"]},
+{"isbn":9781591845577,"name":"The Personal MBA","tags":["To read","Audible"]},
+{"isbn":9781118509234,"name":"The 12 Week Year","tags":["To read","Audible"]},
+{"isbn":9780307947055,"name":"The New Digital Age","tags":["To read","Audible"]},
+{"isbn":9780316377553,"name":"The Everything Store","tags":["To read","Audible"]},
+{"isbn":9780670921607,"name":"The Lean Startup","tags":["To read","Audible"]},
+{"isbn":9780062273208,"name":"The Hard Thing About Hard Things","tags":["To read","Audible"]},
+{"isbn":9780316212182,"name":"Ghost in the Wires","tags":["To read","Audible"]},
+{"isbn":9781250062581,"name":"No place to hide","tags":["To read","Audible"]},
 {"isbn":0,"name":"","tags":["To read","Audible"]},
 {"isbn":0,"name":"","tags":["To read","Audible"]},
 
-
 {"isbn":0,"name":"","tags":[]},
 {"isbn":0,"name":"","tags":[]},
 {"isbn":0,"name":"","tags":[]},
 {"isbn":0,"name":"","tags":[]},
 {"isbn":0,"name":"","tags":[]},
 
+
+https://www.googleapis.com/books/v1/volumes?q=isbn:9781591845577
 
 9788252562804 den hemmelige nattverden
 9788777415326 løperens nye håndbok
