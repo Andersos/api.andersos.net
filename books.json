@@ -21,6 +21,16 @@
 {"isbn":9781478300540,"name":"Effective Programming","tags":["To read","Kindle"]},
 {"asin":"B004JF4NOQ","name":"Vim and Vi Tips: Essential Vim and Vi Editor Skills, 3rd ed. ","tags":["Kindle"]},
 {"isbn":9780132350884,"name":"Clean code","tags":["To read","Kindle"]},
+{"isbn":9781118007525,"name":"Mindhacker","tags":["To read","Kindle"]},
+{"asin":"B006431ADS","name":"Simplify","tags":["To read","Kindle"]},
+{"isbn":9780545663267,"name":"Mockingjay","tags":["Have read","Kindle"]},
+{"isbn":9781407109367,"name":"Catching Fire","tags":["Have read","Kindle"]},
+{"isbn":9780439023528,"name":"The Hunger Games","tags":["Have read","Kindle"]},
+{"isbn":9780062046222,"name":"Ice Cream & Sadness","tags":["Have read","Kindle"]},
+{"isbn":9780061914799,"name":"Cyanide and Happiness","tags":["Have read","Kindle"]},
+{"isbn":9781400034239,"name":"The Ten Most Beautiful Experiments","tags":["To read","Kindle"]},
+{"isbn":9781409917885,"name":"Aesop's Fables","tags":["Kindle"]},
+{"isbn":9780486275437,"name":"Alice's Adventures in Wonderland","tags":["Kindle"]},
 {"isbn":0,"name":"","tags":[]},
 {"isbn":0,"name":"","tags":[]},
 {"isbn":0,"name":"","tags":[]},
@@ -34,15 +44,20 @@
 {"isbn":0,"name":"","tags":[]},
 {"isbn":0,"name":"","tags":[]},
 {"isbn":0,"name":"","tags":[]},
-
-"Hunger games",
-    "status": "read"
-
-    "name": "Catching Fire",
-    "status": "read"
-
-    "name": "Mockingjay",
-    "status": "read"
+{"isbn":0,"name":"","tags":[]},
+{"isbn":0,"name":"","tags":[]},
+{"isbn":0,"name":"","tags":[]},
+{"isbn":0,"name":"","tags":[]},
+{"isbn":0,"name":"","tags":[]},
+{"isbn":0,"name":"","tags":[]},
+{"isbn":0,"name":"","tags":[]},
+{"isbn":0,"name":"","tags":[]},
+{"isbn":0,"name":"","tags":[]},
+{"isbn":0,"name":"","tags":[]},
+{"isbn":0,"name":"","tags":[]},
+{"isbn":0,"name":"","tags":[]},
+{"isbn":0,"name":"","tags":[]},
+{"isbn":0,"name":"","tags":[]},
 
     "name": "Angels and demons",
     "status": "read"
