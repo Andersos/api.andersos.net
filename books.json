@@ -72,32 +72,32 @@
 {"isbn":9780316212182,"name":"Ghost in the Wires","tags":["To read","Audible"]},
 {"isbn":9781250062581,"name":"No place to hide","tags":["To read","Audible"]},
 {"isbn":9781492603238,"name":"Spam Nation","tags":["To read","Audible"]},
+{"isbn":9780273713159,"name":"Innovation Management and New Product Development","tags":["To read","Bookshelf"]},
+{"isbn":9780553385465,"name":"A Briefer History of Time","tags":["To read","Bookshelf"]},
+{"isbn":9780141187761,"name":"Nineteen Eighty-Four","tags":["To read","Bookshelf"]},
+{"isbn":0,"name":"","tags":["To read","Bookshelf"]},
+{"isbn":0,"name":"","tags":["To read","Bookshelf"]},
+{"isbn":0,"name":"","tags":["To read","Bookshelf"]},
+{"isbn":0,"name":"","tags":["To read","Bookshelf"]},
+{"isbn":0,"name":"","tags":["To read","Bookshelf"]},
+{"isbn":0,"name":"","tags":["To read","Bookshelf"]},
+{"isbn":0,"name":"","tags":[]},
+{"isbn":0,"name":"","tags":[]},
+{"isbn":0,"name":"","tags":[]},
 
-{"isbn":0,"name":"","tags":[]},
-{"isbn":0,"name":"","tags":[]},
-{"isbn":0,"name":"","tags":[]},
-{"isbn":0,"name":"","tags":[]},
-{"isbn":0,"name":"","tags":[]},
-
-
-https://www.googleapis.com/books/v1/volumes?q=isbn:9781591845577
 
 9788252562804 den hemmelige nattverden
 9788777415326 løperens nye håndbok
 9780789496515 superflirt
-9780273713159 innovation 
 9788299926713 innovation 2
 Stieg Larsson - Luftslottet som sprengtes - 
-Charles Petzold - Code - 9780735611313
 Steve Souders - High Performance Web Sites - 9780596529307
 Eli Toftøy-Andersen - Praktisk brukertesting - 9788202343507
 Andrew Hunt - The Pragmatic Programmer - 9780201616224
-Stephen Hacking - A briefer Histort of time - 9780553385465
 Hans Olav Lahlum - Et kvart liv - 9788202411206
 Michael Baigent - Hellig Blod Hellig gral - 
 9780071318136 Anatomy
 Jo Nesbø - Gjenferd - 9788203352133
-george Orwell - 1984 - 9780141187761
 George Orwell - Animal Farm - 140008381
 Knut Nærum - Madonnagåten - 9788202249120
     "name": "Angels and demons",
@@ -140,9 +140,6 @@ Knut Nærum - Madonnagåten - 9788202249120
     "name": "TODO Harry potter bøkene",
     "status": "read"
   },
-  {
-    "name": "Praktisk brukertesting",
-    "status": "read"
-  },
 
+"api":"https://www.googleapis.com/books/v1/volumes?q=isbn:9781591845577"
 ]
