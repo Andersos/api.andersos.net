@@ -76,9 +76,9 @@
 {"isbn":9780553385465,"name":"A Briefer History of Time","tags":["To read","Bookshelf"]},
 {"isbn":9780141187761,"name":"Nineteen Eighty-Four","tags":["To read","Bookshelf"]},
 {"isbn":9780071318136,"name":"Seeley's Essentials of Anatomy and Physiology","tags":["To read","Bookshelf"]},
-{"isbn":0,"name":"","tags":["To read","Bookshelf"]},
-{"isbn":0,"name":"","tags":["To read","Bookshelf"]},
-{"isbn":0,"name":"","tags":["To read","Bookshelf"]},
+{"isbn":9780596529307,"name":"High Performance Web Sites","tags":["To read","Bookshelf"]},
+{"isbn":9780201616224,"name":"The Pragmatic Programmer","tags":["To read","Bookshelf"]},
+{"isbn":140008381,"name":"Animal Farm","tags":["To read","Bookshelf"]},
 {"isbn":0,"name":"","tags":["To read","Bookshelf"]},
 {"isbn":0,"name":"","tags":["To read","Bookshelf"]},
 {"isbn":0,"name":"","tags":[]},
@@ -91,14 +91,10 @@
 9780789496515 superflirt
 9788299926713 innovation 2
 Stieg Larsson - Luftslottet som sprengtes - 
-Steve Souders - High Performance Web Sites - 9780596529307
 Eli Toftøy-Andersen - Praktisk brukertesting - 9788202343507
-Andrew Hunt - The Pragmatic Programmer - 9780201616224
 Hans Olav Lahlum - Et kvart liv - 9788202411206
 Michael Baigent - Hellig Blod Hellig gral - 
-9780071318136 Anatomy
-Jo Nesbø - Gjenferd - 9788203352133
-George Orwell - Animal Farm - 140008381
+Jo Nesbø - Gjenferd - 9788203352133 
 Knut Nærum - Madonnagåten - 9788202249120
     "name": "Angels and demons",
     "status": "read"
@@ -131,15 +127,8 @@ Knut Nærum - Madonnagåten - 9788202249120
   {
     "name": "Marekors",
     "status": "read"
-  },
-  {
-    "name": "The girl who played with fire",
-    "status": "read"
-  },
-  {
-    "name": "TODO Harry potter bøkene",
-    "status": "read"
-  },
 
-"api":"https://www.googleapis.com/books/v1/volumes?q=isbn:9781591845577"
+    "name": "The girl who played with fire",
+
+Harry potter bøkene
 ]
