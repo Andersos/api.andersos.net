@@ -79,12 +79,21 @@
 {"isbn":9780596529307,"name":"High Performance Web Sites","tags":["To read","Bookshelf"]},
 {"isbn":9780201616224,"name":"The Pragmatic Programmer","tags":["To read","Bookshelf"]},
 {"isbn":140008381,"name":"Animal Farm","tags":["To read","Bookshelf"]},
+{"isbn":9788202249120,"name":"Madonna-gåten","tags":["To read","Bookshelf"]},
+{"isbn":9788202411206,"name":"Et kvart liv","tags":["To read","Bookshelf"]},
 {"isbn":0,"name":"","tags":["To read","Bookshelf"]},
 {"isbn":0,"name":"","tags":["To read","Bookshelf"]},
+{"isbn":0,"name":"","tags":["To read","Bookshelf"]},
+{"isbn":0,"name":"","tags":["To read","Bookshelf"]},
+{"isbn":0,"name":"","tags":["To read","Bookshelf"]},
+{"isbn":0,"name":"","tags":["To read","Bookshelf"]},
+{"isbn":0,"name":"","tags":["To read","Bookshelf"]},
 {"isbn":0,"name":"","tags":[]},
 {"isbn":0,"name":"","tags":[]},
 {"isbn":0,"name":"","tags":[]},
-
+{"isbn":0,"name":"","tags":[]},
+{"isbn":0,"name":"","tags":[]},
+{"isbn":0,"name":"","tags":[]},
 
 9788252562804 den hemmelige nattverden
 9788777415326 løperens nye håndbok
@@ -92,10 +101,8 @@
 9788299926713 innovation 2
 Stieg Larsson - Luftslottet som sprengtes - 
 Eli Toftøy-Andersen - Praktisk brukertesting - 9788202343507
-Hans Olav Lahlum - Et kvart liv - 9788202411206
 Michael Baigent - Hellig Blod Hellig gral - 
 Jo Nesbø - Gjenferd - 9788203352133 
-Knut Nærum - Madonnagåten - 9788202249120
     "name": "Angels and demons",
     "status": "read"
 
