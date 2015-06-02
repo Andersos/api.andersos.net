@@ -88,9 +88,9 @@
 {"isbn":0,"name":"","tags":["To read","Bookshelf"]},
 {"isbn":0,"name":"","tags":["To read","Bookshelf"]},
 {"isbn":0,"name":"","tags":["To read","Bookshelf"]},
-{"isbn":0,"name":"","tags":[]},
-{"isbn":0,"name":"","tags":[]},
-{"isbn":0,"name":"","tags":[]},
+{"isbn":9780307474278,"name":"The Da Vinci Code","tags":["Have read"]},
+{"isbn":9780312263126,"name":"Digital Fortress","tags":["Have read","Bookshelf"]},
+{"isbn":9780743493468,"name":"Angels & Demons","tags":["Have read"]},
 {"isbn":0,"name":"","tags":[]},
 {"isbn":0,"name":"","tags":[]},
 {"isbn":0,"name":"","tags":[]},
@@ -103,13 +103,8 @@ Stieg Larsson - Luftslottet som sprengtes -
 Eli Toftøy-Andersen - Praktisk brukertesting - 9788202343507
 Michael Baigent - Hellig Blod Hellig gral - 
 Jo Nesbø - Gjenferd - 9788203352133 
-    "name": "Angels and demons",
-    "status": "read"
 
     "name": "Menn som hater kvinner",
-    "status": "read"
-
-    "name": "Digital Fortress",
     "status": "read"
 
     "name": "Snømannen",
