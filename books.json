@@ -81,59 +81,36 @@
 {"isbn":140008381,"name":"Animal Farm","tags":["To read","Bookshelf"]},
 {"isbn":9788202249120,"name":"Madonna-gåten","tags":["To read","Bookshelf"]},
 {"isbn":9788202411206,"name":"Et kvart liv","tags":["To read","Bookshelf"]},
-{"isbn":0,"name":"","tags":["To read","Bookshelf"]},
-{"isbn":0,"name":"","tags":["To read","Bookshelf"]},
-{"isbn":0,"name":"","tags":["To read","Bookshelf"]},
-{"isbn":0,"name":"","tags":["To read","Bookshelf"]},
-{"isbn":0,"name":"","tags":["To read","Bookshelf"]},
-{"isbn":0,"name":"","tags":["To read","Bookshelf"]},
+{"isbn":9788205388932,"name":"Luftslottet som sprengtes","tags":["To read","Bookshelf"]},
+{"isbn":9788202343507,"name":"Praktisk brukertesting","tags":["To read","Bookshelf"]},
+{"isbn":9788777415326,"name":"Løperens nye håndbok","tags":["To read","Bookshelf"]},
+{"isbn":9788252562804,"name":"Den hemmelige nattverden","tags":["To read","Bookshelf"]},
+{"isbn":9788299926713,"name":"Innovasjon i praksis","tags":["To read","Bookshelf"]},
+{"isbn":9788252558890,"name":"Hellig blod, hellig gral","tags":["To read","Bookshelf"]},
 {"isbn":0,"name":"","tags":["To read","Bookshelf"]},
 {"isbn":9780307474278,"name":"The Da Vinci Code","tags":["Have read"]},
 {"isbn":9780312263126,"name":"Digital Fortress","tags":["Have read","Bookshelf"]},
 {"isbn":9780743493468,"name":"Angels & Demons","tags":["Have read"]},
 {"isbn":9781452863399,"name":"The Trial ","tags":["To read"]},
+{"isbn":9788205387652,"name":"Jenta som lekte med ilden","tags":["Have read"]},
+{"isbn":9788205366824,"name":"Menn som hater kvinner","tags":["Have read"]},
+{"isbn":0,"name":"","tags":[]},
+{"isbn":0,"name":"","tags":[]},
 {"isbn":0,"name":"","tags":[]},
 {"isbn":0,"name":"","tags":[]},
 
-9788252562804 den hemmelige nattverden
-9788777415326 løperens nye håndbok
 9780789496515 superflirt
-9788299926713 innovation 2
-Stieg Larsson - Luftslottet som sprengtes - 
-Eli Toftøy-Andersen - Praktisk brukertesting - 9788202343507
-Michael Baigent - Hellig Blod Hellig gral - 
+
 Jo Nesbø - Gjenferd - 9788203352133 
-
-    "name": "Menn som hater kvinner",
-    "status": "read"
-
-    "name": "Snømannen",
-    "status": "read"
-  },
-  {
-    "name": "Frelseren",
-    "status": "read"
-  },
-  {
-    "name": "Sorgenfri",
-    "status": "read"
-  },
-  {
-    "name": "Rødstrupe",
-    "status": "read"
-  },
-  {
-    "name": "Hodejegerne",
-    "status": "read"
-  },
-  {
-    "name": "Marekors",
-    "status": "read"
-
-    "name": "The girl who played with fire",
-    <li>Added to book list http://abookapart.com/</li>
-    <li>Added to book list http://git-scm.com/book/en/v2</li>
-    <li>Add to books http://eloquentjavascript.net/</li>
-    Amazon wish list
+Snømannen
+Frelseren
+Sorgenfri
+Rødstrupe
+Hodejegerne
+Marekors
+http://abookapart.com/
+http://git-scm.com/book/en/v2
+http://eloquentjavascript.net/</li>
+Amazon wish list
 Harry potter bøkene
 ]
