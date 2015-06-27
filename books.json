@@ -1,5 +1,11 @@
 {"books":[
-
+{"asin":"B004JF4NOQ","name":"Vim and Vi Tips: Essential Vim and Vi Editor Skills, 3rd ed. ","tags":["Kindle"],"thumbnail":"http://g-images.amazon.com/images/I/41XBrRjPrVL._SS130_.jpg"},
+{"asin":"B006431ADS","name":"Simplify","tags":["To read","Kindle"],"thumbnail":"http://d.gr-assets.com/books/1328040364l/13049773.jpg"},
+{"asin":"B00C2UUJX4","name":"How to talk to girls at parties","tags":["To read","Kindle"]},
+{"asin":"B00HN9H3WY","name":"The Nerd's Guide to Being Confident","tags":["To read","Audible"]},
+{"isbn":140008381,"name":"Animal Farm","tags":["To read","Bookshelf"]},
+{"isbn":8200012573,"name":"Logikk oppgaver til Arne Næss","tags":["To read","Bookshelf"]},
+{"isbn":8276830560,"name":"Vi spiller kort og legger kabal","tags":["Have read","Bookshelf"]},
 {"isbn":9780060512804,"name":"Cryptonomicon","tags":["Google Play","To read","Audible"],"thumbnail":"https://books.google.com/books/content?id=qYAmfUBPN-UC&printsec=frontcover&img=1&zoom=1"},
 {"isbn":9780061914799,"name":"Cyanide and Happiness","tags":["Have read","Kindle"],"thumbnail":"http://books.google.com/books/content?id=zjZHlwEACAAJ&printsec=frontcover&img=1&zoom=1"},
 {"isbn":9780062046222,"name":"Ice Cream & Sadness","tags":["Have read","Kindle"],"thumbnail":"http://www3.alibris-static.com/ice-cream-sadness-more-comics-from-cyanide-happiness/isbn/9780062046222_l.jpg"},
@@ -113,13 +119,5 @@
 {"isbn":9788271461447,"name":"Sun Tzus The art of war og kunsten å lede","tags":["To read","Bookshelf"]},
 {"isbn":9788299885188,"name":"The social guidebook to Norway","tags":["To read"]},
 {"isbn":9788299926713,"name":"Innovasjon i praksis","tags":["To read","Bookshelf"]},
-{"isbn":9788777415326,"name":"Løperens nye håndbok","tags":["To read","Bookshelf"]},
-
-{"asin":"B004JF4NOQ","name":"Vim and Vi Tips: Essential Vim and Vi Editor Skills, 3rd ed. ","tags":["Kindle"],"thumbnail":"http://g-images.amazon.com/images/I/41XBrRjPrVL._SS130_.jpg"},
-{"asin":"B006431ADS","name":"Simplify","tags":["To read","Kindle"],"thumbnail":"http://d.gr-assets.com/books/1328040364l/13049773.jpg"},
-{"asin":"B00C2UUJX4","name":"How to talk to girls at parties","tags":["To read","Kindle"]},
-{"asin":"B00HN9H3WY","name":"The Nerd's Guide to Being Confident","tags":["To read","Audible"]},
-{"isbn":140008381,"name":"Animal Farm","tags":["To read","Bookshelf"]},
-{"isbn":8200012573,"name":"Logikk oppgaver til Arne Næss","tags":["To read","Bookshelf"]},
-{"isbn":8276830560,"name":"Vi spiller kort og legger kabal","tags":["Have read","Bookshelf"]}
+{"isbn":9788777415326,"name":"Løperens nye håndbok","tags":["To read","Bookshelf"]}
 ]}
