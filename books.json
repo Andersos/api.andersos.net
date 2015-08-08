@@ -115,13 +115,14 @@
 {"isbn":9788205366824,"name":"Menn som hater kvinner","tags":["Have read"]},
 {"isbn":9788205387652,"name":"Jenta som lekte med ilden","tags":["Have read"]},
 {"isbn":9788205388932,"name":"Luftslottet som sprengtes","tags":["To read","Bookshelf"]},
-{"isbn":9788252558890,"name":"Hellig blod, hellig gral","tags":["To read","Bookshelf"]},
-{"isbn":9788252562804,"name":"Den hemmelige nattverden","tags":["To read","Bookshelf"]},
-{"isbn":9788271461447,"name":"Sun Tzus The art of war og kunsten å lede","tags":["To read","Bookshelf"]},
-{"isbn":9788299885188,"name":"The social guidebook to Norway","tags":["To read"]},
-{"isbn":9788299926713,"name":"Innovasjon i praksis","tags":["To read","Bookshelf"]},
+{"isbn":9788252558890,"name":"Hellig blod, hellig gral","tags":["To read","Bookshelf"],"thumbnail":"https://www.tanum.no/sek-asset/products/9788280870612.jpg?w=218"},
+{"isbn":9788252562804,"name":"Den hemmelige nattverden","tags":["To read","Bookshelf"],"thumbnail":"https://bokelskere.s3.amazonaws.com/1b4b1a3c21c96a0ca80dba0bbd18c766d251946ce3738bc48d250ae7.jpeg"},
+{"isbn":9788271461447,"name":"Sun Tzus The art of war og kunsten å lede","tags":["To read","Bookshelf"],"thumbnail":"http://www.norli.no/wcsstore/ExtendedSitesCatalogAssetStore/images/catalog/nl/s160/DNBB/9788271461447.jpg"},
+{"isbn":9788299885188,"name":"The social guidebook to Norway","tags":["To read"],"thumbnail":"https://www.tanumlydbok.no/sek-asset/products/9788299885188.jpg?w=960"},
+{"isbn":9788299926713,"name":"Innovasjon i praksis","tags":["To read","Bookshelf"],"thumbnail":"https://www.tanum.no/sek-asset/products/9788299926713.jpg?w=218"},
 {"isbn":9788777415326,"name":"Løperens nye håndbok","tags":["To read","Bookshelf"],"thumbnail":"http://www.bsundervisning.no/bilder/9788777415326.jpg"},
 {"isbn":9788248914075,"name":"Verdt å vite fra grunnskolens pensum","tags":["To read"],"thumbnail":"https://d3oh18gu5j3rjh.cloudfront.net/9788248912200/img/0"},
 {"isbn":9788251681278,"name":"Ibsen på en time","tags":["To read"],"thumbnail":"http://www.schibstedforlag.no/Global/Sakprosa/Humor/2013/Ibsen_pa_en_time_ho.jpg"},
-{"isbn":9788282820523,"name":"Placebodefekten","tags":["To read"],"thumbnail":"http://tjomlid.com/wp-content/uploads/PlaceboSkisse2.jpg"}
+{"isbn":9788282820523,"name":"Placebodefekten","tags":["To read"],"thumbnail":"http://tjomlid.com/wp-content/uploads/PlaceboSkisse2.jpg"},
+{"isbn":9788251656283,"name":"The Norway Way","tags":["Read"],"read":"2015-08-08","thumbnail":"https://www.platekompaniet.no/globalassets/imported-images/bok/_9788251656283.jpg"}
 ]}
