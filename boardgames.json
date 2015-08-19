@@ -22,6 +22,6 @@
 {"name":"Risk 2210 AD","time":"60+","players":"2-5","tags":"Spillkisten"},
 {"name":"Small World","time":"40-80","players":"2-5","tags":"Spillkisten"},
 {"name":"The Settlers of Catan","time":"60","players":"3-4","tags":"Spillkisten"},
-{"name":"Ticket To Ride Europe","time":"30-60","players":"2-5","tags":"Spillkisten"},
-{"name":"Uno","time":"30","players":"2-6+","tags":"Spillkisten"}
+{"name":"Ticket To Ride Europe","time":"30-60","players":"2-5","tags":"Spillkisten","thumbnail":"http://ecx.images-amazon.com/images/I/71ohIPFjLJL.jpg"},
+{"name":"Uno","time":"30","players":"2-6+","tags":"Spillkisten","thumbnail":"https://s3.amazonaws.com/rapgenius/1372321539_uno-mobile-game.jpg"}
 ]
