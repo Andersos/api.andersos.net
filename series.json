@@ -1,16 +1,16 @@
 [
-{"name":"$#*! My Dad Says","stillWatching":0,"lastWatched": "S01E18"},
-{"name":"1600 Penn","stillWatching":0,"lastWatched": "S01E13"},
-{"name":"8 Simple Rules","stillWatching":0,"lastWatched": "S03E24"},
-{"name":"9 Av 10 Nordmenn","stillWatching":0,"lastWatched": "S03E13"},
-Angel From Hell
-Arrested Development
-{"name":"American Dad!","stillWatching":1,"lastWatched": "S09E20"},
-{"name":"Awkward","stillWatching":0,"lastWatched": "S02E12"},
-{"name":"Battlestar Galactica","stillWatching":0,"lastWatched": "S00E00"},
-{"name":"Betas","stillWatching":0,"lastWatched": "S01E11"},
-{"name":"Better Off Ted","stillWatching":0,"lastWatched": "S02E13"},
-{"name":"Brooklyn Nine-Nine","stillWatching":0,"lastWatched": "S00E00"},
+{"name":"$#*! My Dad Says","lastWatched":"S01E18"},
+{"name":"1600 Penn","lastWatched":"S01E13"},
+{"name":"8 Simple Rules","lastWatched":"S03E24"},
+{"name":"9 Av 10 Nordmenn","lastWatched":"S03E13"},
+{"name":"Angel From Hell","lastWatched":"S00E00"},
+{"name":"Arrested Development","stillWatching":0,"lastWatched":"S01E22"},
+{"name":"American Dad!","stillWatching":1,"lastWatched":"S09E20"},
+{"name":"Awkward","lastWatched":"S02E12"},
+{"name":"Battlestar Galactica","lastWatched":"S00E00"},
+{"name":"Betas","lastWatched":"S01E11"},
+{"name":"Better Off Ted","lastWatched":"S02E13"},
+{"name":"Brooklyn Nine-Nine","lastWatched":"S00E00"},
 Baby Daddy
 Black Mirror
 Blindspot
@@ -28,9 +28,6 @@ Curb Your Enthusiasm
 Cybercrimes with Ben Hammersley
 
 ]
-
-
-
 
 Dads (2013)
 Dama til
