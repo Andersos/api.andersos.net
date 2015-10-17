@@ -18,11 +18,14 @@ Blindspot
 Bob's Burgers
 Breaking Bad
 Bron/Broen
-{"name":"Chuck","stillWatching":0,"lastWatched": "S05E13"},
-{"name":"Community","stillWatching":0,"lastWatched": "S03E22"},
-{"name":"Continuum","stillWatching":0,"lastWatched": "S01E10"},
-{"name":"Cougar Town","stillWatching":0,"lastWatched": "S04E15"},
-Clean Coders
+{"name":"Chuck","lastWatched": "S05E13"},
+{"name":"Community","lastWatched": "S03E22"},
+{"name":"Continuum","lastWatched": "S01E10"},
+{"name":"Cougar Town","lastWatched": "S04E15"},
+{"name":"Clean Coders","lastWatched": "S00E00"},
+{"name":"","lastWatched": "S00E00"},
+{"name":"","lastWatched": "S00E00"},
+{"name":"","lastWatched": "S00E00"},
 Containment
 Crazy Ex-Girlfriend
 Curb Your Enthusiasm
