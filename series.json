@@ -134,10 +134,10 @@ Touch
 {"name":"Truth Be Told","lastWatched":""},
 {"name":"Two and a Half Men","lastWatched":""},
 {"name":"Typen til","lastWatched":""},
-{"name":"Undateable (2014)","lastWatched":""},
-{"name":"Under the Dome","lastWatched":""},
-{"name":"Us & Them","lastWatched":""},
-{"name":"V (2009)","lastWatched":""},
-{"name":"Video Game High School (VGHS)","lastWatched":"S03E06"},
-{"name":"Whitney","lastWatched":"S02E16"}
+{"name":"Undateable (2014)","lastWatched":"S00E00"},
+{"name":"Under the Dome","lastWatched":"S02E13","stillWatching":false},
+{"name":"Us & Them","lastWatched":"S00E00"},
+{"name":"V (2009)","lastWatched":"S02E10","stillWatching":false},
+{"name":"Video Game High School (VGHS)","lastWatched":"S03E06","stillWatching":false},
+{"name":"Whitney","lastWatched":"S02E16","stillWatching":false}
 ]
