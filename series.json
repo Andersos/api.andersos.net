@@ -1,7 +1,8 @@
-Mangler myEpisodes
 Dama til s2e1 s2e2 s2e3 s2e4 s2e5 s2e6 s2e7 /
 Side om side s3e1 s3e2 s3e3 s3e4 s3e5 s3e6 s3e7 s3e8 s3e9 s3e10 /
 Broen sxe2
+{"name":"Bron/Broen","lastWatched":"S03E01"},
+The Simpsons
 
 Diktaturet og Side om side mangler fra trakt.tv
 
@@ -24,7 +25,6 @@ Diktaturet og Side om side mangler fra trakt.tv
 {"name":"Blindspot","lastWatched":"S00E00"},
 {"name":"Bob's Burgers","lastWatched":"S05E18"},
 {"name":"Breaking Bad","lastWatched":"S02E08"},
-{"name":"Bron/Broen","lastWatched":"S03E01"},
 {"name":"Chuck","lastWatched": "S05E13"},
 {"name":"Community","lastWatched": "S03E22"},
 {"name":"Continuum","lastWatched": "S01E10"},
@@ -35,10 +35,8 @@ Diktaturet og Side om side mangler fra trakt.tv
 {"name":"Curb Your Enthusiasm","lastWatched": "S00E00"},
 {"name":"Cybercrimes with Ben Hammersley","lastWatched": "S00E00"},
 
-]
 
 Dads (2013)
-Dama til
 Derren Brown Investigates
 Derren Brown: The Events
 Derren Brown: The Heist
@@ -106,7 +104,6 @@ Royal Pains
 Schmokk
 Scrubs
 Sense8
-Side om side
 Silicon Valley
 South Park
 Spy (2011)
@@ -123,17 +120,16 @@ The IT Crowd
 The Last Man On Earth
 The Michael J. Fox Show
 The Mindy Project
-The Newsroom (2012)
-The Player
-The Simpsons
 
-{"name":"The Walking Dead","lastWatched":""},
-{"name":"Touch","lastWatched":""},
-{"name":"Trekant","lastWatched":""},
-{"name":"Trophy Wife","lastWatched":""},
-{"name":"Truth Be Told","lastWatched":""},
-{"name":"Two and a Half Men","lastWatched":""},
-{"name":"Typen til","lastWatched":""},
+{"name":"The Newsroom (2012)","lastWatched":"S03E06"},
+{"name":"The Player","lastWatched":"S00E00"},
+{"name":"The Walking Dead","lastWatched":"S02E13"},
+{"name":"Touch","lastWatched":"S00E00"},
+{"name":"Trekant","lastWatched":"S02E07","stillWatching":false},
+{"name":"Trophy Wife","lastWatched":"S01E22","stillWatching":false},
+{"name":"Truth Be Told","lastWatched":"S00E00"},
+{"name":"Two and a Half Men","lastWatched":"S12E16","stillWatching":false},
+{"name":"Typen til","lastWatched":"S01E08"},
 {"name":"Undateable (2014)","lastWatched":"S00E00"},
 {"name":"Under the Dome","lastWatched":"S02E13","stillWatching":false},
 {"name":"Us & Them","lastWatched":"S00E00"},
