@@ -125,6 +125,7 @@
 {"isbn":9788282820523,"name":"Placebodefekten","tags":["To read"],"thumbnail":"http://tjomlid.com/wp-content/uploads/PlaceboSkisse2.jpg"},
 {"isbn":9788251656283,"name":"The Norway Way","tags":["Have read"],"read":"2015-08-08","thumbnail":"https://www.platekompaniet.no/globalassets/imported-images/bok/_9788251656283.jpg"},
 {"isbn":9788248916550,"name":"God tur","tags":["To read","Bookshelf"],"thumbnail":"http://s1.haugenbok.no/var/forlagshuset_site/storage/images/4439570-4-nor-NO/9788248916550_product_full.jpg"}
-{"isbn":0,"name":"https://www.golang-book.com/books/intro","tags":["To read"]}
-{"isbn":0,"name":"Front-end Handbook","link":"https://www.gitbook.com/star/book/frontendmasters/front-end-handbook"}
+{"isbn":0,"name":"https://www.golang-book.com/books/intro","tags":["To read"]},
+{"isbn":0,"name":"Front-end Handbook","link":"https://www.gitbook.com/star/book/frontendmasters/front-end-handbook"},
+{"isbn":9780544668256,"name":"Thing Explainer: Complicated Stuff in Simple Words","tags":["To read"],"thumbnail":"https://xkcd.com/thing-explainer/ThingExplainerCover.png"}
 ]}
