@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="1.1">
+  <head>
+    <title>Andersos's feeds</title>
+    <dateCreated>Wed, 13 Jan 2016 00:15:38 GMT</dateCreated>
+    <dateModified>Wed, 13 Jan 2016</dateModified>
+    <ownerName>Anders Olsen Sandvik</ownerName>
+    <ownerEmail>holler at andersos dot net</ownerEmail>
+  </head>
+  <body>
+
+    <outline title="Comedy" text="Comedy">
+          <outline type="rss" title="DevOps Reactions" text="DevOps Reactions" htmlUrl="http://devopsreactions.tumblr.com/" xmlUrl="http://devopsreactions.tumblr.com/rss"/>
+    </outline>
+
+  </body>
+</opml>
