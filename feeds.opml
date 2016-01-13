@@ -11,6 +11,7 @@
 
     <outline title="Comedy" text="Comedy">
           <outline type="rss" title="DevOps Reactions" text="DevOps Reactions" htmlUrl="http://devopsreactions.tumblr.com/" xmlUrl="http://devopsreactions.tumblr.com/rss"/>
+          <outline type="rss" title="Geek and poke" text="Geek and poke" htmlUrl="http://geek-and-poke.com/" xmlUrl="http://feeds.feedburner.com/GeekAndPoke"/>
     </outline>
 
   </body>
