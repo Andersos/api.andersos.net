@@ -12,6 +12,14 @@
     <outline title="Comedy" text="Comedy">
           <outline type="rss" title="DevOps Reactions" text="DevOps Reactions" htmlUrl="http://devopsreactions.tumblr.com/" xmlUrl="http://devopsreactions.tumblr.com/rss"/>
           <outline type="rss" title="Geek and poke" text="Geek and poke" htmlUrl="http://geek-and-poke.com/" xmlUrl="http://feeds.feedburner.com/GeekAndPoke"/>
+          
+          http://wumo.com/wumo?view=rss
+          https://torrentfreak.com/category/dvdrip/feed/
+          http://truthfacts.com/truthfacts?view=rss
+          https://blog.agilebits.com/feed/
+          https://medium.com/feed/@baekdal
+          http://blog.samaltman.com/posts.atom
+          https://www.mattcutts.com/blog/feed/
     </outline>
 
   </body>
