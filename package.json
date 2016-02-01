@@ -1,0 +1,20 @@
+{
+  "name": "api.andersos.net",
+  "description": "My api of stuff I want access to",
+  "version": "0.0.1",
+  "homepage": "http://api.andersos.net",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Andersos/api.andersos.net.git"
+  },
+  "license": "MIT",
+  "scripts": {
+    "test": "npm run lint && ./node_modules/.bin/mocha --recursive test/*",
+    "lint": "eslint ."
+  },
+  "devDependencies": {
+    "eslint": "^1.7.1",
+    "eslint-config-andersos": "^0.1.0",
+    "mocha": "^2.3.3"
+  }
+}
