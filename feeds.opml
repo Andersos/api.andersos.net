@@ -14,6 +14,7 @@
           <outline type="rss" title="Geek and poke" text="Geek and poke" htmlUrl="http://geek-and-poke.com/" xmlUrl="http://feeds.feedburner.com/GeekAndPoke"/>
           
           http://wumo.com/wumo?view=rss
+          http://www.aftenposten.no/rss/?kat=digital
           http://blog.vullum.io/rss/
           http://zachholman.com/atom.xml
           http://feeds.feedburner.com/FunctioningForm
