@@ -54,7 +54,7 @@
 {"isbn":9780596158736,"name":"JavaScript: The Good Parts","tags":["to-read","O'Reilly"]},
 {"isbn":9780596522346,"name":"Slide:ology","tags":["to-read","bookshelf"]},
 {"isbn":9780596529307,"name":"High Performance Web Sites","tags":["to-read","bookshelf"]},
-{"isbn":9780615314464,"name":"Xkcd","tags":["read","bookshelf"]"read":"2009-11-30","thumbnail":"https://d.gr-assets.com/books/1328833276l/6902644.jpg"},
+{"isbn":9780615314464,"name":"Xkcd","tags":["read","bookshelf"],"read":"2009-11-30","thumbnail":"https://d.gr-assets.com/books/1328833276l/6902644.jpg"},
 {"isbn":9780618918249,"name":"The God Delusion","tags":["to-read","Audible"]},
 {"isbn":9780670921607,"name":"The Lean Startup","tags":["to-read","Audible"]},
 {"isbn":9780674430006,"name":"Capital in the Twenty First Century","tags":["to-read","Audible"]},
