@@ -1,8 +1,8 @@
 [
-{"name":"$#*! My Dad Says","lastWatched":"S01E18"},
-{"name":"1600 Penn","lastWatched":"S01E13"},
-{"name":"8 Simple Rules","lastWatched":"S03E24"},
-{"name":"9 Av 10 Nordmenn","lastWatched":"S03E13"},
+{"name":"$#*! My Dad Says","lastWatched":"S01E18","cancelled":true},
+{"name":"1600 Penn","lastWatched":"S01E13","cancelled":true},
+{"name":"8 Simple Rules","lastWatched":"S03E24","cancelled":true},
+{"name":"9 Av 10 Nordmenn","lastWatched":"S03E13","cancelled":true},
 {"name":"American Dad!","stillWatching":1,"lastWatched":"S09E20"},
 {"name":"Angel From Hell","lastWatched":"S00E00"},
 {"name":"Arrested Development","stillWatching":0,"lastWatched":"S01E22"},
