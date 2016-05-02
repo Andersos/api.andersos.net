@@ -702,5 +702,7 @@
 {"date":"2016-04-26","steps":6842,"distance (km)":5.64,"Calories":237},
 {"date":"2016-04-27","steps":9407,"distance (km)":7.72,"Calories":326},
 {"date":"2016-04-28","steps":6194,"distance (km)":5.04,"Calories":212},
-{"date":"2016-04-29","steps":12176,"distance (km)":11.1,"Calories":573}
+{"date":"2016-04-29","steps":12176,"distance (km)":11.1,"Calories":573},
+{"date":"2016-04-30","steps":5143,"distance (km)":4.01,"Calories":168},
+{"date":"2016-05-01","steps":13099,"distance (km)":12.91,"Calories":833}
 ]
