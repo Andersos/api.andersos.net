@@ -79,7 +79,7 @@
 {"isbn":9781118007525,"name":"Mindhacker","tags":["to-read","kindle"],"thumbnail":"https://d.gr-assets.com/books/1348699347l/10370455.jpg"},
 {"isbn":9781118026694,"name":"Professional JavaScript for Web Developers","tags":["to-read","kindle"],"thumbnail":"https://d.gr-assets.com/books/1172064302l/135437.jpg"},
 {"isbn":9781118509234,"name":"The 12 Week Year","tags":["to-read","audible"],"thumbnail":"https://d.gr-assets.com/books/1302134541l/10009377.jpg"},
-{"isbn":9781250062581,"name":"No place to hide","tags":["to-read","audible"],"thumbnail":"https://d.gr-assets.com/books/1383352779l/18213403.jpg"},
+{"isbn":9781250062581,"name":"No place to hide","tags":["to-read","audible"],"next":true,"thumbnail":"https://d.gr-assets.com/books/1383352779l/18213403.jpg"},
 {"isbn":9781400034239,"name":"The Ten Most Beautiful Experiments","tags":["to-read","kindle"],"thumbnail":"https://d.gr-assets.com/books/1320432643l/2200247.jpg"},
 {"isbn":9781400079148,"name":"The Lost Symbol","tags":["to-read", "audible", "kanskje lest?"],"thumbnail":"https://d.gr-assets.com/books/1358274396l/6411961.jpg"},
 {"isbn":9781407109367,"name":"Catching Fire","tags":["read","kindle","audible"],"read":"2012-09-07","thumbnail":"https://d.gr-assets.com/books/1358273780l/6148028.jpg"},
