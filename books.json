@@ -28,7 +28,7 @@
 {"isbn":9780307346605,"name":"World War Z","tags":["read","audible"],"read":"2012-12-12","thumbnail":"https://d.gr-assets.com/books/1386328204l/8908.jpg"},
 {"isbn":9780307474278,"name":"The Da Vinci Code","tags":["read"],"read":"2005-04-19","thumbnail":"https://d.gr-assets.com/books/1303252999l/968.jpg"},
 {"isbn":9780307887436,"name":"Ready Player One","tags":["to-read"],"thumbnail":"http://pictures.abebooks.com/isbn/9780307887436-uk.jpg"},
-{"isbn":9780307947055,"name":"The New Digital Age","tags":["to-read","audible"]},
+{"isbn":9780307947055,"name":"The New Digital Age","tags":["to-read","audible"],"next":true,"thumbnail":"https://d.gr-assets.com/books/1364816597l/16096109.jpg"},
 {"isbn":9780307948113,"name":"The Fear Index","tags":["to-read","audible"],"thumbnail":"https://d.gr-assets.com/books/1320541700l/11429709.jpg"},
 {"isbn":9780312263126,"name":"Digital Fortress","tags":["read","bookshelf"],"read":"2007","thumbnail":"https://d.gr-assets.com/books/1360095966l/11125.jpg"},
 {"isbn":9780316212182,"name":"Ghost in the Wires","tags":["to-read","audible"]},
@@ -79,7 +79,7 @@
 {"isbn":9781118007525,"name":"Mindhacker","tags":["to-read","kindle"],"thumbnail":"https://d.gr-assets.com/books/1348699347l/10370455.jpg"},
 {"isbn":9781118026694,"name":"Professional JavaScript for Web Developers","tags":["to-read","kindle"],"thumbnail":"https://d.gr-assets.com/books/1172064302l/135437.jpg"},
 {"isbn":9781118509234,"name":"The 12 Week Year","tags":["to-read","audible"],"thumbnail":"https://d.gr-assets.com/books/1302134541l/10009377.jpg"},
-{"isbn":9781250062581,"name":"No place to hide","tags":["to-read","audible"],"reading":true,"thumbnail":"https://d.gr-assets.com/books/1383352779l/18213403.jpg"},
+{"isbn":9781250062581,"name":"No place to hide","tags":["read","audible"],"read":"2016-05-18","rating":8,"thumbnail":"https://d.gr-assets.com/books/1383352779l/18213403.jpg"},
 {"isbn":9781400034239,"name":"The Ten Most Beautiful Experiments","tags":["to-read","kindle"],"thumbnail":"https://d.gr-assets.com/books/1320432643l/2200247.jpg"},
 {"isbn":9781400079148,"name":"The Lost Symbol","tags":["to-read", "audible", "kanskje lest?"],"thumbnail":"https://d.gr-assets.com/books/1358274396l/6411961.jpg"},
 {"isbn":9781407109367,"name":"Catching Fire","tags":["read","kindle","audible"],"read":"2012-09-07","thumbnail":"https://d.gr-assets.com/books/1358273780l/6148028.jpg"},
@@ -142,5 +142,12 @@
 {"isbn":9788282820523,"name":"Placebodefekten","tags":["to-read"],"thumbnail":"https://d.gr-assets.com/books/1378249554l/18455399.jpg"},
 {"isbn":9788299885188,"name":"The social guidebook to Norway","tags":["to-read"],"thumbnail":"https://d.gr-assets.com/books/1421872304l/24625001.jpg"},
 {"isbn":9788299926713,"name":"Innovasjon i praksis","tags":["to-read","bookshelf"],"thumbnail":"https://d.gr-assets.com/books/1446482701l/27413943.jpg"},
-{"isbn":9788777415326,"name":"Løperens nye håndbok","tags":["to-read","bookshelf"],"thumbnail":"http://api.andersos.net/assets/9788777415326.jpg"}
+{"isbn":9788777415326,"name":"Løperens nye håndbok","tags":["to-read","bookshelf"],"thumbnail":"http://api.andersos.net/assets/9788777415326.jpg"},
+{"isbn":9780955683640,"name":"Impact Mapping","tags":["to-read"],"thumbnail":"https://d.gr-assets.com/books/1350145559l/16084015.jpg"},
+{"isbn":9780932633439,"name":"Peopleware","tags":["to-read"],"thumbnail":"https://d.gr-assets.com/books/1386925395l/67825.jpg"},
+{"isbn":9781449302443,"name":"Team Geek","tags":["to-read"],"thumbnail":"https://d.gr-assets.com/books/1341845671l/14514115.jpg"},
+{"isbn":9781455556618,"name":"Marissa Mayer and the Fight to Save Yahoo!","tags":["to-read"],"thumbnail":"https://d.gr-assets.com/books/1409613156l/22608584.jpg"},
+{"isbn":9780804139298,"name":"Zero to One: Notes on Startups, or How to Build the Future","tags":["to-read"],"thumbnail":"https://d.gr-assets.com/books/1414347376l/18050143.jpg"},
+{"isbn":9780062301260,"name":"Elon Musk: Tesla, SpaceX, and the Quest for a Fantastic Future","tags":["to-read"],"thumbnail":"https://d.gr-assets.com/books/1444831210l/22535480.jpg"},
+{"isbn":9781591842804,"name":"Start with Why: How Great Leaders Inspire Everyone to Take Action","tags":["to-read"],"thumbnail":"https://d.gr-assets.com/books/1360936414l/7108725.jpg"}
 ]
