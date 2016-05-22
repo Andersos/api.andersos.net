@@ -16,9 +16,6 @@ const muiTheme = getMuiTheme({
 });
 
 class Main extends React.Component {
-  constructor (props, context) {
-    super(props, context);
-  }
 
   render () {
     return (
@@ -26,15 +23,15 @@ class Main extends React.Component {
       <div>
       <AppBar title='API' showMenuIconButton={false} />
       <List>
-      <ListItem primaryText="Activity (data)" key="Activity data" href="/activity.json" />
-      <ListItem primaryText="Activity (dashboard)" key="Activity dash" href="http://andersos.net/2016/04/17/3000000/" />
-      <ListItem primaryText="Boardgames (data)" key="Boardgames data" href="/boardgames.json" />
-      <ListItem primaryText="Boardgames (dashboard)" key="Boardgames dash" href="http://boardgames.andersos.net" />
-      <ListItem primaryText="Books (data)" key="Books data" href="/books.json" />
-      <ListItem primaryText="Books (dashboard)" key="Books dash" href="http://books.andersos.net" />
-      <ListItem primaryText="Podcasts (data)" key="Podcasts" href="/podcasts.json" />
-      <ListItem primaryText="Series (data)" key="Series data" href="/series.json" />
-      <ListItem primaryText="Series (dashboard)" key="Series dash" href="http://series.andersos.net" />
+      <ListItem primaryText='Activity (data)' key='Activity data' href='/activity.json' />
+      <ListItem primaryText='Activity (dashboard)' key='Activity dash' href='http://andersos.net/2016/04/17/3000000/' />
+      <ListItem primaryText='Boardgames (data)' key='Boardgames data' href='/boardgames.json' />
+      <ListItem primaryText='Boardgames (dashboard)' key='Boardgames dash' href='http://boardgames.andersos.net' />
+      <ListItem primaryText='Books (data)' key='Books data' href='/books.json' />
+      <ListItem primaryText='Books (dashboard)' key='Books dash' href='http://books.andersos.net' />
+      <ListItem primaryText='Podcasts (data)' key='Podcasts' href='/podcasts.json' />
+      <ListItem primaryText='Series (data)' key='Series data' href='/series.json' />
+      <ListItem primaryText='Series (dashboard)' key='Series dash' href='http://series.andersos.net' />
       </List>
       </div>
       </MuiThemeProvider>
