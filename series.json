@@ -78,8 +78,8 @@
 {"name":"Lilyhammer","lastWatched":"S02E08"},
 {"name":"Limitless","lastWatched":"S01E22","thumbnail":"https://upload.wikimedia.org/wikipedia/en/a/a2/Limitless_TV_series.png","cancelled":true},
 {"name":"Lost","lastWatched":"S06E18","cancelled":true},
-{"name":"Love","lastWatched":"S01E10"},
 {"name":"Louie","lastWatched":"S00E00"},
+{"name":"Love","lastWatched":"S01E10"},
 {"name":"Lyngbø Og Hærlands Big Bang","lastWatched":"S02E07","cancelled":true},
 {"name":"Mad Men","lastWatched":"S03E05","ignored":true},
 {"name":"Mammon","lastWatched":"S01E06"},
@@ -98,6 +98,7 @@
 {"name":"Orphan Black","lastWatched":"S00E00"},
 {"name":"Outsourced","lastWatched":"S01E22","cancelled":true},
 {"name":"Partners (2012)","lastWatched":"S01E13","cancelled":true},
+{"name":"Penn & Teller: Fool Us","lastWatched":"S00E00"}
 {"name":"Person of Interest","lastWatched":"S02E22"},
 {"name":"Portkode","lastWatched":"S02E08"},
 {"name":"Raising Hope","lastWatched":"S00E00"},
@@ -148,5 +149,4 @@
 {"name":"Video Game High School (VGHS)","lastWatched":"S03E06","cancelled":true},
 {"name":"Wet Hot American Summer: First Day of Camp","lastWatched":"S00E00"},
 {"name":"Whitney","lastWatched":"S02E16","cancelled":true},
-{"name":"Penn & Teller: Fool Us","lastWatched":"S00E00"}
 ]
