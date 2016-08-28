@@ -47,7 +47,7 @@
 {"isbn":9780470876411,"name":"Business Model Generation: A Handbook for Visionaries, Game Changers, and Challengers","tags":["kindle"]},
 {"isbn":9780486275437,"name":"Alice's Adventures in Wonderland","tags":["kindle"]},
 {"isbn":9780544272996,"name":"What If?: Serious Scientific Answers to Absurd Hypothetical Questions","tags":["kindle"]},
-{"isbn":9780544668256,"name":"Thing Explainer: Complicated Stuff in Simple Words","tags":["kindle","to-read"],"next":true,"thumbnail":"https://xkcd.com/thing-explainer/ThingExplainerCover.png"},
+{"isbn":9780544668256,"name":"Thing Explainer: Complicated Stuff in Simple Words","tags":["kindle","to-read","bookshelf"],"next":true,"thumbnail":"https://xkcd.com/thing-explainer/ThingExplainerCover.png"},
 {"isbn":9780545663267,"name":"Mockingjay","tags":["read","kindle","audible"],"read":"2012-10-20","thumbnail":"https://d.gr-assets.com/books/1358275419l/7260188.jpg"},
 {"isbn":9780547978840,"name":"The Little Prince","tags":["to-read","kindle","audible"]},
 {"isbn":9780553385465,"name":"A Briefer History of Time","tags":["to-read","bookshelf"]},
@@ -140,7 +140,7 @@
 {"isbn":9788252567557,"name":"Det hvite hotellet","tags":["to-read"],"thumbnail":"http://www.bokklubben.no/SamboWeb/servlet/VisBildeServlet?bildeId=335488"},
 {"isbn":9788271461447,"name":"Sun Tzus The art of war og kunsten å lede","tags":["to-read","bookshelf"],"thumbnail":"http://www.norli.no/wcsstore/ExtendedSitesCatalogAssetStore/images/catalog/nl/s160/DNBB/9788271461447.jpg"},
 {"isbn":9788282820523,"name":"Placebodefekten","tags":["to-read"],"thumbnail":"https://d.gr-assets.com/books/1378249554l/18455399.jpg"},
-{"isbn":9788299885188,"name":"The social guidebook to Norway","tags":["to-read"],"thumbnail":"https://d.gr-assets.com/books/1421872304l/24625001.jpg"},
+{"isbn":9788299885188,"name":"The social guidebook to Norway","tags":["read","bookshelf"],"rating":4,"thumbnail":"https://d.gr-assets.com/books/1421872304l/24625001.jpg"},
 {"isbn":9788299926713,"name":"Innovasjon i praksis","tags":["to-read","bookshelf"],"thumbnail":"https://d.gr-assets.com/books/1446482701l/27413943.jpg"},
 {"isbn":9788777415326,"name":"Løperens nye håndbok","tags":["to-read","bookshelf"],"thumbnail":"http://api.andersos.net/assets/9788777415326.jpg"},
 {"isbn":9780955683640,"name":"Impact Mapping","tags":["to-read"],"thumbnail":"https://d.gr-assets.com/books/1350145559l/16084015.jpg"},
@@ -151,5 +151,9 @@
 {"isbn":9780062301260,"name":"Elon Musk: Tesla, SpaceX, and the Quest for a Fantastic Future","tags":["to-read"],"thumbnail":"https://d.gr-assets.com/books/1444831210l/22535480.jpg"},
 {"isbn":9781591842804,"name":"Start with Why: How Great Leaders Inspire Everyone to Take Action","tags":["to-read"],"thumbnail":"https://d.gr-assets.com/books/1360936414l/7108725.jpg"},
 {"isbn":9788245018035,"name":"Digital strategi for alle","tags":["to-read"],"thumbnail":"http://dizw242ufxqut.cloudfront.net/images/product/book/book/image604/P20883317_frntl.jpg"},
-{"isbn":9783945749432,"name":"Inclusive Design Patterns","tags":["to-read"],"thumbnail":"https://www.smashingmagazine.com/wp-content/uploads/2016/06/cover-inclusive-design-patterns-1200-opt-1.jpg"}
+{"isbn":9783945749432,"name":"Inclusive Design Patterns","tags":["to-read"],"thumbnail":"https://www.smashingmagazine.com/wp-content/uploads/2016/06/cover-inclusive-design-patterns-1200-opt-1.jpg"},
+{"isbn":9788275477628,"name":"Kokkelære","tags":["to-read"],"next":true,"thumbnail":"https://d2arxad8u2l0g7.cloudfront.net/books/1464460020l/30308239.jpg"},
+{"isbn":9788282821216,"name":"Når livet er kjipt - en håndbok for unge folk","tags":["to-read","bookshelf"],"thumbnail":"https://d2arxad8u2l0g7.cloudfront.net/books/1441532255l/26236138.jpg"},
+{"isbn":9788215015392,"name":"Til forsvar for personvernet","tags":["to-read","bookshelf"],"thumbnail":"https://d2arxad8u2l0g7.cloudfront.net/books/1472402091l/31695380.jpg"},
+{"isbn":9788251656375,"name":"The Norwegian Hytte","tags":["to-read","bookshelf"],"next":true,"thumbnail":"https://d2arxad8u2l0g7.cloudfront.net/books/1380981715l/18628625.jpg"}
 ]
