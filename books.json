@@ -155,7 +155,7 @@
 {"isbn":9788275477628,"name":"Kokkelære","tags":["to-read"],"next":true,"thumbnail":"https://d2arxad8u2l0g7.cloudfront.net/books/1464460020l/30308239.jpg"},
 {"isbn":9788282821216,"name":"Når livet er kjipt - en håndbok for unge folk","tags":["to-read","bookshelf"],"thumbnail":"https://d2arxad8u2l0g7.cloudfront.net/books/1441532255l/26236138.jpg"},
 {"isbn":9788215015392,"name":"Til forsvar for personvernet","tags":["to-read","bookshelf"],"thumbnail":"https://d2arxad8u2l0g7.cloudfront.net/books/1472402091l/31695380.jpg"},
-{"isbn":9788251656375,"name":"The Norwegian Hytte","tags":["read","bookshelf"],"read":"2016-09-02" ,"thumbnail":"https://d2arxad8u2l0g7.cloudfront.net/books/1380981715l/18628625.jpg"},
+{"isbn":9788251656375,"name":"The Norwegian Hytte","tags":["read","bookshelf"],"read":"2016-09-02","rating":6, ,"thumbnail":"https://d2arxad8u2l0g7.cloudfront.net/books/1380981715l/18628625.jpg"},
 {"isbn":9781593273842,"name":"The Art of R Programming: A Tour of Statistical Software Design","tags":["humble-bundle","ebook","kindle"],"thumbnail":"https://d2arxad8u2l0g7.cloudfront.net/books/1328753512l/11746626.jpg"},
 {"isbn":9781593275990,"name":"Automate the Boring Stuff with Python: Practical Programming for Total Beginners","tags":["humble-bundle","ebook","kindle"],"thumbnail":"https://d2arxad8u2l0g7.cloudfront.net/books/1418768948l/22514127.jpg"},
 {"isbn":9781593275914,"name":"Clojure for the Brave and True: Learn the Ultimate Language and Become a Better Programmer","tags":["humble-bundle","ebook","kindle"],"thumbnail":"https://d2arxad8u2l0g7.cloudfront.net/books/1441496147l/26234107.jpg"}
