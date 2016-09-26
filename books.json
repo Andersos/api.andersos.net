@@ -8,7 +8,7 @@
 {"isbn":0,"name":"An Introduction to Programming in Go","tags":["to-read","link"],"link":"https://www.golang-book.com/books/intro","thumbnail":"https://d.gr-assets.com/books/1366744500l/15992715.jpg"},
 {"isbn":0,"name":"The Leader’s Guide - Eric Ries","tags":["to-read"],"thumbnail":"https://ksr-ugc.imgix.net/projects/1694890/photo-original.jpeg?v=1426265725&w=1536&h=1152&fit=crop&auto=format&q=92&s=da476ac23590d4d59e07bf0e6d22871d"},
 {"isbn":0,"name":"The Startup Way - Eric Ries","tags":["to-read"],"thumbnail":"https://ksr-ugc.imgix.net/projects/1694890/photo-original.jpeg?v=1426265725&w=1536&h=1152&fit=crop&auto=format&q=92&s=da476ac23590d4d59e07bf0e6d22871d"},
-{"isbn":140008381,"name":"Animal Farm","tags":["to-read","bookshelf"],"next":true,"thumbnail":"https://d.gr-assets.com/books/1424037542l/7613.jpg"},
+{"isbn":140008381,"name":"Animal Farm","tags":["read","bookshelf","kindle"],"read":"2016-09-25","rating":10,"thumbnail":"https://d.gr-assets.com/books/1424037542l/7613.jpg"},
 {"isbn":8200012573,"name":"Logikk oppgaver til Arne Næss","tags":["to-read","bookshelf"]},
 {"isbn":8276830560,"name":"Vi spiller kort og legger kabal","tags":["read","bookshelf"],"read":"2000","thumbnail":"https://static.bokelskere.no/8e838dbf2272221ea24790d7f7e7e394ac0da60f48afe4458869b8ff.jpeg"},
 {"isbn":9780060512804,"name":"Cryptonomicon","tags":["Google Play","to-read","audible"],"thumbnail":"https://books.google.com/books/content?id=qYAmfUBPN-UC&printsec=frontcover&img=1&zoom=1"},
