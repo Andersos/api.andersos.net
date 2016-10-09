@@ -4,8 +4,8 @@
 {"asin":"B006431ADS","name":"Simplify","tags":["to-read","kindle"],"index":1,"thumbnail":"http://d.gr-assets.com/books/1328040364l/13049773.jpg"},
 {"asin":"B00C2UUJX4","name":"How to talk to girls at parties","index":2,"tags":["to-read","kindle"],"thumbnail":"https://d.gr-assets.com/books/1434003330l/13378509.jpg"},
 {"asin":"B00HN9H3WY","name":"The Nerd's Guide to Being Confident","tags":["to-read","audible"],"thumbnail":"https://d.gr-assets.com/books/1386593678l/19309829.jpg"},
-{"isbn":"B006X2QEQS","name":"The Linux Command Line: A Complete Introduction","tags":["humble-bundle","ebook","kindle"],"thumbnail":"https://d.gr-assets.com/books/1384804026l/18661102.jpg"}
-{"isbn":"B00I87B1H8","name":"The Principles of Object-Oriented JavaScript","tags":["humble-bundle","ebook","kindle","to-read"],"thumbnail":"https://d.gr-assets.com/books/1392225080l/20799234.jpg"}
+{"isbn":"B006X2QEQS","name":"The Linux Command Line: A Complete Introduction","tags":["humble-bundle","ebook","kindle"],"thumbnail":"https://d.gr-assets.com/books/1384804026l/18661102.jpg"},
+{"isbn":"B00I87B1H8","name":"The Principles of Object-Oriented JavaScript","tags":["humble-bundle","ebook","kindle","to-read"],"thumbnail":"https://d.gr-assets.com/books/1392225080l/20799234.jpg"},
 {"isbn":0,"name":"An Introduction to Programming in Go","tags":["to-read","link"],"link":"https://www.golang-book.com/books/intro","thumbnail":"https://d.gr-assets.com/books/1366744500l/15992715.jpg"},
 {"isbn":0,"name":"Front-end Handbook","link":"https://www.gitbook.com/star/book/frontendmasters/front-end-handbook"},
 {"isbn":0,"name":"The Leader’s Guide - Eric Ries","tags":["to-read"],"thumbnail":"https://ksr-ugc.imgix.net/projects/1694890/photo-original.jpeg?v=1426265725&w=1536&h=1152&fit=crop&auto=format&q=92&s=da476ac23590d4d59e07bf0e6d22871d"},
@@ -112,19 +112,19 @@
 {"isbn":9781502322401,"name":"Making It Right","tags":["to-read","kindle"],"thumbnail":"https://d.gr-assets.com/books/1423531378l/24895087.jpg"},
 {"isbn":9781591842804,"name":"Start with Why: How Great Leaders Inspire Everyone to Take Action","tags":["to-read"],"thumbnail":"https://d.gr-assets.com/books/1360936414l/7108725.jpg"},
 {"isbn":9781591845577,"name":"The Personal MBA","tags":["to-read","audible"],"thumbnail":"https://d.gr-assets.com/books/1348014445l/9512985.jpg"},
-{"isbn":9781593270032,"name":"Write Great Code, Volume 1: Understanding the Machine","tags":["humble-bundle","ebook","kindle"],"thumbnail":"https://d.gr-assets.com/books/1381963075l/44949.jpg"}
-{"isbn":9781593270650,"name":"Write Great Code, Volume 2: Thinking Low-Level, Writing High-Level","tags":["humble-bundle","ebook","kindle"],"thumbnail":"https://d.gr-assets.com/books/1390091979l/1063671.jpg"}
-{"isbn":9781593272005,"name":"Land of Lisp: Learn to Program in Lisp, One Game at a Time!","tags":["humble-bundle","ebook","kindle"],"thumbnail":"https://d.gr-assets.com/books/1403198191l/6905041.jpg"}
-{"isbn":9781593272838,"name":"Learn You A Haskell for Great Good!","tags":["humble-bundle","ebook","kindle"],"thumbnail":"https://d.gr-assets.com/books/1294497489l/6593810.jpg"}
+{"isbn":9781593270032,"name":"Write Great Code, Volume 1: Understanding the Machine","tags":["humble-bundle","ebook","kindle"],"thumbnail":"https://d.gr-assets.com/books/1381963075l/44949.jpg"},
+{"isbn":9781593270650,"name":"Write Great Code, Volume 2: Thinking Low-Level, Writing High-Level","tags":["humble-bundle","ebook","kindle"],"thumbnail":"https://d.gr-assets.com/books/1390091979l/1063671.jpg"},
+{"isbn":9781593272005,"name":"Land of Lisp: Learn to Program in Lisp, One Game at a Time!","tags":["humble-bundle","ebook","kindle"],"thumbnail":"https://d.gr-assets.com/books/1403198191l/6905041.jpg"},
+{"isbn":9781593272838,"name":"Learn You A Haskell for Great Good!","tags":["humble-bundle","ebook","kindle"],"thumbnail":"https://d.gr-assets.com/books/1294497489l/6593810.jpg"},
 {"isbn":9781593273842,"name":"The Art of R Programming: A Tour of Statistical Software Design","tags":["humble-bundle","ebook","kindle"],"thumbnail":"https://d2arxad8u2l0g7.cloudfront.net/books/1328753512l/11746626.jpg"},
-{"isbn":9781593274245,"name":"Think Like a Programmer: An Introduction to Creative Problem Solving","tags":["humble-bundle","ebook","kindle"],"thumbnail":"https://d.gr-assets.com/books/1344609981l/13590009.jpg"}
-{"isbn":9781593274351,"name":"Learn You Some Erlang for Great Good!","tags":["humble-bundle","ebook","kindle"],"thumbnail":"https://d.gr-assets.com/books/1367322047l/6718693.jpg"}
-{"isbn":9781593274917,"name":"Realm of Racket: Learn to Program, One Game at a Time!","tags":["humble-bundle","ebook","kindle"],"thumbnail":"https://d.gr-assets.com/books/1361784457l/17153511.jpg"}
-{"isbn":9781593275525,"name":"The Book of F#: Breaking Free with Managed Functional Programming","tags":["humble-bundle","ebook","kindle"],"thumbnail":"https://d.gr-assets.com/books/1384159851l/18492254.jpg"}
-{"isbn":9781593275846,"name":"Eloquent JavaScript, 2nd edition: A Modern Introduction to Programming","tags":["humble-bundle","ebook","kindle","to-read"],"thumbnail":"https://d.gr-assets.com/books/1406741001l/22843271.jpg"}
+{"isbn":9781593274245,"name":"Think Like a Programmer: An Introduction to Creative Problem Solving","tags":["humble-bundle","ebook","kindle"],"thumbnail":"https://d.gr-assets.com/books/1344609981l/13590009.jpg"},
+{"isbn":9781593274351,"name":"Learn You Some Erlang for Great Good!","tags":["humble-bundle","ebook","kindle"],"thumbnail":"https://d.gr-assets.com/books/1367322047l/6718693.jpg"},
+{"isbn":9781593274917,"name":"Realm of Racket: Learn to Program, One Game at a Time!","tags":["humble-bundle","ebook","kindle"],"thumbnail":"https://d.gr-assets.com/books/1361784457l/17153511.jpg"},
+{"isbn":9781593275525,"name":"The Book of F#: Breaking Free with Managed Functional Programming","tags":["humble-bundle","ebook","kindle"],"thumbnail":"https://d.gr-assets.com/books/1384159851l/18492254.jpg"},
+{"isbn":9781593275846,"name":"Eloquent JavaScript, 2nd edition: A Modern Introduction to Programming","tags":["humble-bundle","ebook","kindle","to-read"],"thumbnail":"https://d.gr-assets.com/books/1406741001l/22843271.jpg"},
 {"isbn":9781593275846,"name":"Eloquent JavaScript","tags":["to-read","O'Reilly","Link"],"next":true,"link":"http://eloquentjavascript.net/","thumbnail":"https://d.gr-assets.com/books/1308260856l/8910666.jpg"},
 {"isbn":9781593275853,"name":"If Hemingway Wrote JavaScript","tags":["humble-bundle","ebook","kindle","to-read"],"thumbnail":"https://d.gr-assets.com/books/1411952988l/21487480.jpg"}
-{"isbn":9781593275914,"name":"Clojure for the Brave and True: Learn the Ultimate Language and Become a Better Programmer","tags":["humble-bundle","ebook","kindle"],"thumbnail":"https://d2arxad8u2l0g7.cloudfront.net/books/1441496147l/26234107.jpg"}
+{"isbn":9781593275914,"name":"Clojure for the Brave and True: Learn the Ultimate Language and Become a Better Programmer","tags":["humble-bundle","ebook","kindle"],"thumbnail":"https://d2arxad8u2l0g7.cloudfront.net/books/1441496147l/26234107.jpg"},
 {"isbn":9781593275990,"name":"Automate the Boring Stuff with Python: Practical Programming for Total Beginners","tags":["humble-bundle","ebook","kindle"],"thumbnail":"https://d2arxad8u2l0g7.cloudfront.net/books/1418768948l/22514127.jpg"},
 {"isbn":9781593276041,"name":"Python Playground: Geeky Projects for the Curious Programmer","tags":["humble-bundle","ebook","kindle"],"thumbnail":"https://d.gr-assets.com/books/1444635675l/22978167.jpg"},
 {"isbn":9781782166320,"name":"Mastering Node.js","tags":["to-read","kindle"],"thumbnail":"https://d.gr-assets.com/books/1387745852l/19139601.jpg"},
