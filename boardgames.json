@@ -1,10 +1,13 @@
 [
 {"name":"Alias","time":"45","minplayers":4,"maxplayers":12,"tags":"Spillkisten","link":"https://boardgamegeek.com/boardgameexpansion/103017/alias-new-cards","thumbnail":"https://cf.geekdo-images.com/images/pic1043639.jpg"},
+{"name":"And Then We Held Hands","time":"45","minplayers":2,"maxplayers":2,"link":"https://boardgamegeek.com/boardgame/153999/and-then-we-held-hands","thumbnail":"https://cf.geekdo-images.com/bP80YfzlkLXaD7KAvC2E2zCf9I0=/fit-in/246x300/pic2621938.jpg"},
 {"name":"Betrayal At House On The Hill","time":"60","minplayers":3,"maxplayers":6,"tags":"Spillkisten","link":"https://boardgamegeek.com/boardgame/10547/betrayal-house-hill","thumbnail":"https://cf.geekdo-images.com/images/pic828598.jpg"},
 {"name":"Bezzerwizzer","time":"45","minplayers":2,"maxplayers":12,"tags":"Spillkisten","link":"https://boardgamegeek.com/boardgame/32441/bezzerwizzer","thumbnail":"http://api.andersos.net/assets/bezzerwizzer.jpg"},
+{"name":"Bohnanza","time":"45","minplayers":2,"maxplayers":7,"link":"https://boardgamegeek.com/boardgame/11/bohnanza","thumbnail":"https://cf.geekdo-images.com/_KP8uVds-gbz3-R08Y_JCO1Ovwg=/fit-in/246x300/pic69366.jpg"},
 {"name":"Cards Against Humanity","time":"30","minplayers":4,"maxplayers":12,"tags":"Spillkisten","link":"https://boardgamegeek.com/boardgame/50381/cards-against-humanity","thumbnail":"http://api.andersos.net/assets/cardsagainthumanity.jpg"},
 {"name":"Castle Panic","time":"60","minplayers":1,"maxplayers":6,"tags":"Spillkisten","link":"https://boardgamegeek.com/boardgame/43443/castle-panic","thumbnail":"https://cf.geekdo-images.com/images/pic496923_md.jpg"},
 {"name":"Cluedo","time":"45","minplayers":3,"maxplayers":6,"tags":"Spillkisten","link":"https://boardgamegeek.com/boardgame/1294/clue","thumbnail":"https://cf.geekdo-images.com/images/pic2640657_md.jpg"},
+{"name":"Codenames","time":"15","minplayers":2,"maxplayers":8,"link":"https://boardgamegeek.com/boardgame/178900/codenames","thumbnail":"https://cf.geekdo-images.com/j3KnNONTvPaOqyY_pwhS9C9s5bk=/fit-in/246x300/pic2582929.jpg"},
 {"name":"Coup","time":"15","minplayers":2,"maxplayers":6,"tags":"Spillkisten","link":"https://boardgamegeek.com/boardgame/131357/coup","thumbnail":"https://cf.geekdo-images.com/images/pic2016054_md.jpg"},
 {"name":"Dead of Winter","time":"60","minplayers":2,"maxplayers":5,"tags":"Spillkisten","link":"https://boardgamegeek.com/boardgame/131357/coup","thumbnail":"https://cf.geekdo-images.com/images/pic3016500_md.jpg"},
 {"name":"Dixit","time":"30","minplayers":3,"maxplayers":6,"tags":"Spillkisten","link":"https://boardgamegeek.com/boardgame/39856/dixit","thumbnail":"https://cf.geekdo-images.com/images/pic455883_md.jpg"},
@@ -24,6 +27,7 @@
 {"name":"Johari","time":60,"minplayers":2,"maxplayers":4,"tags":"Spillkisten","thumbnail":"https://cf.geekdo-images.com/images/pic2068216_md.jpg","link":"https://boardgamegeek.com/boardgame/161965/johari"},
 {"name":"King of Tokyo","time":"30","minplayers":2,"maxplayers":6,"tags":"Spillkisten","link":"https://boardgamegeek.com/boardgame/70323/king-tokyo","thumbnail":"https://cf.geekdo-images.com/images/pic761434.jpg"},
 {"name":"Ligretto","time":"10","minplayers":2,"maxplayers":4,"tags":"Spillkisten","link":"https://boardgamegeek.com/boardgame/943/ligretto","thumbnail":"http://www.gt-holding.de/sites/default/files/ligretto_packshot_0.gif"},
+{"name":"Lords of Waterdeep","time":"60","minplayers":2,"maxplayers":5,"link":"https://boardgamegeek.com/boardgame/110327/lords-waterdeep","thumbnail":"https://cf.geekdo-images.com/VYYUbyIZHFJSUCS9Os2ndcV041k=/fit-in/246x300/pic1116080.jpg"},
 {"name":"Love letter","time":"20","minplayers":2,"maxplayers":4,"tags":"Spillkisten","link":"https://boardgamegeek.com/boardgame/129622/love-letter","thumbnail":"https://cf.geekdo-images.com/images/pic1401448_md.jpg"},
 {"name":"Machi Koro","time":"30","minplayers":2,"maxplayers":4,"tags":"Spillkisten","link":"https://boardgamegeek.com/boardgame/143884/machi-koro","thumbnail":"https://cf.geekdo-images.com/images/pic1992476_md.jpg"},
 {"name":"Munchkin","time":"60","minplayers":3,"maxplayers":6,"tags":"Spillkisten","link":"https://boardgamegeek.com/boardgame/1927/munchkin","thumbnail":"https://cf.geekdo-images.com/images/pic1871016_md.jpg"},
@@ -43,5 +47,6 @@
 {"name":"The Hare and the Tortoise","time":"15","minplayers":2,"maxplayers":5,"tags":"Spillkisten","link":"https://boardgamegeek.com/boardgame/130176/tales-games-hare-tortoise","thumbnail":"https://cf.geekdo-images.com/images/pic2433578_md.jpg"},
 {"name":"Ticket To Ride Europe","time":"30","minplayers":2,"maxplayers":5,"tags":"Spillkisten","link":"https://boardgamegeek.com/boardgame/14996/ticket-ride-europe","thumbnail":"http://ecx.images-amazon.com/images/I/71ohIPFjLJL.jpg"},
 {"name":"Tokaido","time":"45","minplayers":2,"maxplayers":5,"tags":"Spillkisten","link":"https://boardgamegeek.com/boardgame/123540/tokaido","thumbnail":"https://cf.geekdo-images.com/images/pic1293719_md.jpg"},
-{"name":"Uno","time":"20","minplayers":2,"maxplayers":5,"tags":"Spillkisten","link":"https://boardgamegeek.com/boardgame/2223/uno","thumbnail":"https://cf.geekdo-images.com/images/pic73103.jpg"}
+{"name":"Uno","time":"20","minplayers":2,"maxplayers":5,"tags":"Spillkisten","link":"https://boardgamegeek.com/boardgame/2223/uno","thumbnail":"https://cf.geekdo-images.com/images/pic73103.jpg"},
+{"name":"Zombie Dice","time":"10","minplayers":2,"maxplayers":10,"link":"https://boardgamegeek.com/boardgame/62871/zombie-dice","thumbnail":"https://cf.geekdo-images.com/cIR4XIDj_RkC4tsBS4AR5huzt9c=/fit-in/246x300/pic2664015.jpg"}
 ]
