@@ -919,5 +919,20 @@
 {"date":"2016-11-29","steps":7589,"distance (km)":5.73,"calories":232},
 {"date":"2016-11-30","steps":9133,"distance (km)":6.85,"calories":277},
 {"date":"2016-12-01","steps":8482,"distance (km)":6.47,"calories":262},
-{"date":"2016-12-02","steps":2865,"distance (km)":2.32,"calories":93}
+{"date":"2016-12-02","steps":7435,"distance (km)":5.72,"calories":231},
+{"date":"2016-12-03","steps":5311,"distance (km)":3.96,"calories":160},
+{"date":"2016-12-04","steps":1381,"distance (km)":1.03,"calories":41},
+{"date":"2016-12-05","steps":5918,"distance (km)":4.47,"calories":181},
+{"date":"2016-12-06","steps":7289,"distance (km)":5.67,"calories":230},
+{"date":"2016-12-07","steps":6132,"distance (km)":4.61,"calories":186},
+{"date":"2016-12-08","steps":7711,"distance (km)":5.87,"calories":239},
+{"date":"2016-12-09","steps":10663,"distance (km)":8.21,"calories":347},
+{"date":"2016-12-10","steps":8620,"distance (km)":6.91,"calories":337},
+{"date":"2016-12-11","steps":4281,"distance (km)":3.27,"calories":132},
+{"date":"2016-12-12","steps":7721,"distance (km)":6.02,"calories":244},
+{"date":"2016-12-13","steps":4610,"distance (km)":3.48,"calories":141},
+{"date":"2016-12-14","steps":5421,"distance (km)":4.12,"calories":167},
+{"date":"2016-12-15","steps":690,"distance (km)":0.51,"calories":20},
+{"date":"2016-12-16","steps":8091,"distance (km)":6.09,"calories":245},
+{"date":"2016-12-17","steps":516,"distance (km)":0.38,"calories":15}
 ]
