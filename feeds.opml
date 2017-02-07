@@ -14,8 +14,6 @@
           <outline type="rss" title="Geek and poke" text="Geek and poke" htmlUrl="http://geek-and-poke.com/" xmlUrl="http://feeds.feedburner.com/GeekAndPoke"/>
   
           http://yehudakatz.com/rss/
-          https://www.nngroup.com/feed/rss/
-          http://www.loopinsight.com/feed/
           http://wumo.com/wumo?view=rss
           https://www.factorio.com/blog/rss
           https://themacro.com/feed.xml
@@ -23,7 +21,6 @@
           https://www.gatesnotes.com/rss
           http://hauken.io/atom.xml
           https://feeds.feedburner.com/csswizardrycom
-          https://daringfireball.net/feeds/main
           http://www.oursuperadventure.com/feed/
           https://what-if.xkcd.com/feed.atom
           https://espen.codes/rss
@@ -98,7 +95,6 @@
           https://blog.whatwg.org/feed
           http://mmminimal.com/feed/
           http://tegnehanne.no/feed/
-          https://m.signalvnoise.com/feed
           http://feeds.feedburner.com/kjokkenfesten - http://www.kjokkenfesten.no/
           https://nrkbeta.no/feed/
           http://eslint.org/feed.xml
