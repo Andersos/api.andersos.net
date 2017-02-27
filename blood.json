@@ -8,17 +8,16 @@
 {"date":"2011.06.23","location":"St. Olavs Hospital"},
 {"date":"2011.10.14","location":"St. Olavs Hospital"},
 {"date":"2012.08.30","location":"St. Olavs Hospital"},
-{"date":"2012.12.04","location":"St. Olavs Hospital"},
-{"date":"2013.02.22","location":"St. Olavs Hospital"},
+{"date":"2012.12.04","time":"09:15","location":"St. Olavs Hospital"},
+{"date":"2013.02.22","time":"13:30","location":"St. Olavs Hospital"},
 {"date":"2016.08.29","time":"15:00","location":"Ullevål sykehus","blood":"15,2","gift":"Mumi - green"},
-{"date":"2016.11.29","time":"09:00","location":"Ullevål sykehus","blood":"14,5","gift":"Mumi - snow horse"}
+{"date":"2016.11.29","time":"09:00","location":"Ullevål sykehus","blood":"14,5","gift":"Mumi - snow horse"}.
+{"date":"2017.02.27","time":"07:45","location":"Ullevål sykehus","blood":"14,6","gift":"Mumi - orange"}
 ]
 
-2012-12-04 kl.09:15 tirsdag
-2013-02-22 kl.13:30 fredag
-2013-08-22 kl.08:00 torsdag
-2015-04-23 kl.16:00 torsdag Ullevål
-2015-07-24 kl.13:30 fredag Ullevål
-2015-10-22 kl.16:45 torsdag Ullevål
-2016-01-14 kl.10:15 torsdag Ullevlå
-2016-05-06 kl.08:45 fredag Ullevål
+
+2015-04-23 kl.16:00 torsdag Ullevål - ubekreftet
+2015-07-24 kl.13:30 fredag Ullevål - ubekreftet
+2015-10-22 kl.16:45 torsdag Ullevål - ubekreftet
+2016-01-14 kl.10:15 torsdag Ullevlå - ubekreftet
+2016-05-06 kl.08:45 fredag Ullevål - ubekreftet
