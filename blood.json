@@ -9,15 +9,14 @@
 {"date":"2011.10.14","location":"St. Olavs Hospital"},
 {"date":"2012.08.30","location":"St. Olavs Hospital"},
 {"date":"2012.12.04","time":"09:15","location":"St. Olavs Hospital"},
-{"date":"2013.02.22","time":"13:30","location":"St. Olavs Hospital"},
-{"date":"2016.08.29","time":"15:00","location":"Ullevål sykehus","blood":"15,2","gift":"Mumi - green"},
-{"date":"2016.11.29","time":"09:00","location":"Ullevål sykehus","blood":"14,5","gift":"Mumi - snow horse"}.
-{"date":"2017.02.27","time":"07:45","location":"Ullevål sykehus","blood":"14,6","gift":"Mumi - orange"}
+{"date":"2013.02.22","time":"13:30","location":"St. Olavs Hospital"},  
+{"date":"2015.04.23","time":"16:00","location":"Ullevål sykehus","BLTR":"131...","HbF":"16,1","comment":"Nyregistrering / Prøvtaking"}, 
+{"date":"2015.07.24","time":"13:30","location":"Ullevål sykehus","comment":"Annullert"}, 
+{"date":"2015.10.22","time":"16:45","location":"Ullevål sykehus","HbF":"14,9","FE...":"233"}, 
+{"date":"2016.01.14","time":"10:15","location":"Ullevål sykehus","HbF":"15,4","gift":"Mumi - green"}, 
+{"date":"2016.05.10","time":"10:00","location":"Ullevål sykehus","comment":"Annullert"},
+{"date":"2016.08.29","time":"15:00","location":"Ullevål sykehus","HbF":"15,2"},
+{"date":"2016.11.29","time":"09:00","location":"Ullevål sykehus","HbF":"14,5","gift":"Mumi - snow horse"},
+{"date":"2017.02.27","time":"07:45","location":"Ullevål sykehus","HbF":"14,6","gift":"Mumi - orange"},
+{"date":"2017.05.29","time":"09:15","location":"Ullevål sykehus","HbF":"14,8","gift":"Mumi - turkis"}
 ]
-
-
-2015-04-23 kl.16:00 torsdag Ullevål - ubekreftet
-2015-07-24 kl.13:30 fredag Ullevål - ubekreftet
-2015-10-22 kl.16:45 torsdag Ullevål - ubekreftet
-2016-01-14 kl.10:15 torsdag Ullevlå - ubekreftet
-2016-05-06 kl.08:45 fredag Ullevål - ubekreftet
