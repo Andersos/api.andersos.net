@@ -19,6 +19,7 @@
           http://blogg.kolonial.no/rss
           https://numeriskgalskap.com/feed/
           https://themacro.com/feed.xml
+          http://caitflanders.com/feed/
           http://tomorrowcorporation.com/feed
           https://www.gatesnotes.com/rss
           http://hauken.io/atom.xml
@@ -31,7 +32,6 @@
           http://nicolasgallagher.com/
           http://meowni.ca/atom.xml
           http://engineering.tumblr.com/rss
-          http://nerds.airbnb.com/feed/
           http://code.flickr.f/feed/
           http://waitbutwhy.com/feed
           https://blog.twitter.com/api/blog.rss?name=engineering
@@ -41,16 +41,13 @@
           http://www.commitstrip.com/en/feed/
           http://eirikso.com/feed/
           http://hakim.se/rss.xml
-          http://blog.appear.in/rss
           https://joreteg.com/rss.xml
           http://idaaa.no/feed/
           http://jlord.us/rss.xml
           http://maxogden.com/rss.xml
           http://myrlund.no/rss/
           https://feeds.feedburner.com/SachaGreifBlog
-          http://svanevik.me/atom.xml
           https://feeds.feedburner.com/tom-preston-werner
-          http://tomdale.net/feed/
           http://www.litt.no/rss
           http://hueniverse.com/feed/
           https://afroginthefjord.com/feed/
@@ -111,11 +108,10 @@
           http://xkcd.com/rss.xml
           http://feeds.feedburner.com/paul-irish
           https://addyosmani.com/rss.xml
-          http://dadaviz.com/feeds/latest/
           http://muan.co/feed.xml
           https://mojang.com/feed.xml
           http://tech.finn.no/atom.xml
-          http://www.dagsoras.com/feed/
+          https://www.dagsoras.com/nyheter?format=RSS
           http://onethingwell.org/rss
           http://littlebigdetails.com/rss
           https://www.firebase.com/feed.xml
@@ -124,7 +120,7 @@
           http://datagenetics.com/feed/rss.xml
           https://developer.github.com/changes.atom
           https://facebook.github.io/react/feed.xml
-          http://blog.okcupid.com/index.php/feed/
+          https://theblog.okcupid.com/feed
           http://culturedcode.com/things/blog/feed/rss.xml
           https://developer.apple.com/news/rss/news.rss
           http://feeds.feedburner.com/JohnResig
