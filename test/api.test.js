@@ -1,43 +1,44 @@
-var assert = require('assert');
-var boardgames = require('../boardgames.json');
-var books = require('../books.json');
-var series = require('../series.json');
-var activity = require('../activity.json');
+const assert = require('assert');
+const boardgames = require('../boardgames.json');
+const books = require('../books.json');
+const series = require('../series.json');
+const activity = require('../activity.json');
 
-describe('The books api', function () {
-  it('is valid JSON', function () {
-    assert(isValidJSON(books));
-  });
-});
-
-describe('The boardgames api', function () {
-  it('is valid JSON', function () {
-    assert(isValidJSON(boardgames));
-  });
-});
-
-describe('The series api', function () {
-  it('is valid JSON', function () {
-    assert(isValidJSON(series));
-  });
-});
-
-describe('The activity api', function () {
-  it('is valid JSON', function () {
-    assert(isValidJSON(activity));
-  });
-});
-
-function isValidJSON (json) {
-  return isJSON(JSON.stringify(json));
-}
-
-function isJSON (str) {
+function isJSON(str) {
   try {
     JSON.parse(str);
   } catch (e) {
+    /* eslint no-console: 0 */
     console.log(e);
     return false;
   }
   return true;
 }
+
+function isValidJSON(json) {
+  return isJSON(JSON.stringify(json));
+}
+
+describe('The books api', () => {
+  it('is valid JSON', () => {
+    assert(isValidJSON(books));
+  });
+});
+
+describe('The boardgames api', () => {
+  it('is valid JSON', () => {
+    assert(isValidJSON(boardgames));
+  });
+});
+
+describe('The series api', () => {
+  it('is valid JSON', () => {
+    assert(isValidJSON(series));
+  });
+});
+
+describe('The activity api', () => {
+  it('is valid JSON', () => {
+    assert(isValidJSON(activity));
+  });
+});
