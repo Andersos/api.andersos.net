@@ -11,7 +11,7 @@
 {"isbn":0,"name":"An Introduction to Programming in Go","tags":["to-read","link"],"link":"https://www.golang-book.com/books/intro","thumbnail":"https://d.gr-assets.com/books/1366744500l/15992715.jpg"},
 {"isbn":0,"name":"Front-end Handbook","link":"https://www.gitbook.com/star/book/frontendmasters/front-end-handbook"},
 {"isbn":0,"name":"Neural Networks and Deep Learning","link":"http://neuralnetworksanddeeplearning.com/"},
-{"isbn":0,"name":"Human Javascript","tags":["to-read","free-online"],"link":"read.humanjavascript.com","thumbnail":"http://humanjavascript.com/images/human-javascript.png"},
+{"isbn":0,"name":"Human Javascript","reading":true,"tags":["to-read","free-online"],"link":"read.humanjavascript.com","thumbnail":"http://humanjavascript.com/images/human-javascript.png"},
 {"isbn":0,"name":"The Leader’s Guide - Eric Ries","tags":["to-read"],"thumbnail":"https://ksr-ugc.imgix.net/projects/1694890/photo-original.jpeg?v=1426265725&w=1536&h=1152&fit=crop&auto=format&q=92&s=da476ac23590d4d59e07bf0e6d22871d"},
 {"isbn":0,"name":"The Startup Way - Eric Ries","tags":["to-read"],"thumbnail":"https://ksr-ugc.imgix.net/projects/1694890/photo-original.jpeg?v=1426265725&w=1536&h=1152&fit=crop&auto=format&q=92&s=da476ac23590d4d59e07bf0e6d22871d"},
 {"isbn":140008381,"name":"Animal Farm","tags":["read","bookshelf","kindle"],"read":"2016-09-25","rating":10,"thumbnail":"https://d.gr-assets.com/books/1424037542l/7613.jpg"},
@@ -169,7 +169,7 @@
 {"isbn":9781844138517,"name":"The Long Tail: How Endless Choice is Creating Unlimited Demand","tags":["read"],"read":"2010","thumbnail":"https://d.gr-assets.com/books/1437931104l/25984471.jpg"},
 {"isbn":9781940450285,"name":"Information Doesn't Want to Be Free: Laws for the Internet Age","tags":["read"],"read":"2017-04-12","rating":9,"thumbnail":"https://images.gr-assets.com/books/1413138656l/20763766.jpg"},
 {"isbn":9781943451241,"name":"F*ck Your Resume: The Revolutionary Guide to Getting Hired in the Digital Age","tags":["to-read","humble-bundle"],"thumbnail":"https://humblebundle-a.akamaihd.net/misc/files/hashed/e178b37471f1d26f4260aa14540622fb00d1b4b3.png"},
-{"isbn":9783945749432,"name":"Inclusive Design Patterns","tags":["to-read"],"thumbnail":"https://www.smashingmagazine.com/wp-content/uploads/2016/06/cover-inclusive-design-patterns-1200-opt-1.jpg"},
+{"isbn":9783945749432,"name":"Inclusive Design Patterns","reading":true,"tags":["to-read"],"thumbnail":"https://www.smashingmagazine.com/wp-content/uploads/2016/06/cover-inclusive-design-patterns-1200-opt-1.jpg"},
 {"isbn":9788202249120,"name":"Madonna-gåten","tags":["to-read","bookshelf"],"thumbnail":"https://d.gr-assets.com/books/1421173317l/24483723.jpg"},
 {"isbn":9788202343507,"name":"Praktisk brukertesting","tags":["to-read","bookshelf"],"thumbnail":"https://d.gr-assets.com/books/1462708506l/30132665.jpg"},
 {"isbn":9788202411206,"name":"Et kvart liv","tags":["to-read","bookshelf"],"thumbnail":"https://d.gr-assets.com/books/1368447922l/17912952.jpg"},
@@ -212,5 +212,6 @@
 {"isbn":9788282821216,"name":"Når livet er kjipt - en håndbok for unge folk","tags":["to-read","bookshelf"],"thumbnail":"https://d2arxad8u2l0g7.cloudfront.net/books/1441532255l/26236138.jpg"},
 {"isbn":9788299885188,"name":"The social guidebook to Norway","tags":["read","bookshelf"],"rating":4,"thumbnail":"https://d.gr-assets.com/books/1421872304l/24625001.jpg"},
 {"isbn":9788299926713,"name":"Innovasjon i praksis","tags":["to-read","bookshelf"],"thumbnail":"https://d.gr-assets.com/books/1446482701l/27413943.jpg"},
-{"isbn":9788777415326,"name":"Løperens nye håndbok","tags":["to-read","bookshelf"],"thumbnail":"http://api.andersos.net/assets/9788777415326.jpg"}
+{"isbn":9788777415326,"name":"Løperens nye håndbok","tags":["to-read","bookshelf"],"thumbnail":"http://api.andersos.net/assets/9788777415326.jpg"},
+{"isbn":9780998296609,"name":"Atomic Design","reading":true,"tags":["to-read"],"thumbnail":"https://cdn.shopify.com/s/files/1/0727/0443/products/book-cover_1024x1024.png?v=1478041896"}
 ]
