@@ -3,7 +3,7 @@
     "date": "29.11.2017",
     "name": "MYSTERIET PÅ SJØRØVERSKUTEN",
     "type": "Escape Room",
-    "plave": "The Escape Games",
+    "place": "The Escape Games",
     "link": "http://www.escapegames.no/no/book/mystery-of-the-pirate-ship.html",
     "comment": "Solved in 36 minutes. 6 people. Marte, Victoria, Alexandra, Ole, Fransesco og meg"
   },
@@ -82,5 +82,12 @@
     "name": "Javazone",
     "place": "Oslo Spektrum",
     "comment": ""
+  },
+  {
+    "date": "30.11.2017",
+    "name": "Original Swiss Game",
+    "type": "Escape Room",
+    "place": "AdventureRooms Oslo",
+    "comment": "Solved in 58 minutes with 3 hints. 4 people. Marte, Ann Harriet, Kristian og Anders"
   }
 ]
