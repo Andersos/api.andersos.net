@@ -245,5 +245,29 @@
     "game": "Unearth",
     "players": "Kristian og Anders",
     "comment": "Anders vant"
+  },
+  {
+    "date": "2018.04.01",
+    "game": "Mysterium",
+    "players": "Kristian, Christine, Marte og Anders",
+    "comment": "Kristian var spøkelse og vi vant på easy"
+  },
+  {
+    "date": "2018.04.01",
+    "game": "Mysterium",
+    "players": "Kristian, Christine, Marte og Anders",
+    "comment": "Marte var spøkelse på medium og Kristian og Anders kom ikke frem"
+  },
+  {
+    "date": "2018.04.01",
+    "game": "Unearth",
+    "players": "Kristian, Christine, Marte og Anders",
+    "comment": "Kristian 23, Marte 18, Anders 16, Christine 14"
+  },
+  {
+    "date": "2018.04.01",
+    "game": "Love Letter",
+    "players": "Kristian, Christine, Marte og Anders",
+    "comment": "Marte vant"
   }
 ]
