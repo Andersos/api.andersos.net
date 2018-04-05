@@ -1,5 +1,12 @@
 [
   {
+    "date": "27.05.2016",
+    "name": "Dag Sørås",
+    "type": "Comedy",
+    "place": "Sentrum Scene",
+    "comment": "With Marte and Ann Harriet"
+  },
+  {
     "date": "29.11.2017",
     "name": "MYSTERIET PÅ SJØRØVERSKUTEN",
     "type": "Escape Room",
@@ -89,5 +96,12 @@
     "type": "Escape Room",
     "place": "AdventureRooms Oslo",
     "comment": "Solved in 58 minutes with 3 hints. 4 people. Marte, Ann Harriet, Kristian og Anders"
+  },
+  {
+    "date": "06.04.2018",
+    "name": "Dag Sørås",
+    "type": "Comedy",
+    "place": "John Dee",
+    "comment": "With Morten"
   }
 ]
