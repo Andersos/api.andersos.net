@@ -269,5 +269,23 @@
     "game": "Love Letter",
     "players": "Kristian, Christine, Marte og Anders",
     "comment": "Marte vant"
-  }
+},
+{
+  "date": "2018.04.11",
+  "game": "Unearth",
+  "players": "Kristian, Jørgen og Anders",
+  "comment": "44 Kristian 44 Jørgen 45 Anders"
+}
+{
+  "date": "2018.04.11",
+  "game": "Pandemic",
+  "players": "Kristian, Jørgen og Anders",
+  "comment": "Vant på nest siste player card trekk"
+},
+{
+  "date": "2018.04.11",
+  "game": "Kitchen Rush",
+  "players": "Kristian, Jørgen og Anders",
+  "comment": "26/28 oppskrifter normal"
+}
 ]
