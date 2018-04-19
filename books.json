@@ -214,5 +214,6 @@
 {"isbn":9788299885188,"name":"The social guidebook to Norway","tags":["read","bookshelf"],"rating":4,"thumbnail":"https://d.gr-assets.com/books/1421872304l/24625001.jpg"},
 {"isbn":9788299926713,"name":"Innovasjon i praksis","tags":["to-read","bookshelf"],"thumbnail":"https://d.gr-assets.com/books/1446482701l/27413943.jpg"},
 {"isbn":9788777415326,"name":"Løperens nye håndbok","tags":["to-read","bookshelf"],"thumbnail":"http://api.andersos.net/assets/9788777415326.jpg"},
-{"isbn":9780998296609,"name":"Atomic Design","reading":true,"tags":["to-read"],"thumbnail":"https://cdn.shopify.com/s/files/1/0727/0443/products/book-cover_1024x1024.png?v=1478041896"}
+{"isbn":9780998296609,"name":"Atomic Design","reading":true,"tags":["to-read"],"thumbnail":"https://cdn.shopify.com/s/files/1/0727/0443/products/book-cover_1024x1024.png?v=1478041896"},
+{"isbn":0,"name":"Going offline by JEREMY KEITH","tags":["to-read"]}
 ]
