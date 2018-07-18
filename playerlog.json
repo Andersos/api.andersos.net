@@ -444,5 +444,12 @@
     "players": ["Kaja", "Nikolai", "Anders"],
     "comment": "K 53 N 44 A 51",
     "winners": ["Kaja"]
+  },
+  {
+    "date": "2018.07.11",
+    "game": "Caverna",
+    "players": ["Marte", "Anders"],
+    "comment": "Marte 74 Anders 61",
+    "winners": ["Marte"]
   }
 ]
