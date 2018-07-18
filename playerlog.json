@@ -423,5 +423,26 @@
     "players": ["Fridtjof", "Anders", "Marte", "Kari"],
     "comment": "Kari 30, Marte 48, Anders 45, Fridtjof 29",
     "winners": ["Anders"]
+  },
+  {
+    "date": "2018.07.13",
+    "game": "Sushi Go",
+    "players": ["Kaja", "Nikolai", "Anders"],
+    "comment": "N 45 K 35 A 57",
+    "winners": ["Anders"]
+  },
+  {
+    "date": "2018.07.13",
+    "game": "Sushi Go",
+    "players": ["Kaja", "Nikolai", "Anders"],
+    "comment": "K 43 N 42 A 45",
+    "winners": ["Anders"]
+  },
+  {
+    "date": "2018.07.13",
+    "game": "Sushi Go",
+    "players": ["Kaja", "Nikolai", "Anders"],
+    "comment": "K 53 N 44 A 51",
+    "winners": ["Kaja"]
   }
 ]
