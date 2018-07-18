@@ -1,26 +1,127 @@
 [
-{"date":"2009.10.15","location":"St. Olavs Hospital","comment":"Nyregistrering / Prøvtaking"},
-{"date":"2010.01.14","location":"St. Olavs Hospital"},
-{"date":"2010.04.03","location":"St. Olavs Hospital"},
-{"date":"2010.08.26","location":"St. Olavs Hospital"},
-{"date":"2010.12.06","location":"St. Olavs Hospital"},
-{"date":"2011.03.15","location":"St. Olavs Hospital"},
-{"date":"2011.06.23","location":"St. Olavs Hospital"},
-{"date":"2011.10.14","location":"St. Olavs Hospital"},
-{"date":"2012.08.30","location":"St. Olavs Hospital"},
-{"date":"2012.12.04","time":"09:15","location":"St. Olavs Hospital"},
-{"date":"2013.02.22","time":"13:30","location":"St. Olavs Hospital"},
-{"date":"2015.04.23","time":"16:00","location":"Ullevål sykehus","BLTR":"131...","HbF":"16,1","comment":"Nyregistrering / Prøvtaking"},
-{"date":"2015.07.24","time":"13:30","location":"Ullevål sykehus","comment":"Annullert"},
-{"date":"2015.10.22","time":"16:45","location":"Ullevål sykehus","HbF":"14,9","FE...":"233"},
-{"date":"2016.01.14","time":"10:15","location":"Ullevål sykehus","HbF":"15,4","gift":"Mumi - green"},
-{"date":"2016.05.10","time":"10:00","location":"Ullevål sykehus","comment":"Annullert"},
-{"date":"2016.08.29","time":"15:00","location":"Ullevål sykehus","HbF":"15,2"},
-{"date":"2016.11.29","time":"09:00","location":"Ullevål sykehus","HbF":"14,5","gift":"Mumi - snow horse"},
-{"date":"2017.02.27","time":"07:45","location":"Ullevål sykehus","HbF":"14,6","gift":"Mumi - orange"},
-{"date":"2017.05.29","time":"09:15","location":"Ullevål sykehus","HbF":"14,8","gift":"Mumi - turkis"},
-{"date":"2017.08.23","time":"08:30","location":"Ullevål sykehus","HbF":"14,5","gift":"Mumi - blue"},
-{"date":"2017.11.17","time":"09:00","location":"Ullevål sykehus","HbF":"14,7","gift":"Mumi - rosa"},
-{"date":"2018.03.01","time":"12:15","location":"Ullevål sykehus","HbF":"15,4","gift":"Mumi - turkis Mymamma"},
-{"date":"2018.06.13","time":"09:00","location":"Ullevål sykehus","HbF":"16,1","gift":"Mumi - Sommer 2018"}
+  {
+    "date": "2009.10.15",
+    "location": "St. Olavs Hospital",
+    "comment": "Nyregistrering / Prøvtaking",
+    "HbF": "",
+    "gift": ""
+  },
+  { "date": "2010.01.14", "location": "St. Olavs Hospital", "HbF": "", "gift": "" },
+  { "date": "2010.04.03", "location": "St. Olavs Hospital", "HbF": "", "gift": "" },
+  { "date": "2010.08.26", "location": "St. Olavs Hospital", "HbF": "", "gift": "" },
+  { "date": "2010.12.06", "location": "St. Olavs Hospital", "HbF": "", "gift": "" },
+  { "date": "2011.03.15", "location": "St. Olavs Hospital", "HbF": "", "gift": "" },
+  { "date": "2011.06.23", "location": "St. Olavs Hospital", "HbF": "", "gift": "" },
+  { "date": "2011.10.14", "location": "St. Olavs Hospital", "HbF": "", "gift": "" },
+  { "date": "2012.08.30", "location": "St. Olavs Hospital", "HbF": "", "gift": "" },
+  {
+    "date": "2012.12.04",
+    "time": "09:15",
+    "location": "St. Olavs Hospital",
+    "HbF": "",
+    "gift": ""
+  },
+  {
+    "date": "2013.02.22",
+    "time": "13:30",
+    "location": "St. Olavs Hospital",
+    "HbF": "",
+    "gift": ""
+  },
+  {
+    "date": "2015.04.23",
+    "time": "16:00",
+    "location": "Ullevål sykehus",
+    "BLTR": "131...",
+    "HbF": "16,1",
+    "comment": "Nyregistrering / Prøvtaking",
+    "gift": ""
+  },
+  {
+    "date": "2015.07.24",
+    "time": "13:30",
+    "location": "Ullevål sykehus",
+    "comment": "Annullert",
+    "HbF": "",
+    "gift": ""
+  },
+  {
+    "date": "2015.10.22",
+    "time": "16:45",
+    "location": "Ullevål sykehus",
+    "HbF": "14,9",
+    "FE...": "233",
+    "gift": ""
+  },
+  {
+    "date": "2016.01.14",
+    "time": "10:15",
+    "location": "Ullevål sykehus",
+    "HbF": "15,4",
+    "gift": "Mumi - green"
+  },
+  {
+    "date": "2016.05.10",
+    "time": "10:00",
+    "location": "Ullevål sykehus",
+    "comment": "Annullert",
+    "HbF": "",
+    "gift": ""
+  },
+  {
+    "date": "2016.08.29",
+    "time": "15:00",
+    "location": "Ullevål sykehus",
+    "HbF": "15,2",
+    "gift": ""
+  },
+  {
+    "date": "2016.11.29",
+    "time": "09:00",
+    "location": "Ullevål sykehus",
+    "HbF": "14,5",
+    "gift": "Mumi - snow horse"
+  },
+  {
+    "date": "2017.02.27",
+    "time": "07:45",
+    "location": "Ullevål sykehus",
+    "HbF": "14,6",
+    "gift": "Mumi - orange"
+  },
+  {
+    "date": "2017.05.29",
+    "time": "09:15",
+    "location": "Ullevål sykehus",
+    "HbF": "14,8",
+    "gift": "Mumi - turkis"
+  },
+  {
+    "date": "2017.08.23",
+    "time": "08:30",
+    "location": "Ullevål sykehus",
+    "HbF": "14,5",
+    "gift": "Mumi - blue"
+  },
+  {
+    "date": "2017.11.17",
+    "time": "09:00",
+    "location": "Ullevål sykehus",
+    "HbF": "14,7",
+    "gift": "Mumi - rosa"
+  },
+  {
+    "date": "2018.03.01",
+    "time": "12:15",
+    "location": "Ullevål sykehus",
+    "HbF": "15,4",
+    "gift": "Mumi - turkis Mymamma"
+  },
+  {
+    "date": "2018.06.13",
+    "time": "09:00",
+    "location": "Ullevål sykehus",
+    "HbF": "16,1",
+    "gift": "Mumi - Sommer 2018"
+  }
 ]

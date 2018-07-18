@@ -1,357 +1,427 @@
 [
-    {
-        "date": "2014.08.31",
-        "game": "Eldritch Horror",
-        "players": "Robin, Lars og Anders",
-        "comment": "Tror vi var 6 husker ikke de siste."
-    },
-    {
-        "date": "2016.08.17",
-        "game": "Dead of Winter",
-        "players": "Marte, Jørgen og Anders",
-        "comment": "No betrayal, everyone wone their objectives"
-    },
-    {
-        "date": "2016.08.23",
-        "game": "Dead of Winter",
-        "players": "Marte, Jørgen, Kristian og Anders",
-        "comment": "No betrayal, Marte & Jørgen wone their objectives"
-    },
-    {
-        "date": "2016.09.18",
-        "game": "Game of Thrones",
-        "players": "Jørgen, Marte, Morten, Susanne og Anders",
-        "time": "6h",
-        "comment": "10 rounds. Anders 6 castles"
-    },
-    {
-        "date": "2016.10.02",
-        "game": "Secret Hitler",
-        "players": "Rasmus, Joachim, Rikke, Susanne, Helene, Marte og Anders"
-    },
-    {
-        "date": "2016.10.02",
-        "game": "Dixit",
-        "players": "Rasmus, Joachim, Rikke, Susanne, Helene, Marte og Anders",
-        "comment": "Delt seier til Helene og Susanne"
-    },
-    {
-        "date": "2016.10.11",
-        "game": "Castle Panic",
-        "players": "Marte, Kristian og Anders",
-        "comment": "Vi vant spillet."
-    },
-    {
-        "date": "2016.10.16",
-        "game": "Castle Panic",
-        "players": "Marte og Anders",
-        "comment": "Vi vant spillet."
-    },
-    {
-        "date": "2016.11.06",
-        "game": "Settlers of Catan",
-        "players": "Kristian, Marte og Anders",
-        "comment": "Marte vant"
-    },
-    {
-        "date": "2016.11.06",
-        "game": "Zombie Dice",
-        "players": "Kristian, Marte og Anders",
-        "comment": "Marte vant"
-    },
-    {
-        "date": "2016.11.06",
-        "game": "Machi Koro",
-        "players": "Kristian, Marte og Anders",
-        "comment": "Marte vant"
-    },
-    {
-        "date": "2016.12.01",
-        "game": "Settlers",
-        "players": "Kathrine, Martina, Marte og Anders",
-        "comment": "Martina vant"
-    },
-    {
-        "date": "2016.12.01",
-        "game": "Forbidden Island",
-        "players": "Kathrine, Martina, Marte og Anders",
-        "comment": "Vi tapte"
-    },
-    {
-        "date": "2016.12.01",
-        "game": "Zombie Dice",
-        "players": "Kathrine, Martina, Marte og Anders",
-        "comment": "Anders vant"
-    },
-    {
-        "date": "2016.12.11",
-        "game": "Zombie Dice",
-        "players": "Susanne, Marte, Kristian og Anders",
-        "comment": "Kristian vant"
-    },
-    {
-        "date": "2016.12.11",
-        "game": "Dead of Winter",
-        "players": "Susanne, Marte, Krisian og Anders",
-        "comment": "Susanne vant som deserter"
-    },
-    {
-        "date": "2016.12.13",
-        "game": "Secret Hitler",
-        "players": "Netlife People",
-        "comment": "Many rounds"
-    },
-    {
-        "date": "2016.12.13",
-        "game": "One Night Ultimate Warewolf",
-        "players": "Netlife People",
-        "comment": "Some rounds"
-    },
-    {
-        "date": "2016.12.24",
-        "game": "Tokaido",
-        "players": "Ann Harriet, Kristian, Anders",
-        "comment": "Anders vant"
-    },
-    { "date": "2017.01.11", "game": "Secret Hitler", "players": "Faddergruppe 2", "comment": "" },
-    { "date": "2017.01.11", "game": "Secret Hitler", "players": "Faddergruppe 2", "comment": "" },
-    { "date": "2017.01.11", "game": "Secret Hitler", "players": "Faddergruppe 2", "comment": "" },
-    { "date": "2017.01.11", "game": "Secret Hitler", "players": "Faddergruppe 2", "comment": "" },
-    { "date": "2017.01.11", "game": "Coup", "players": "Faddergruppe 2", "comment": "" },
-    { "date": "2017.01.11", "game": "Coup", "players": "Faddergruppe 2", "comment": "" },
-    { "date": "2017.01.11", "game": "Coup", "players": "Faddergruppe 2", "comment": "" },
-    { "date": "2017.01.11", "game": "Coup", "players": "Faddergruppe 2", "comment": "" },
-    { "date": "2017.02.03", "game": "Secret Hitler", "players": "Netlife Hyttetur", "comment": "" },
-    { "date": "2017.02.03", "game": "Secret Hitler", "players": "Netlife Hyttetur", "comment": "" },
-    { "date": "2017.02.03", "game": "Secret Hitler", "players": "Netlife Hyttetur", "comment": "" },
-    { "date": "2017.02.15", "game": "Coup", "players": "Netlife Hyttetur", "comment": "" },
-    {
-        "date": "2017.03.01",
-        "game": "Sushi Go",
-        "players": "Netlife Spillkveld (Anja, Bård og Anders)",
-        "comment": "Anders vant"
-    },
-    {
-        "date": "2017.03.01",
-        "game": "Love letter",
-        "players": "Netlife Spillkveld (Anja, Bård og Anders)",
-        "comment": "Anders vant"
-    },
-    {
-        "date": "2017.03.01",
-        "game": "Dead of winter",
-        "players": "Netlife Spillkveld (Anja, Bård og Anders)",
-        "comment": "Anja og Anders klarte oppdraget. Ingen deserter."
-    },
-    {
-        "date": "2017.03.17",
-        "game": "Lords of waterdeep",
-        "players": "Marte, Kristian og Anders",
-        "comment": "Anders 1, Marte 2, Kristian 3"
-    },
-    {
-        "date": "2017.11.28",
-        "game": "Entropy",
-        "players": "Marte, Kristian og Anders",
-        "comment": "Marte vant"
-    },
-    {
-        "date": "2017.11.28",
-        "game": "Entropy",
-        "players": "Marte, Kristian og Anders",
-        "comment": "Marte vant"
-    },
-    {
-        "date": "2017.11.28",
-        "game": "Entropy",
-        "players": "Marte, Kristian og Anders",
-        "comment": "Marte vant"
-    },
-    {
-        "date": "2017.11.28",
-        "game": "Adorable Pandering",
-        "players": "Marte, Kristian og Anders",
-        "comment": "Anders vant"
-    },
-    {
-        "date": "2017.12.02",
-        "game": "Exploding Kittens",
-        "players": "Marte, Victoria, Francesco og Anders",
-        "comment": "Anders vant"
-    },
-    {
-        "date": "2017.12.02",
-        "game": "Dead of winter",
-        "players": "Marte, Victoria, Francesco og Anders",
-        "comment": "Anders vant og Marte vant. Victoria var betrayer. Francesco manglet noen items."
-    },
-    {
-        "date": "2017.12.02",
-        "game": "Love letter",
-        "players": "Marte, Victoria, Francesco og Anders",
-        "comment": "Marte vant"
-    },
-    {
-        "date": "2017.12.16",
-        "game": "Ho ho homicide",
-        "players": "Marte, Victoria, Francesco, Andreas, Cathrin, Julie og Jon",
-        "comment":
-        "Catrin best acting, best dressed Victoria, most money Julie. Marte, Anders, Victoria og Julie"
-    },
-    {
-        "date": "2018.01.20",
-        "game": "SushiGo",
-        "players": "Anders, Marte, Victoria og Francesco",
-        "comment": "Anders vant"
-    },
-    {
-        "date": "2018.01.20",
-        "game": "Tokaido",
-        "players": "Anders, Marte, Victoria og Francesco",
-        "comment": "Anders vant, så Marte, Victoria og Francesco"
-    },
-    {
-        "date": "2018.03.23",
-        "game": "Kitchen Rush",
-        "players": "Kristian og Anders",
-        "comment": "To tap og ... 2 tap og en vinn med 19 serverte måltider og 4 mynter igjen."
-    },
-    {
-        "date": "2018.03.23",
-        "game": "Unearth",
-        "players": "Kristian og Anders",
-        "comment": "Anders vinner 45 poeng mot 44"
-    },
-    {
-        "date": "2018.03.25",
-        "game": "Concept",
-        "players": "Cecilie, Chris, Marte, Francesco og Anders",
-        "comment": "Marte vant"
-    },
-    {
-        "date": "2018.03.25",
-        "game": "Coup",
-        "players": "Cecilie, Chris, Marte, Francesco og Anders",
-        "comment": "6 spill. Chris vant samlet"
-    }
-    {
-        "date": "2018.03.28",
-        "game": "Dixit",
-        "players": "Ann Harriet, Kristian og Anders",
-        "comment": "Anders vant"
-    },
-    {
-        "date": "2018.03.28",
-        "game": "Dixit",
-        "players": "Ann Harriet, Kristian og Anders",
-        "comment": "Anders vant"
-    },
-    {
-        "date": "2018.03.30",
-        "game": "Unearth",
-        "players": "Kristian og Anders",
-        "comment": "Anders vant"
-    },
-    {
-        "date": "2018.04.01",
-        "game": "Mysterium",
-        "players": "Kristian, Christine, Marte og Anders",
-        "comment": "Kristian var spøkelse og vi vant på easy"
-    },
-    {
-        "date": "2018.04.01",
-        "game": "Mysterium",
-        "players": "Kristian, Christine, Marte og Anders",
-        "comment": "Marte var spøkelse på medium og Kristian og Anders kom ikke frem"
-    },
-    {
-        "date": "2018.04.01",
-        "game": "Unearth",
-        "players": "Kristian, Christine, Marte og Anders",
-        "comment": "Kristian 23, Marte 18, Anders 16, Christine 14"
-    },
-    {
-        "date": "2018.04.01",
-        "game": "Love Letter",
-        "players": "Kristian, Christine, Marte og Anders",
-        "comment": "Marte vant"
-    },
-    {
-        "date": "2018.04.11",
-        "game": "Unearth",
-        "players": "Kristian, Jørgen og Anders",
-        "comment": "44 Kristian 44 Jørgen 45 Anders"
-    }
-    {
-        "date": "2018.04.11",
-        "game": "Pandemic",
-        "players": "Kristian, Jørgen og Anders",
-        "comment": "Vant på nest siste player card trekk"
-    },
-    {
-        "date": "2018.04.11",
-        "game": "Kitchen Rush",
-        "players": "Kristian, Jørgen og Anders",
-        "comment": "26/28 oppskrifter normal"
-    },
-    {
-        "date": "2018.04.29",
-        "game": "Charterstone legacy",
-        "players": "Francesco, Victoria, Jørgen, Kristian, Marte og Anders",
-        "comment": "Game 1. Anders vant."
-    },
-    {
-        "date": "2018.05.11",
-        "game": "Secret Hitler",
-        "players": "Francesco, Victoria, Amed, Kristen, Marte og Anders",
-        "comment": "Liberals vant. Amed (fascist) og Anders (Hitler)"
-    },
-    {
-        "date": "2018.05.11",
-        "game": "Secret Hitler",
-        "players": "Francesco, Victoria, Amed, Kristen, Marte og Anders",
-        "comment": "Victoria (Hitler) ble Chansleor etter 3 kort. Marte var også Fascist"
-    },
-    {
-        "date": "2018.05.11",
-        "game": "Lords of Waterdeep Underground",
-        "players": "Francesco, Victoria, Amed, Kristen, Marte og Anders",
-        "comment": "Rekkefølge Marte, Anders, Francesco, Kristen, Victoria, Amed"
-    },
-    {
-        "date": "2018.07.07",
-        "game": "Unearth",
-        "players": "Kristian og Anders",
-        "comment": "unearth 50 kristian - 43 anders"
-    },
-    {
-        "date": "2018.07.07",
-        "game": "The Hare and the Tortoise",
-        "players": "Francesco, Victoria, Kristian, Marte og Anders",
-        "comment": "v 2 f 7 m 5 k 5 anders -> 10"
-    },
-    {
-        "date": "2018.07.07",
-        "game": "Adorable Pandering",
-        "players": "Francesco, Victoria, Kristian, Marte og Anders",
-        "comment": "Marte og Victoria vant"
-    },
-    {
-        "date": "2018.07.07",
-        "game": "Mysterium",
-        "players": "Francesco, Victoria, Kristian, Marte og Anders",
-        "comment": "Kristian var ghost og vi andre klarte å finne morderen"
-    },
-    {
-        "date": "2018.07.07",
-        "game": "Charterstone",
-        "players": "Francesco, Victoria, Jørgen, Kristian, Marte og Anders",
-        "comment": "Francesco vant game 2"
-    },
-    {
-        "date": "2018.07.08",
-        "game": "Coup",
-        "players": "Francesco, Victoria, Cecilie, Chris, Marte og Anders",
-        "comment": "Anders vant"
-    }
+  {
+    "date": "2014.08.31",
+    "game": "Eldritch Horror",
+    "players": ["Robin", "Lars", "Anders", "Jens", "Peder", "Martin"],
+    "winners": []
+  },
+  {
+    "date": "2016.08.17",
+    "game": "Dead of Winter",
+    "players": ["Marte", "Jørgen", "Anders"],
+    "comment": "No betrayal, everyone wone their objectives",
+    "winners": ["Marte", "Jørgen", "Anders"]
+  },
+  {
+    "date": "2016.08.23",
+    "game": "Dead of Winter",
+    "players": ["Marte", "Jørgen", "Anders", "Kristian"],
+    "comment": "No betrayal. Marte & Jørgen wone their objectives",
+    "winners": ["Marte", "Jørgen"]
+  },
+  {
+    "date": "2016.09.18",
+    "game": "Game of Thrones",
+    "players": ["Marte", "Jørgen", "Morten", "Anders", "Susanne"],
+    "time": "6h",
+    "comment": "10 rounds. Anders 6 castles",
+    "winners": ["Anders"]
+  },
+  {
+    "date": "2016.10.02",
+    "game": "Secret Hitler",
+    "players": ["Rasmus", "Joachim", "Rikke", "Susanne", "Helene", "Anders", "Marte"],
+    "stats": false
+  },
+  {
+    "date": "2016.10.02",
+    "game": "Dixit",
+    "players": ["Rasmus", "Joachim", "Rikke", "Susanne", "Helene", "Anders", "Marte"],
+    "comment": "Delt seier til Helene og Susanne",
+    "winners": ["Helene", "Susanne"]
+  },
+  {
+    "date": "2016.10.11",
+    "game": "Castle Panic",
+    "players": ["Marte", "Kristian", "Anders"],
+    "winners": ["Marte", "Kristian", "Anders"]
+  },
+  {
+    "date": "2016.10.16",
+    "game": "Castle Panic",
+    "players": ["Marte", "Anders"],
+    "winners": ["Marte", "Anders"]
+  },
+  {
+    "date": "2016.11.06",
+    "game": "Settlers of Catan",
+    "players": ["Marte", "Kristian", "Anders"],
+    "winners": ["Marte"]
+  },
+  {
+    "date": "2016.11.06",
+    "game": "Zombie Dice",
+    "players": ["Marte", "Kristian", "Anders"],
+    "winners": ["Marte"]
+  },
+  {
+    "date": "2016.11.06",
+    "game": "Machi Koro",
+    "players": ["Marte", "Kristian", "Anders"],
+    "winners": ["Marte"]
+  },
+  {
+    "date": "2016.12.01",
+    "game": "Settlers",
+    "players": ["Martina", "Katrhrine", "Marte", "Anders"],
+    "winners": ["Martina"]
+  },
+  {
+    "date": "2016.12.01",
+    "game": "Forbidden Island",
+    "players": ["Martina", "Katrhrine", "Marte", "Anders"],
+    "winners": []
+  },
+  {
+    "date": "2016.12.01",
+    "game": "Zombie Dice",
+    "players": ["Martina", "Katrhrine", "Marte", "Anders"],
+    "winners": ["Anders"]
+  },
+  {
+    "date": "2016.12.11",
+    "game": "Zombie Dice",
+    "players": ["Susanne", "Kristian", "Marte", "Anders"],
+    "winners": ["Kristian"]
+  },
+  {
+    "date": "2016.12.11",
+    "game": "Dead of Winter",
+    "players": ["Susanne", "Kristian", "Marte", "Anders"],
+    "winners": ["Susanne"],
+    "comment": "Susanne vant som deserter"
+  },
+  {
+    "date": "2016.12.13",
+    "game": "Secret Hitler",
+    "players": ["Bård", "Joakim", "Oda", "Marte B", "Anders", "Anja"],
+    "stats": false
+  },
+  {
+    "date": "2016.12.13",
+    "game": "Secret Hitler",
+    "players": ["Bård", "Joakim", "Oda", "Marte B", "Anders", "Anja"],
+    "stats": false
+  },
+  {
+    "date": "2016.12.13",
+    "game": "Secret Hitler",
+    "players": ["Bård", "Joakim", "Oda", "Marte B", "Anders", "Anja"],
+    "stats": false
+  },
+  {
+    "date": "2016.12.13",
+    "game": "One Night Ultimate Warewolf",
+    "players": ["Bård", "Joakim", "Oda", "Marte B", "Anders", "Anja"],
+    "stats": false
+  },
+  {
+    "date": "2016.12.13",
+    "game": "One Night Ultimate Warewolf",
+    "players": ["Bård", "Joakim", "Oda", "Marte B", "Anders", "Anja"],
+    "stats": false
+  },
+  {
+    "date": "2016.12.13",
+    "game": "One Night Ultimate Warewolf",
+    "players": ["Bård", "Joakim", "Oda", "Marte B", "Anders", "Anja"],
+    "stats": false
+  },
+  {
+    "date": "2016.12.24",
+    "game": "Tokaido",
+    "players": ["Ann Harriet", "Kristian", "Anders"],
+    "winners": ["Anders"]
+  },
+  { "date": "2017.01.11", "game": "Secret Hitler", "players": "Faddergruppe 2", "stats": false },
+  { "date": "2017.01.11", "game": "Secret Hitler", "players": "Faddergruppe 2", "stats": false },
+  { "date": "2017.01.11", "game": "Secret Hitler", "players": "Faddergruppe 2", "stats": false },
+  { "date": "2017.01.11", "game": "Secret Hitler", "players": "Faddergruppe 2", "stats": false },
+  { "date": "2017.01.11", "game": "Coup", "players": "Faddergruppe 2", "stats": false },
+  { "date": "2017.01.11", "game": "Coup", "players": "Faddergruppe 2", "stats": false },
+  { "date": "2017.01.11", "game": "Coup", "players": "Faddergruppe 2", "stats": false },
+  { "date": "2017.01.11", "game": "Coup", "players": "Faddergruppe 2", "stats": false },
+  { "date": "2017.02.03", "game": "Secret Hitler", "players": "Netlife Hyttetur", "stats": false },
+  { "date": "2017.02.03", "game": "Secret Hitler", "players": "Netlife Hyttetur", "stats": false },
+  { "date": "2017.02.03", "game": "Secret Hitler", "players": "Netlife Hyttetur", "stats": false },
+  { "date": "2017.02.15", "game": "Coup", "players": "Netlife Hyttetur", "stats": false },
+  {
+    "date": "2017.03.01",
+    "game": "Sushi Go",
+    "players": ["Anja", "Bård", "Anders"],
+    "comment": "Netlife Spillkveld",
+    "winners": ["Anders"]
+  },
+  {
+    "date": "2017.03.01",
+    "game": "Love letter",
+    "players": ["Anja", "Bård", "Anders"],
+    "comment": "Netlife Spillkveld",
+    "winners": ["Anders"]
+  },
+  {
+    "date": "2017.03.01",
+    "game": "Dead of winter",
+    "comment": "Anja og Anders klarte oppdraget. Ingen deserter. Netlife Spillkveld",
+    "players": ["Anja", "Bård", "Anders"],
+    "winners": ["Anders"]
+  },
+  {
+    "date": "2017.03.17",
+    "game": "Lords of waterdeep",
+    "players": ["Marte", "Kristian", "Anders"],
+    "comment": "Anders 1, Marte 2, Kristian 3",
+    "winners": ["Anders"]
+  },
+  {
+    "date": "2017.11.28",
+    "game": "Entropy",
+    "players": ["Marte", "Kristian", "Anders"],
+    "winners": ["Marte"]
+  },
+  {
+    "date": "2017.11.28",
+    "game": "Entropy",
+    "players": ["Marte", "Kristian", "Anders"],
+    "winners": ["Marte"]
+  },
+  {
+    "date": "2017.11.28",
+    "game": "Entropy",
+    "players": ["Marte", "Kristian", "Anders"],
+    "winners": ["Marte"]
+  },
+  {
+    "date": "2017.11.28",
+    "game": "Adorable Pandering",
+    "players": ["Marte", "Kristian", "Anders"],
+    "winners": ["Anders"]
+  },
+  {
+    "date": "2017.12.02",
+    "game": "Exploding Kittens",
+    "players": ["Marte", "Victoria", "Francesco", "Anders"],
+    "winners": ["Anders"]
+  },
+  {
+    "date": "2017.12.02",
+    "game": "Dead of winter",
+    "players": ["Marte", "Victoria", "Francesco", "Anders"],
+    "comment": "Anders vant og Marte vant. Victoria var betrayer. Francesco manglet noen items.",
+    "winners": ["Anders", "Marte"]
+  },
+  {
+    "date": "2017.12.02",
+    "game": "Love letter",
+    "players": ["Marte", "Victoria", "Francesco", "Anders"],
+    "winners": ["Marte"]
+  },
+  {
+    "date": "2017.12.16",
+    "game": "Ho ho homicide",
+    "players": "Marte, Victoria, Francesco, Andreas, Cathrin, Julie og Jon",
+    "players": ["Marte", "Victoria", "Francesco", "Anders", "Andreas", "Cathrin", "Julie", "Jon"],
+    "winners": ["Catrin", "Victoria", "Julie", "Anders"],
+    "comment":
+      "Catrin best acting, best dressed Victoria, most money Julie. Marte, Anders, Victoria og Julie"
+  },
+  {
+    "date": "2018.01.20",
+    "game": "Sushi Go",
+    "players": ["Marte", "Victoria", "Francesco", "Anders"],
+    "winners": ["Anders"]
+  },
+  {
+    "date": "2018.01.20",
+    "game": "Tokaido",
+    "players": "Anders, Marte, Victoria og Francesco",
+    "comment": "Anders vant, så Marte, Victoria og Francesco",
+    "players": ["Marte", "Victoria", "Francesco", "Anders"],
+    "winners": ["Anders"]
+  },
+  {
+    "date": "2018.03.23",
+    "game": "Kitchen Rush",
+    "players": ["Kristian", "Anders"],
+    "comment": "To tap og ... 2 tap og en vinn med 19 serverte måltider og 4 mynter igjen.",
+    "winners": []
+  },
+  {
+    "date": "2018.03.23",
+    "game": "Unearth",
+    "players": ["Kristian", "Anders"],
+    "comment": "Anders vinner 45 poeng mot 44",
+    "winners": ["Anders"]
+  },
+  {
+    "date": "2018.03.25",
+    "game": "Concept",
+    "players": ["Cecilie", "Chris", "Marte", "Anders", "Francesco"],
+    "winners": ["Marte"]
+  },
+  {
+    "date": "2018.03.25",
+    "game": "Coup",
+    "players": ["Cecilie", "Chris", "Marte", "Anders", "Francesco"],
+    "winners": ["Chris"],
+    "comment": "6 spill. Chris vant samlet"
+  },
+  {
+    "date": "2018.03.28",
+    "game": "Dixit",
+    "players": ["Ann Harriet", "Kristian", "Anders"],
+    "winners": ["Anders"]
+  },
+  {
+    "date": "2018.03.28",
+    "game": "Dixit",
+    "players": ["Ann Harriet", "Kristian", "Anders"],
+    "winners": ["Anders"]
+  },
+  {
+    "date": "2018.03.30",
+    "game": "Unearth",
+    "players": ["Kristian", "Anders"],
+    "winners": ["Anders"]
+  },
+  {
+    "date": "2018.04.01",
+    "game": "Mysterium",
+    "players": ["Christine", "Marte", "Kristian", "Anders"],
+    "comment": "Kristian var spøkelse og vi vant på easy",
+    "winners": ["Christine", "Marte", "Kristian", "Anders"]
+  },
+  {
+    "date": "2018.04.01",
+    "game": "Mysterium",
+    "players": ["Christine", "Marte", "Kristian", "Anders"],
+    "comment": "Marte var spøkelse på medium og Kristian og Anders kom ikke frem",
+    "winners": []
+  },
+  {
+    "date": "2018.04.01",
+    "game": "Unearth",
+    "players": ["Christine", "Marte", "Kristian", "Anders"],
+    "comment": "Kristian 23, Marte 18, Anders 16, Christine 14",
+    "winners": ["Kristian"]
+  },
+  {
+    "date": "2018.04.01",
+    "game": "Love Letter",
+    "players": ["Christine", "Marte", "Kristian", "Anders"],
+    "winners": ["Marte"]
+  },
+  {
+    "date": "2018.04.11",
+    "game": "Unearth",
+    "players": ["Jørgen", "Kristian", "Anders"],
+    "comment": "44 Kristian 44 Jørgen 45 Anders",
+    "winners": ["Anders"]
+  },
+  {
+    "date": "2018.04.11",
+    "game": "Pandemic",
+    "players": ["Jørgen", "Kristian", "Anders"],
+    "comment": "Vant på nest siste player card trekk",
+    "winners": ["Jørgen", "Kristian", "Anders"]
+  },
+  {
+    "date": "2018.04.11",
+    "game": "Kitchen Rush",
+    "players": ["Jørgen", "Kristian", "Anders"],
+    "comment": "26/28 oppskrifter normal",
+    "winners": []
+  },
+  {
+    "date": "2018.04.29",
+    "game": "Charterstone legacy",
+    "players": ["Jørgen", "Kristian", "Anders", "Marte", "Victoria", "Francesco"],
+    "winners": ["Anders"],
+    "comment": "Game 1. Anders vant."
+  },
+  {
+    "date": "2018.05.11",
+    "game": "Secret Hitler",
+    "players": ["Amed", "Kristen", "Anders", "Marte", "Victoria", "Francesco"],
+    "comment": "Liberals vant. Amed (fascist) og Anders (Hitler)",
+    "winners": ["Kristen", "Marte", "Victoria", "Francesco"]
+  },
+  {
+    "date": "2018.05.11",
+    "game": "Secret Hitler",
+    "players": ["Amed", "Kristen", "Anders", "Marte", "Victoria", "Francesco"],
+    "comment": "Victoria (Hitler) ble Chansleor etter 3 kort. Marte var også Fascist",
+    "winners": ["Marte", "Victoria"]
+  },
+  {
+    "date": "2018.05.11",
+    "game": "Lords of Waterdeep Underground",
+    "players": ["Amed", "Kristen", "Anders", "Marte", "Victoria", "Francesco"],
+    "winners": ["Marte"],
+    "comment": "Rekkefølge Marte, Anders, Francesco, Kristen, Victoria, Amed"
+  },
+  {
+    "date": "2018.07.07",
+    "game": "Unearth",
+    "players": ["Kristian", "Anders"],
+    "winners": ["Kristian"],
+    "comment": "50 Kristian - 43 Anders"
+  },
+  {
+    "date": "2018.07.07",
+    "game": "The Hare and the Tortoise",
+    "players": ["Kristian", "Anders", "Marte", "Victoria", "Francesco"],
+    "winners": ["Anders"],
+    "comment": "v 2 f 7 m 5 k 5 anders -> 10"
+  },
+  {
+    "date": "2018.07.07",
+    "game": "Adorable Pandering",
+    "players": ["Kristian", "Anders", "Marte", "Victoria", "Francesco"],
+    "winners": ["Marte", "Victoria"]
+  },
+  {
+    "date": "2018.07.07",
+    "game": "Mysterium",
+    "players": ["Kristian", "Anders", "Marte", "Victoria", "Francesco"],
+    "comment": "Kristian var ghost og vi andre klarte å finne morderen",
+    "winners": ["Kristian", "Anders", "Marte", "Victoria", "Francesco"]
+  },
+  {
+    "date": "2018.07.07",
+    "game": "Charterstone",
+    "players": ["Kristian", "Anders", "Marte", "Victoria", "Francesco", "Jørgen"],
+    "winners": ["Francesco"]
+  },
+  {
+    "date": "2018.07.08",
+    "game": "Coup",
+    "players": "Francesco, Victoria, Cecilie, Chris, Marte og Anders",
+    "players": ["Chris", "Anders", "Marte", "Victoria", "Francesco", "Cecilie"],
+    "winners": ["Anders"]
+  },
+  {
+    "date": "2018.07.15",
+    "game": "Game of Life",
+    "players": "Francesco, Victoria, Chris, Anders, Kari og Trym",
+    "players": ["Chris", "Anders", "Trym", "Victoria", "Francesco", "Kari A"],
+    "winners": ["Anders"]
+  },
+  {
+    "date": "2018.07.12",
+    "game": "Sushi Go",
+    "players": ["Fridtjof", "Anders", "Marte", "Kari"],
+    "comment": "Kari 30, Marte 48, Anders 45, Fridtjof 29",
+    "winners": ["Anders"]
+  }
 ]
