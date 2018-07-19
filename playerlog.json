@@ -121,19 +121,19 @@
   },
   {
     "date": "2016.12.13",
-    "game": "One Night Ultimate Warewolf",
+    "game": "One Night Ultimate Werewolf",
     "players": ["Bård", "Joakim", "Oda", "Marte B", "Anders", "Anja"],
     "stats": false
   },
   {
     "date": "2016.12.13",
-    "game": "One Night Ultimate Warewolf",
+    "game": "One Night Ultimate Werewolf",
     "players": ["Bård", "Joakim", "Oda", "Marte B", "Anders", "Anja"],
     "stats": false
   },
   {
     "date": "2016.12.13",
-    "game": "One Night Ultimate Warewolf",
+    "game": "One Night Ultimate Werewolf",
     "players": ["Bård", "Joakim", "Oda", "Marte B", "Anders", "Anja"],
     "stats": false
   },
@@ -164,21 +164,21 @@
   },
   {
     "date": "2017.03.01",
-    "game": "Love letter",
+    "game": "Love Letter",
     "players": ["Anja", "Bård", "Anders"],
     "comment": "Netlife Spillkveld",
     "winners": ["Anders"]
   },
   {
     "date": "2017.03.01",
-    "game": "Dead of winter",
+    "game": "Dead of Winter",
     "comment": "Anja og Anders klarte oppdraget. Ingen deserter. Netlife Spillkveld",
     "players": ["Anja", "Bård", "Anders"],
     "winners": ["Anders"]
   },
   {
     "date": "2017.03.17",
-    "game": "Lords of waterdeep",
+    "game": "Lords of Waterdeep",
     "players": ["Marte", "Kristian", "Anders"],
     "comment": "Anders 1, Marte 2, Kristian 3",
     "winners": ["Anders"]
@@ -215,14 +215,14 @@
   },
   {
     "date": "2017.12.02",
-    "game": "Dead of winter",
+    "game": "Dead of Winter",
     "players": ["Marte", "Victoria", "Francesco", "Anders"],
     "comment": "Anders vant og Marte vant. Victoria var betrayer. Francesco manglet noen items.",
     "winners": ["Anders", "Marte"]
   },
   {
     "date": "2017.12.02",
-    "game": "Love letter",
+    "game": "Love Letter",
     "players": ["Marte", "Victoria", "Francesco", "Anders"],
     "winners": ["Marte"]
   },
@@ -303,7 +303,7 @@
   },
   {
     "date": "2018.04.01",
-    "game": "Mysteriumz",
+    "game": "Mysterium",
     "players": ["Christine", "Marte", "Kristian", "Anders"],
     "comment": "Marte var spøkelse på medium og Kristian og Anders kom ikke frem",
     "winners": []
@@ -344,7 +344,7 @@
   },
   {
     "date": "2018.04.29",
-    "game": "Charterstone legacy",
+    "game": "Charterstone",
     "players": ["Jørgen", "Kristian", "Anders", "Marte", "Victoria", "Francesco"],
     "winners": ["Anders"],
     "comment": "Game 1. Anders vant."
@@ -365,7 +365,8 @@
   },
   {
     "date": "2018.05.11",
-    "game": "Lords of Waterdeep Underground",
+    "game": "Lords of Waterdeep",
+    "expansion": ["Underground"],
     "players": ["Amed", "Kristen", "Anders", "Marte", "Victoria", "Francesco"],
     "winners": ["Marte"],
     "comment": "Rekkefølge Marte, Anders, Francesco, Kristen, Victoria, Amed"
