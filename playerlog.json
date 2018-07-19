@@ -473,5 +473,12 @@
     "players": ["Kristian", "Anders"],
     "comment": "Kristian 14 Anders 17,5",
     "winners": ["Anders"]
+  },
+  {
+    "date": "2018-07-19",
+    "game": "Bears vs Babies",
+    "players": ["Kristian", "Anders"],
+    "comment": "Kristian 18,5 Anders 14",
+    "winners": ["Kristian"]
   }
 ]
