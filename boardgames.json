@@ -5,8 +5,7 @@
     "minplayers": 2,
     "maxplayers": 2,
     "link": "https://boardgamegeek.com/boardgame/153999/and-then-we-held-hands",
-    "thumbnail":
-      "https://cf.geekdo-images.com/bP80YfzlkLXaD7KAvC2E2zCf9I0=/fit-in/246x300/pic2621938.jpg"
+    "thumbnail": "https://cf.geekdo-images.com/images/pic2621938_t.jpg"
   },
   {
     "name": "Adorable Pandaring",
@@ -30,8 +29,7 @@
     "minplayers": 2,
     "maxplayers": 5,
     "link": "https://boardgamegeek.com/boardgame/211534/bears-vs-babies",
-    "thumbnail":
-      "https://cf.geekdo-images.com/FIjpVTCL9S_y8uQGIYq7u72mg68=/fit-in/246x300/pic3231155.png"
+    "thumbnail": "https://cf.geekdo-images.com/images/pic3231155_t.png"
   },
   {
     "name": "Betrayal at House on the Hill",
@@ -47,7 +45,7 @@
     "minplayers": 2,
     "maxplayers": 12,
     "link": "https://boardgamegeek.com/boardgame/186243/bezzerwizzer-kompakt",
-    "thumbnail": "http://api.andersos.net/assets/bezzerwizzer.jpg"
+    "thumbnail": "https://api.andersos.net/assets/bezzerwizzer.jpg"
   },
   {
     "name": "Bohnanza",
@@ -63,7 +61,7 @@
     "minplayers": 4,
     "maxplayers": 30,
     "link": "https://boardgamegeek.com/boardgame/50381/cards-against-humanity",
-    "thumbnail": "http://api.andersos.net/assets/cardsagainthumanity.jpg"
+    "thumbnail": "https://api.andersos.net/assets/cardsagainthumanity.jpg"
   },
   {
     "name": "Castle Panic",
@@ -71,7 +69,7 @@
     "minplayers": 1,
     "maxplayers": 6,
     "link": "https://boardgamegeek.com/boardgame/43443/castle-panic",
-    "thumbnail": "https://cf.geekdo-images.com/images/pic496923_md.jpg"
+    "thumbnail": "https://cf.geekdo-images.com/images/pic496923_t.jpg"
   },
   {
     "name": "Caverna",
@@ -79,8 +77,7 @@
     "minplayers": 1,
     "maxplayers": 7,
     "link": "https://boardgamegeek.com/boardgame/102794/caverna-cave-farmers",
-    "thumbnail":
-      "https://cf.geekdo-images.com/medium/img/7pRyTCIZbZezmEPRkHW0NEkmByU=/fit-in/500x500/filters:no_upscale()/pic1790789.jpg"
+    "thumbnail": "https://cf.geekdo-images.com/images/pic1790789_t.jpg"
   },
   {
     "name": "Charterstone",
@@ -89,8 +86,7 @@
     "minplayers": 1,
     "maxplayers": 6,
     "link": "https://boardgamegeek.com/boardgame/197376/charterstone",
-    "thumbnail":
-      "https://cf.geekdo-images.com/medium/img/RIIpyKUWfEupJh63dLez012vIS8=/fit-in/500x500/filters:no_upscale()/pic3322613.jpg"
+    "thumbnail": "https://cf.geekdo-images.com/images/pic3322613_t.jpg"
   },
   {
     "name": "Cluedo",
@@ -98,7 +94,7 @@
     "minplayers": 3,
     "maxplayers": 6,
     "link": "https://boardgamegeek.com/boardgame/1294/clue",
-    "thumbnail": "https://cf.geekdo-images.com/images/pic2640657_md.jpg"
+    "thumbnail": "https://cf.geekdo-images.com/images/pic2640657_t.jpg"
   },
   {
     "name": "Codenames",
@@ -106,8 +102,7 @@
     "minplayers": 2,
     "maxplayers": 8,
     "link": "https://boardgamegeek.com/boardgame/178900/codenames",
-    "thumbnail":
-      "https://cf.geekdo-images.com/j3KnNONTvPaOqyY_pwhS9C9s5bk=/fit-in/246x300/pic2582929.jpg"
+    "thumbnail": "https://cf.geekdo-images.com/images/pic2582929_t.jpg"
   },
   {
     "name": "Concept",
@@ -115,8 +110,7 @@
     "minplayers": 4,
     "maxplayers": 12,
     "link": "https://boardgamegeek.com/boardgame/147151/concept",
-    "thumbnail":
-      "https://cf.geekdo-images.com/wM-IUIp21wMcsBtdiMLxvouL4pI=/fit-in/246x300/pic1907628.jpg"
+    "thumbnail": "https://cf.geekdo-images.com/images/pic1907628_t.jpg"
   },
   {
     "name": "Coup",
@@ -125,7 +119,7 @@
     "maxplayers": 10,
     "expansions": ["Reformation"],
     "link": "https://boardgamegeek.com/boardgame/131357/coup",
-    "thumbnail": "https://cf.geekdo-images.com/images/pic2016054_md.jpg"
+    "thumbnail": "https://cf.geekdo-images.com/images/pic2016054_t.jpg"
   },
   {
     "name": "Dead of Winter",
@@ -133,7 +127,7 @@
     "minplayers": 2,
     "maxplayers": 5,
     "link": "https://boardgamegeek.com/boardgame/131357/coup",
-    "thumbnail": "https://cf.geekdo-images.com/images/pic3016500_md.jpg"
+    "thumbnail": "https://cf.geekdo-images.com/images/pic3016500_t.jpg"
   },
   {
     "name": "Dixit",
@@ -141,7 +135,7 @@
     "minplayers": 3,
     "maxplayers": 6,
     "link": "https://boardgamegeek.com/boardgame/39856/dixit",
-    "thumbnail": "https://cf.geekdo-images.com/images/pic455883_md.jpg"
+    "thumbnail": "https://cf.geekdo-images.com/images/pic455883_t.jpg"
   },
   {
     "name": "Eldritch Horror",
@@ -149,7 +143,7 @@
     "minplayers": 1,
     "maxplayers": 8,
     "link": "https://boardgamegeek.com/boardgame/146021/eldritch-horror",
-    "thumbnail": "https://cf.geekdo-images.com/images/pic1872452_md.jpg"
+    "thumbnail": "https://cf.geekdo-images.com/images/pic1872452_t.jpg"
   },
   {
     "name": "Entropy: Worlds Collide",
@@ -158,7 +152,7 @@
     "maxplayers": 5,
     "expansions": ["Echo of Time"],
     "link": "https://boardgamegeek.com/boardgame/223151/entropy-worlds-collide",
-    "thumbnail": "https://cf.geekdo-images.com/images/pic3689854_md.jpg"
+    "thumbnail": "https://cf.geekdo-images.com/images/pic3689854_t.jpg"
   },
   {
     "name": "Escape: The Curse of the Temple",
@@ -166,7 +160,7 @@
     "minplayers": 1,
     "maxplayers": 5,
     "link": "https://boardgamegeek.com/boardgame/113294/escape-curse-temple",
-    "thumbnail": "https://cf.geekdo-images.com/images/pic1724684_md.jpg"
+    "thumbnail": "https://cf.geekdo-images.com/images/pic1724684_t.jpg"
   },
   {
     "name": "Exploding Kittens: NSFW Deck",
@@ -174,7 +168,7 @@
     "minplayers": 2,
     "maxplayers": 5,
     "link": "https://boardgamegeek.com/boardgame/172242/exploding-kittens-nsfw-deck",
-    "thumbnail": "https://cf.geekdo-images.com/images/pic2815278_md.jpg"
+    "thumbnail": "https://cf.geekdo-images.com/images/pic2815278_t.jpg"
   },
   {
     "name": "Five Tribes",
@@ -182,8 +176,7 @@
     "minplayers": 2,
     "maxplayers": 4,
     "link": "https://boardgamegeek.com/boardgame/157354/five-tribes",
-    "thumbnail":
-      "https://cf.geekdo-images.com/medium/img/ivsx-NSBS9WGY7Q6hvxxL_4DiIo=/fit-in/500x500/filters:no_upscale()/pic2055255.jpg"
+    "thumbnail": "https://cf.geekdo-images.com/images/pic2055255_t.jpg"
   },
   {
     "name": "Forbidden Island",
@@ -191,7 +184,7 @@
     "minplayers": 1,
     "maxplayers": 4,
     "link": "https://www.boardgamegeek.com/boardgame/65244/forbidden-island",
-    "thumbnail": "https://cf.geekdo-images.com/images/pic646458_md.jpg"
+    "thumbnail": "https://cf.geekdo-images.com/images/pic646458_t.jpg"
   },
   {
     "name": "Game of Donkey",
@@ -199,7 +192,7 @@
     "minplayers": 2,
     "maxplayers": 8,
     "link": "https://boardgamegeek.com/boardgame/15505/last-straw",
-    "thumbnail": "https://www.spillsjefen.no/images/pakkesel.jpg"
+    "thumbnail": "https://api.andersos.net/assets/pakkesel.jpg"
   },
   {
     "name": "Game of Thrones",
@@ -215,7 +208,7 @@
     "minplayers": 2,
     "maxplayers": 2,
     "link": "https://boardgamegeek.com/boardgame/2266/gobblet",
-    "thumbnail": "http://ecx.images-amazon.com/images/I/41QOpMfQRRL.jpg"
+    "thumbnail": "https://api.andersos.net/assets/gobblet.jpg"
   },
   {
     "name": "Gruble",
@@ -223,7 +216,7 @@
     "minplayers": 2,
     "maxplayers": 12,
     "link": "https://boardgamegeek.com/boardgame/28296/gruble",
-    "thumbnail": "https://www.spillsjefen.no/images/product_board_gruble.jpg"
+    "thumbnail": "https://api.andersos.net/assets/gruble.jpg"
   },
   {
     "name": "Guillotine",
@@ -231,7 +224,7 @@
     "minplayers": 2,
     "maxplayers": 5,
     "link": "https://boardgamegeek.com/boardgame/116/guillotine",
-    "thumbnail": "https://cf.geekdo-images.com/images/pic143139.jpg"
+    "thumbnail": "https://cf.geekdo-images.com/images/pic143139_t.jpg"
   },
   {
     "name": "Hanabi",
@@ -239,7 +232,7 @@
     "minplayers": 2,
     "maxplayers": 5,
     "link": "https://boardgamegeek.com/boardgame/98778/hanabi",
-    "thumbnail": "https://cf.geekdo-images.com/images/pic2007286_md.jpg"
+    "thumbnail": "https://cf.geekdo-images.com/images/pic2007286_t.jpg"
   },
   {
     "name": "Ingeniørspillet",
@@ -247,8 +240,7 @@
     "minplayers": 2,
     "maxplayers": 12,
     "link": "https://boardgamegeek.com/boardgame/96481/ingeniorspillet",
-    "thumbnail":
-      "http://www.vitenwahl.no/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/f/i/file_61_2.jpg"
+    "thumbnail": "https://cf.geekdo-images.com/images/pic1015128_t.png"
   },
   {
     "name": "Jeg Har Aldri Original",
@@ -256,16 +248,14 @@
     "minplayers": 2,
     "maxplayers": 12,
     "link": "https://boardgamegeek.com/boardgame/200292/jeg-har-aldri",
-    "thumbnail":
-      "https://gamezone.no/Media/Cache/Images/5/8/WEB_Image%20Jeg%20Har%20Aldri%20-%20Original%20-%20Kortspill%20Vil-459123470.Jpeg"
+    "thumbnail": "https://api.andersos.net/assets/jegharaldri.jpg"
   },
   {
     "name": "Jentekveld",
     "time": "60",
     "minplayers": 2,
     "maxplayers": 5,
-    "thumbnail":
-      "https://cdn.coolstuff.com/autogen/preset/aspectThumb/960x720/afa1903b4dee86d4554ae082727c95c8.jpg",
+    "thumbnail": "https://api.andersos.net/assets/jentekveld.jpg",
     "link":
       "https://gamezone.no/avdelinger/brettspill-nettbutikk/partyspill/partyspill/jentekveld-kortspill-til-den-ultimate-jentekvelden-125355-p0000054146"
   },
@@ -275,7 +265,7 @@
     "minplayers": 2,
     "maxplayers": 4,
     "link": "https://boardgamegeek.com/boardgame/161965/johari",
-    "thumbnail": "https://cf.geekdo-images.com/images/pic2068216_md.jpg"
+    "thumbnail": "https://cf.geekdo-images.com/images/pic2068216_t.jpg"
   },
   {
     "name": "King of Tokyo",
@@ -283,7 +273,7 @@
     "minplayers": 2,
     "maxplayers": 6,
     "link": "https://boardgamegeek.com/boardgame/70323/king-tokyo",
-    "thumbnail": "https://cf.geekdo-images.com/images/pic761434.jpg"
+    "thumbnail": "https://cf.geekdo-images.com/images/pic761434_t.jpg"
   },
   {
     "name": "Kitchen Rush",
@@ -291,7 +281,7 @@
     "minplayers": 1,
     "maxplayers": 4,
     "link": "https://boardgamegeek.com/boardgame/223953/kitchen-rush",
-    "thumbnail": "https://cf.geekdo-images.com/images/pic3559531_md.jpg"
+    "thumbnail": "https://cf.geekdo-images.com/images/pic3559531_t.jpg"
   },
   {
     "name": "Ligretto",
@@ -299,7 +289,7 @@
     "minplayers": 2,
     "maxplayers": 4,
     "link": "https://boardgamegeek.com/boardgame/943/ligretto",
-    "thumbnail": "http://www.gt-holding.de/sites/default/files/ligretto_packshot_0.gif"
+    "thumbnail": "https://api.andersos.net/assets/ligretto.jpg"
   },
   {
     "name": "Lords of Waterdeep",
@@ -308,8 +298,7 @@
     "maxplayers": 6,
     "expansions": ["Scoundrels Expansion kjøpt av Marte"],
     "link": "https://boardgamegeek.com/boardgame/110327/lords-waterdeep",
-    "thumbnail":
-      "https://cf.geekdo-images.com/VYYUbyIZHFJSUCS9Os2ndcV041k=/fit-in/246x300/pic1116080.jpg"
+    "thumbnail": "https://cf.geekdo-images.com/images/pic1116080_t.jpg"
   },
   {
     "name": "Love letter",
@@ -317,7 +306,7 @@
     "minplayers": 2,
     "maxplayers": 4,
     "link": "https://boardgamegeek.com/boardgame/129622/love-letter",
-    "thumbnail": "https://cf.geekdo-images.com/images/pic1401448_md.jpg"
+    "thumbnail": "https://cf.geekdo-images.com/images/pic1401448_t.jpg"
   },
   {
     "name": "Machi Koro",
@@ -325,7 +314,7 @@
     "minplayers": 2,
     "maxplayers": 4,
     "link": "https://boardgamegeek.com/boardgame/143884/machi-koro",
-    "thumbnail": "https://cf.geekdo-images.com/images/pic1992476_md.jpg"
+    "thumbnail": "https://cf.geekdo-images.com/images/pic1992476_t.jpg"
   },
   {
     "name": "Master Thief",
@@ -333,8 +322,7 @@
     "minplayers": 3,
     "maxplayers": 6,
     "link": "https://boardgamegeek.com/boardgame/195476/master-thief",
-    "thumbnail":
-      "https://cf.geekdo-images.com/t2Z4MSkKMual18ct_A8GWb5jED0=/fit-in/246x300/pic3793002.jpg"
+    "thumbnail": "https://cf.geekdo-images.com/images/pic3793002_t.jpg"
   },
   {
     "name": "Munchkin",
@@ -342,7 +330,7 @@
     "minplayers": 3,
     "maxplayers": 6,
     "link": "https://boardgamegeek.com/boardgame/1927/munchkin",
-    "thumbnail": "https://cf.geekdo-images.com/images/pic1871016_md.jpg"
+    "thumbnail": "https://cf.geekdo-images.com/images/pic1871016_t.jpg"
   },
   {
     "name": "Mysterium",
@@ -351,8 +339,7 @@
     "minplayers": 2,
     "maxplayers": 7,
     "link": "https://boardgamegeek.com/boardgame/181304/mysterium",
-    "thumbnail":
-      "https://cf.geekdo-images.com/medium/img/VFHUJVZDZXGeQ3PBP2xPcnAYBho=/fit-in/500x500/filters:no_upscale()/pic2601683.jpg"
+    "thumbnail": "https://cf.geekdo-images.com/images/pic2601683_t.jpg"
   },
   {
     "name": "One Night Ultimate Werewolf",
@@ -360,7 +347,7 @@
     "minplayers": 3,
     "maxplayers": 10,
     "link": "https://boardgamegeek.com/boardgame/147949/one-night-ultimate-werewolf",
-    "thumbnail": "https://cf.geekdo-images.com/images/pic1809823.jpg"
+    "thumbnail": "https://cf.geekdo-images.com/images/pic1809823_t.jpg"
   },
   {
     "name": "Pandemic",
@@ -368,7 +355,7 @@
     "minplayers": 2,
     "maxplayers": 4,
     "link": "https://boardgamegeek.com/boardgame/30549/pandemic",
-    "thumbnail": "https://cf.geekdo-images.com/images/pic1534148.jpg"
+    "thumbnail": "https://cf.geekdo-images.com/images/pic1534148_t.jpg"
   },
   {
     "name": "Playing Lean",
@@ -376,7 +363,7 @@
     "minplayers": 2,
     "maxplayers": 12,
     "link": "https://boardgamegeek.com/image/2512995/playing-lean",
-    "thumbnail": "https://cf.geekdo-images.com/images/pic2512995_md.jpg"
+    "thumbnail": "https://cf.geekdo-images.com/images/pic2512995_t.jpg"
   },
   {
     "name": "Poker 500 Chips",
@@ -384,7 +371,7 @@
     "minplayers": 2,
     "maxplayers": 12,
     "link": "https://boardgamegeek.com/boardgame/1115/poker",
-    "thumbnail": "http://api.andersos.net/assets/poker.jpg"
+    "thumbnail": "https://api.andersos.net/assets/poker.jpg"
   },
   {
     "name": "Risk 2210 AD",
@@ -392,7 +379,7 @@
     "minplayers": 2,
     "maxplayers": 5,
     "link": "https://boardgamegeek.com/boardgame/1829/risk-2210-d",
-    "thumbnail": "https://cf.geekdo-images.com/images/pic326796_md.jpg"
+    "thumbnail": "https://cf.geekdo-images.com/images/pic326796_t.jpg"
   },
   {
     "name": "Scrimish Card Game",
@@ -400,7 +387,7 @@
     "minplayers": 2,
     "maxplayers": 4,
     "link": "https://www.boardgamegeek.com/boardgame/189890/scrimish-card-game",
-    "thumbnail": "https://cf.geekdo-images.com/images/pic2825575_md.jpg"
+    "thumbnail": "https://cf.geekdo-images.com/images/pic2825575_t.jpg"
   },
   {
     "name": "Secret Hitler",
@@ -408,7 +395,7 @@
     "minplayers": 5,
     "maxplayers": 10,
     "link": "https://boardgamegeek.com/boardgame/188834/secret-hitler",
-    "thumbnail": "https://cf.geekdo-images.com/images/pic2771488_md.png"
+    "thumbnail": "https://cf.geekdo-images.com/images/pic2771488_t.png"
   },
   {
     "name": "Settlers of Catan",
@@ -417,7 +404,7 @@
     "maxplayers": 6,
     "expansions": ["Seafarers", "5-6 players"],
     "link": "https://boardgamegeek.com/boardgame/13/catan",
-    "thumbnail": "https://cdn0.vox-cdn.com/assets/4193065/image10.jpg"
+    "thumbnail": "https://cf.geekdo-images.com/images/pic2419375_t.jpg"
   },
   {
     "name": "Small World",
@@ -425,7 +412,7 @@
     "minplayers": 2,
     "maxplayers": 5,
     "link": "https://boardgamegeek.com/boardgame/40692/small-world",
-    "thumbnail": "https://cf.geekdo-images.com/images/pic428828_md.jpg"
+    "thumbnail": "https://cf.geekdo-images.com/images/pic428828_t.jpg"
   },
   {
     "name": "Spaceteam",
@@ -433,7 +420,7 @@
     "minplayers": 3,
     "maxplayers": 6,
     "link": "https://www.boardgamegeek.com/boardgame/184491/spaceteam",
-    "thumbnail": "https://cf.geekdo-images.com/images/pic2722498_md.png"
+    "thumbnail": "https://cf.geekdo-images.com/images/pic2722498_t.png"
   },
   {
     "name": "Spyfall (App)",
@@ -442,7 +429,7 @@
     "maxplayers": 8,
     "tags": "App",
     "link": "https://boardgamegeek.com/boardgame/166384/spyfall",
-    "thumbnail": "https://cf.geekdo-images.com/images/pic2453926_md.jpg"
+    "thumbnail": "https://cf.geekdo-images.com/images/pic2453926_t.jpg"
   },
   {
     "name": "Sushi Go",
@@ -450,7 +437,7 @@
     "minplayers": 2,
     "maxplayers": 5,
     "link": "https://www.boardgamegeek.com/boardgame/133473/sushi-go",
-    "thumbnail": "https://cf.geekdo-images.com/images/pic1900075_md.jpg"
+    "thumbnail": "https://cf.geekdo-images.com/images/pic1900075_t.jpg"
   },
   {
     "name": "Takenoko",
@@ -459,7 +446,7 @@
     "maxplayers": 4,
     "expansions": ["Takenoko: Chibis"],
     "link": "https://boardgamegeek.com/boardgame/70919/takenoko",
-    "thumbnail": "https://cf.geekdo-images.com/images/pic1912529_md.jpg"
+    "thumbnail": "https://cf.geekdo-images.com/images/pic1912529_t.jpg"
   },
   {
     "name": "The Hare and the Tortoise",
@@ -467,7 +454,7 @@
     "minplayers": 2,
     "maxplayers": 5,
     "link": "https://boardgamegeek.com/boardgame/130176/tales-games-hare-tortoise",
-    "thumbnail": "https://cf.geekdo-images.com/images/pic2433578_md.jpg"
+    "thumbnail": "https://cf.geekdo-images.com/images/pic2433578_t.jpg"
   },
   {
     "name": "Ticket To Ride Europe",
@@ -475,7 +462,7 @@
     "minplayers": 2,
     "maxplayers": 5,
     "link": "https://boardgamegeek.com/boardgame/14996/ticket-ride-europe",
-    "thumbnail": "http://ecx.images-amazon.com/images/I/71ohIPFjLJL.jpg"
+    "thumbnail": "https://cf.geekdo-images.com/images/pic66668_t.jpg"
   },
   {
     "name": "Tokaido",
@@ -483,7 +470,7 @@
     "minplayers": 2,
     "maxplayers": 5,
     "link": "https://boardgamegeek.com/boardgame/123540/tokaido",
-    "thumbnail": "https://cf.geekdo-images.com/images/pic1293719_md.jpg"
+    "thumbnail": "https://cf.geekdo-images.com/images/pic1293719_t.jpg"
   },
   {
     "name": "Unearth",
@@ -492,8 +479,7 @@
     "minplayers": 2,
     "maxplayers": 4,
     "link": "https://boardgamegeek.com/boardgame/217085/unearth",
-    "thumbnail":
-      "https://cf.geekdo-images.com/medium/img/1RekQ_0xre5cqD0eWGdnaAsYAZ8=/fit-in/500x500/filters:no_upscale()/pic3579391.jpg"
+    "thumbnail": "https://cf.geekdo-images.com/images/pic3579391_t.jpg"
   },
   {
     "name": "Uno",
@@ -501,7 +487,7 @@
     "minplayers": 2,
     "maxplayers": 10,
     "link": "https://boardgamegeek.com/boardgame/2223/uno",
-    "thumbnail": "https://cf.geekdo-images.com/images/pic73103.jpg"
+    "thumbnail": "https://cf.geekdo-images.com/images/pic73103_t.jpg"
   },
   {
     "name": "Zombie Dice",
@@ -509,7 +495,6 @@
     "minplayers": 2,
     "maxplayers": 10,
     "link": "https://boardgamegeek.com/boardgame/62871/zombie-dice",
-    "thumbnail":
-      "https://cf.geekdo-images.com/cIR4XIDj_RkC4tsBS4AR5huzt9c=/fit-in/246x300/pic2664015.jpg"
+    "thumbnail": "https://cf.geekdo-images.com/images/pic2664015_t.jpg"
   }
 ]
