@@ -1,0 +1,2 @@
+# Redirect default Netlify subdomain to primary domain
+http://apianders.netlify.com/* http://api.andersos.net/:splat 301!
