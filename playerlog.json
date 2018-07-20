@@ -480,5 +480,12 @@
     "players": ["Kristian", "Anders"],
     "comment": "Kristian 18,5 Anders 14",
     "winners": ["Kristian"]
+  },
+  {
+    "date": "2018-07-01",
+    "game": "Five Tribes",
+    "players": ["Kristian", "Anders", "Marte"],
+    "comment": "Kristian 125 Anders 162 Marte 151",
+    "winners": ["Anders"]
   }
 ]
