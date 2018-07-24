@@ -1,5 +1,5 @@
-const activity = require('../activity.json');
 const assert = require('assert');
+const activity = require('../activity.json');
 const blood = require('../blood.json');
 const boardgames = require('../boardgames.json');
 const books = require('../books.json');
@@ -8,6 +8,7 @@ const playerlog = require('../playerlog.json');
 const podcasts = require('../podcasts.json');
 const series = require('../series.json');
 // const trips = require('../trips.json');
+// const runs = require('../runs.json');
 
 function ElementsHasProperty(elements, prop) {
   return elements.reduce((acc, value) => {
@@ -119,7 +120,7 @@ describe('The books api', () => {
 });
 
 describe('The culture api', () => {
-  it('is valid JSON', () => {
+  it.skip('is valid JSON', () => {
     // TODO: Wait until culture api is updated
     // assert(isValidJSON(culture));
   });
@@ -193,8 +194,15 @@ describe('The series api', () => {
 });
 
 describe('The trips api', () => {
-  it('is valid JSON', () => {
+  it.skip('is valid JSON', () => {
     // TODO: Wait until trips api is updated
+    // assert(isValidJSON(trips));
+  });
+});
+
+describe('The runs api', () => {
+  it.skip('is valid JSON', () => {
+    // TODO: Wait until runs api is updated
     // assert(isValidJSON(trips));
   });
 });

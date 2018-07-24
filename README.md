@@ -1,4 +1,4 @@
-# [api.andersos.net](api.andersos.net) [![Build Status](https://travis-ci.org/Andersos/api.andersos.net.svg?branch=gh-pages)](https://travis-ci.org/Andersos/api.andersos.net)
+# [api.andersos.net](https://api.andersos.net)
 
 ## Rating
 I am using the 1-10 scale from IMDB. Underneath is a table explaining the different values and meanings.

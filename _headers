@@ -1,10 +1,6 @@
-
 # All paths
 /*
-    Access-Control-Allow-Origin: *
     X-Frame-Options: DENY
     X-Content-Type-Options: nosniff
     X-XSS-Protection: 1; mode=block
-    Content-Security-Policy: default-src 'none'; frame-ancestors 'none'; base-uri 'none'; form-action 'none'; script-src 'unsafe-inline'; style-src 'unsafe-inline'; img-src 'self';
-
-
+    Content-Security-Policy: default-src 'none'; connect-src https://api.andersos.net; frame-ancestors 'none'; base-uri 'none'; form-action 'none'; manifest-src 'self'; style-src 'sha256-eF2UlJVdBCdHsesq+CMR48O85jnOkjLyUHY/on63des=';

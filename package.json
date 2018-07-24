@@ -1,51 +1,23 @@
 {
   "name": "api.andersos.net",
-  "description": "My api of stuff",
-  "version": "0.0.1",
-  "homepage": "http://api.andersos.net",
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/Andersos/api.andersos.net.git"
-  },
-  "license": "MIT",
+  "description": "My API of things",
+  "version": "2.0.0",
+  "homepage": "https://api.andersos.net",
   "scripts": {
-    "start": "webpack-dev-server --config webpack-dev-server.config.js --progress --inline --colors",
-    "build": "webpack --config webpack-production.config.js --progress --colors",
-    "test": "yarn run lint:js && ./node_modules/.bin/mocha --recursive test/*",
-    "lint:js": "eslint . --cache --cache-location=.cache/eslint --ext .jsx,.js --ignore-pattern build"
-  },
-  "devDependencies": {
-    "babel-core": "^6.18.0",
-    "babel-eslint": "^7.1.0",
-    "babel-loader": "^6.2.7",
-    "babel-preset-es2015": "^6.18.0",
-    "babel-preset-react": "^6.3.13",
-    "eslint": "^4.8.0",
-    "eslint-config-airbnb": "^15.1.0",
-    "eslint-plugin-import": "^2.7.0",
-    "eslint-plugin-jsx-a11y": "^5.1.1",
-    "eslint-plugin-react": "^7.4.0",
-    "html-webpack-plugin": "^2.7.2",
-    "mocha": "^3.0.0",
-    "react-hot-loader": "^1.3.0",
-    "webpack-dev-server": "^1.14.0"
+    "start": "live-server --port=8080",
+    "lint": "eslint .",
+    "test": "jest"
   },
   "dependencies": {
-    "babel-core": "^6.18.0",
-    "exports-loader": "^0.6.3",
-    "imports-loader": "^0.6.5",
-    "material-ui": "^0.16.1",
-    "react": "^15.0.1",
-    "react-dom": "^15.0.1",
-    "react-tap-event-plugin": "^3.0.2",
-    "transfer-webpack-plugin": "^0.1.4",
-    "webpack": "^1.13.3",
-    "whatwg-fetch": "^2.0.0"
+    "eslint": "^4.19.1",
+    "eslint-config-airbnb": "17.0.0",
+    "eslint-plugin-import": "^2.12.0",
+    "eslint-plugin-jsx-a11y": "^6.0.3",
+    "eslint-plugin-react": "^7.9.1",
+    "jest": "^23.4.1",
+    "live-server": "^1.2.0"
   },
   "eslintConfig": {
-    "extends": "airbnb",
-    "rules": {
-      "react/jsx-filename-extension": 0
-    }
+    "extends": "airbnb"
   }
 }
