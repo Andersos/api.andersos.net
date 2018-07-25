@@ -487,5 +487,36 @@
     "players": ["Kristian", "Anders", "Marte"],
     "comment": "Kristian 125 Anders 162 Marte 151",
     "winners": ["Anders"]
+  },
+  {
+    "date": "2018-07-23",
+    "game": "Exploding Kittens",
+    "players": ["Anders", "Sondre"],
+    "winners": ["Anders"]
+  },
+  {
+    "date": "2018-07-23",
+    "game": "Unearth",
+    "players": ["Rikke", "Anders", "Sondre"],
+    "comment": "1. Sondre, 2. Rikke, 3. Anders",
+    "winners": ["Sondre"]
+  },
+  {
+    "date": "2018-07-22",
+    "game": "Love Letter",
+    "players": ["Rikke", "Anders", "Sondre", "Marte"],
+    "winners": ["Marte"]
+  },
+  {
+    "date": "2018-07-22",
+    "game": "Love Letter",
+    "players": ["Rikke", "Anders", "Sondre", "Marte"],
+    "winners": ["Sondre"]
+  },
+  {
+    "date": "2018-07-22",
+    "game": "Alias",
+    "players": ["Rikke", "Anders", "Sondre", "Marte"],
+    "winners": ["Rikke", "Marte"]
   }
 ]
