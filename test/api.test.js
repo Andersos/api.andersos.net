@@ -7,6 +7,7 @@ const books = require('../books.json');
 const playerlog = require('../playerlog.json');
 const podcasts = require('../podcasts.json');
 const series = require('../series.json');
+const movies = require('../movies.json');
 // const trips = require('../trips.json');
 // const runs = require('../runs.json');
 
@@ -147,8 +148,7 @@ describe('The playerlog', () => {
     it('has winners', () => {
       const allHasWinners = playerlog.reduce((acc, value) => {
         const hasWinners = Object.prototype.hasOwnProperty.call(value, 'winners');
-        const noStats =
-          Object.prototype.hasOwnProperty.call(value, 'stats') && value.stats === false;
+        const noStats = Object.prototype.hasOwnProperty.call(value, 'stats') && value.stats === false;
         const countWinners = hasWinners || noStats;
         if (!countWinners) {
           console.log(value);
@@ -173,6 +173,30 @@ describe('The podcasts api', () => {
 
     it('has last', () => {
       assert(ElementsHasProperty(podcasts, 'last'));
+    });
+  });
+});
+
+describe('The movies api', () => {
+  it('is valid JSON', () => {
+    assert(isValidJSON(movies));
+  });
+
+  describe('each record', () => {
+    it('has name', () => {
+      assert(ElementsHasProperty(movies, 'Title'));
+    });
+
+    it('has imdb id', () => {
+      assert(ElementsHasProperty(movies, 'Const'));
+    });
+
+    it('has date', () => {
+      assert(ElementsHasProperty(movies, 'Date Rated'));
+    });
+
+    it('has has rating', () => {
+      assert(ElementsHasProperty(movies, 'Your Rating'));
     });
   });
 });
