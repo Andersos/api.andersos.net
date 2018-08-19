@@ -11,6 +11,7 @@
 {"isbn":0,"name":"An Introduction to Programming in Go","tags":["to-read","link"],"link":"https://www.golang-book.com/books/intro","thumbnail":"https://d.gr-assets.com/books/1366744500l/15992715.jpg"},
 {"isbn":0,"name":"Front-end Handbook","link":"https://www.gitbook.com/star/book/frontendmasters/front-end-handbook"},
 {"isbn":0,"name":"Neural Networks and Deep Learning","link":"http://neuralnetworksanddeeplearning.com/"},
+{"isbn":0,"name":"Human Redux","reading":true,"tags":["to-read","free-online"],"link":"https://read.reduxbook.com/","thumbnail":"http://humanjavascript.com/images/human-javascript.png"},
 {"isbn":0,"name":"Human Javascript","reading":true,"tags":["to-read","free-online"],"link":"read.humanjavascript.com","thumbnail":"http://humanjavascript.com/images/human-javascript.png"},
 {"isbn":0,"name":"Redux Book","reading":true,"tags":["to-read"],"link":"https://reduxbook.com/","thumbnail":"https://reduxbook.com/images/ipad.png"},
 {"isbn":0,"name":"The Leader’s Guide - Eric Ries","tags":["to-read"],"thumbnail":"https://ksr-ugc.imgix.net/projects/1694890/photo-original.jpeg?v=1426265725&w=1536&h=1152&fit=crop&auto=format&q=92&s=da476ac23590d4d59e07bf0e6d22871d"},
