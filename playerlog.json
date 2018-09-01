@@ -518,5 +518,11 @@
     "game": "Alias",
     "players": ["Rikke", "Anders", "Sondre", "Marte"],
     "winners": ["Rikke", "Marte"]
+  },
+  {
+    "date": "2018-08-31",
+    "game": "Love Letter",
+    "players": ["Kristian", "Anders", "Geir", "Ann Harriet"],
+    "winners": ["Ann Harriet"]
   }
 ]
