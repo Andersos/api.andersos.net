@@ -6,14 +6,54 @@
     "HbF": "",
     "gift": ""
   },
-  { "date": "2010.01.14", "location": "St. Olavs Hospital", "HbF": "", "gift": "" },
-  { "date": "2010.04.03", "location": "St. Olavs Hospital", "HbF": "", "gift": "" },
-  { "date": "2010.08.26", "location": "St. Olavs Hospital", "HbF": "", "gift": "" },
-  { "date": "2010.12.06", "location": "St. Olavs Hospital", "HbF": "", "gift": "" },
-  { "date": "2011.03.15", "location": "St. Olavs Hospital", "HbF": "", "gift": "" },
-  { "date": "2011.06.23", "location": "St. Olavs Hospital", "HbF": "", "gift": "" },
-  { "date": "2011.10.14", "location": "St. Olavs Hospital", "HbF": "", "gift": "" },
-  { "date": "2012.08.30", "location": "St. Olavs Hospital", "HbF": "", "gift": "" },
+  {
+    "date": "2010.01.14",
+    "location": "St. Olavs Hospital",
+    "HbF": "",
+    "gift": ""
+  },
+  {
+    "date": "2010.04.03",
+    "location": "St. Olavs Hospital",
+    "HbF": "",
+    "gift": ""
+  },
+  {
+    "date": "2010.08.26",
+    "location": "St. Olavs Hospital",
+    "HbF": "",
+    "gift": ""
+  },
+  {
+    "date": "2010.12.06",
+    "location": "St. Olavs Hospital",
+    "HbF": "",
+    "gift": ""
+  },
+  {
+    "date": "2011.03.15",
+    "location": "St. Olavs Hospital",
+    "HbF": "",
+    "gift": ""
+  },
+  {
+    "date": "2011.06.23",
+    "location": "St. Olavs Hospital",
+    "HbF": "",
+    "gift": ""
+  },
+  {
+    "date": "2011.10.14",
+    "location": "St. Olavs Hospital",
+    "HbF": "",
+    "gift": ""
+  },
+  {
+    "date": "2012.08.30",
+    "location": "St. Olavs Hospital",
+    "HbF": "",
+    "gift": ""
+  },
   {
     "date": "2012.12.04",
     "time": "09:15",
@@ -123,5 +163,12 @@
     "location": "Ullevål sykehus",
     "HbF": "16,1",
     "gift": "Mumi - Sommer 2018"
+  },
+  {
+    "date": "2018.21.09",
+    "time": "09:00",
+    "location": "Ullevål sykehus",
+    "HbF": "14,9",
+    "gift": "Mumi - Thingumy og Bob"
   }
 ]
