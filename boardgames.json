@@ -20,7 +20,8 @@
     "time": "45",
     "minplayers": 4,
     "maxplayers": 12,
-    "link": "https://boardgamegeek.com/boardgameexpansion/103017/alias-new-cards",
+    "link":
+      "https://boardgamegeek.com/boardgameexpansion/103017/alias-new-cards",
     "thumbnail": "https://cf.geekdo-images.com/images/pic1043639_md.jpg"
   },
   {
@@ -167,7 +168,8 @@
     "time": "15",
     "minplayers": 2,
     "maxplayers": 5,
-    "link": "https://boardgamegeek.com/boardgame/172242/exploding-kittens-nsfw-deck",
+    "link":
+      "https://boardgamegeek.com/boardgame/172242/exploding-kittens-nsfw-deck",
     "thumbnail": "https://cf.geekdo-images.com/images/pic2815278_md.jpg"
   },
   {
@@ -199,7 +201,8 @@
     "time": "120",
     "minplayers": 3,
     "maxplayers": 6,
-    "link": "https://boardgamegeek.com/boardgame/103343/game-thrones-board-game-second-edition",
+    "link":
+      "https://boardgamegeek.com/boardgame/103343/game-thrones-board-game-second-edition",
     "thumbnail": "https://cf.geekdo-images.com/images/pic1077906_md.jpg"
   },
   {
@@ -346,7 +349,8 @@
     "time": "10",
     "minplayers": 3,
     "maxplayers": 10,
-    "link": "https://boardgamegeek.com/boardgame/147949/one-night-ultimate-werewolf",
+    "link":
+      "https://boardgamegeek.com/boardgame/147949/one-night-ultimate-werewolf",
     "thumbnail": "https://cf.geekdo-images.com/images/pic1809823_md.jpg"
   },
   {
@@ -388,6 +392,14 @@
     "maxplayers": 4,
     "link": "https://www.boardgamegeek.com/boardgame/189890/scrimish-card-game",
     "thumbnail": "https://cf.geekdo-images.com/images/pic2825575_md.jpg"
+  },
+  {
+    "name": "Scythe",
+    "time": "115",
+    "minplayers": 1,
+    "maxplayers": 5,
+    "link": "https://boardgamegeek.com/boardgame/169786/scythe",
+    "thumbnail": "https://cf.geekdo-images.com/images/pic3163924_md.jpg"
   },
   {
     "name": "Secret Hitler",
@@ -453,7 +465,8 @@
     "time": "15",
     "minplayers": 2,
     "maxplayers": 5,
-    "link": "https://boardgamegeek.com/boardgame/130176/tales-games-hare-tortoise",
+    "link":
+      "https://boardgamegeek.com/boardgame/130176/tales-games-hare-tortoise",
     "thumbnail": "https://cf.geekdo-images.com/images/pic2433578_md.jpg"
   },
   {
@@ -469,6 +482,7 @@
     "time": "45",
     "minplayers": 2,
     "maxplayers": 5,
+    "rent": "Nikolai",
     "link": "https://boardgamegeek.com/boardgame/123540/tokaido",
     "thumbnail": "https://cf.geekdo-images.com/images/pic1293719_md.jpg"
   },
