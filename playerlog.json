@@ -1,5 +1,12 @@
 [
   {
+    "date": "2018-10-27",
+    "game": "Ticket to ride",
+    "players": ["Francesco", "Victoria", "Anders", "Kristian", "Marte"],
+    "comment": "F 127 M 116 V 106 A 95 K 94",
+    "winners": ["Francesco"]
+  },
+  {
     "date": "2014-08-31",
     "game": "Eldritch Horror",
     "players": ["Robin", "Lars", "Anders", "Jens", "Peder", "Martin"],
