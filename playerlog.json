@@ -634,5 +634,11 @@
     "game": "The Hare and the Tortoise",
     "players": ["Marte", "Anders", "Anna", "Emil", "Juliet"],
     "winners": ["Anna"]
+  },
+  {
+    "date": "2018-11-01",
+    "game": "Ship it!",
+    "players": ["Sjur", "Anders", "Cathrine"],
+    "winners": ["Sjur"]
   }
 ]
