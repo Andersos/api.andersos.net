@@ -127,10 +127,17 @@
   },
   {
     "date": "06.04.2018",
-    "name": "Dag Sørås",
+    "name": "Emokrati - Dag Sørås",
+    "type": "Comedy",
+    "place": "Rockefeller",
+    "people": ["Kristian", "Anders"]
+  },
+  {
+    "date": "03.11.2018",
+    "name": "Dag Sørås - Dag Sørås",
     "type": "Comedy",
     "place": "John Dee",
-    "comment": "With Morten"
+    "people": ["Morten", "Anders"]
   }
 ]
 
@@ -235,5 +242,3 @@ August 2010 Became Roommates with Morten Hestdal and Brit Elise Melhus in Trondh
 2009-08-15 Paintball
 2009-07-11 hukommelsesutfordringen juli 09 50/50 med Linda T hukkomelse 50 første i periodesystemet
 1 novemebr kl 14 2015 Marte kristian jørgen og meg EscapeRoom - ”The Gallery“ på teamescape oslo
-
-
