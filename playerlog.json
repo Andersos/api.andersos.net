@@ -1,7 +1,28 @@
 [
+    {
+      "date": "2018-12-01",
+     "game": "Secret Hitler",
+      "players": ["Francesco", "Victoria", "Anders", "Marte", "Jackie", "Aaron", "Christopher"],
+      "comment": "Christopher was Hitler and got elected as Chansleor after 3 Fascist policies",
+      "winners": ["Anders", "Francesco", "Christopher"]
+    },
+    {
+      "date": "2018-12-01",
+     "game": "Secret Hitler",
+      "players": ["Francesco", "Victoria", "Anders", "Marte", "Jackie", "Aaron", "Christopher"],
+      "comment": "Aaron was Hitler and got elected as Chansleor",
+      "winners": ["Anders", "Marte", "Aaron"]
+    },
+  {
+    "date": "2018-12-01",
+   "game": "Secret Hitler",
+    "players": ["Francesco", "Victoria", "Anders", "Marte", "Jackie", "Aaron", "Christopher"],
+    "comment": "Liberals won with 5 policies. Aron was Hitler",
+    "winners": ["Francesco", "Marte", "Christopher", "Anders"]
+  },
   {
     "date": "2018-10-27",
-    "game": "Ticket to ride",
+    "game": "Ticket To Ride Europe",
     "players": ["Francesco", "Victoria", "Anders", "Kristian", "Marte"],
     "comment": "F 127 M 116 V 106 A 95 K 94",
     "winners": ["Francesco"]
@@ -361,15 +382,15 @@
   {
     "date": "2018-03-25",
     "game": "Concept",
-    "players": ["Cecilie", "Chris", "Marte", "Anders", "Francesco"],
+    "players": ["Cecilie", "Christopher", "Marte", "Anders", "Francesco"],
     "winners": ["Marte"]
   },
   {
     "date": "2018-03-25",
     "game": "Coup",
-    "players": ["Cecilie", "Chris", "Marte", "Anders", "Francesco"],
-    "winners": ["Chris"],
-    "comment": "6 spill. Chris vant samlet"
+    "players": ["Cecilie", "Christopher", "Marte", "Anders", "Francesco"],
+    "winners": ["Christopher"],
+    "comment": "6 spill. Christopher vant samlet"
   },
   {
     "date": "2018-03-28",
@@ -518,15 +539,13 @@
   {
     "date": "2018-07-08",
     "game": "Coup",
-    "players": "Francesco, Victoria, Cecilie, Chris, Marte og Anders",
-    "players": ["Chris", "Anders", "Marte", "Victoria", "Francesco", "Cecilie"],
+    "players": ["Christopher", "Anders", "Marte", "Victoria", "Francesco", "Cecilie"],
     "winners": ["Anders"]
   },
   {
     "date": "2018-07-15",
     "game": "Game of Life",
-    "players": "Francesco, Victoria, Chris, Anders, Kari og Trym",
-    "players": ["Chris", "Anders", "Trym", "Victoria", "Francesco", "Kari A"],
+    "players": ["Christopher", "Anders", "Trym", "Victoria", "Francesco", "Kari A"],
     "winners": ["Anders"]
   },
   {
