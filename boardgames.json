@@ -251,7 +251,7 @@
     "minplayers": 2,
     "maxplayers": 12,
     "link": "https://boardgamegeek.com/boardgame/96481/ingeniorspillet",
-    "thumbnail": "https://api.andersos.net/assets/ingeniorspillet.jpg"
+    "thumbnail": "https://api.andersos.net/assets/ingeniorspillet.png"
   },
   {
     "name": "Jeg Har Aldri Original",
@@ -326,7 +326,7 @@
     "minplayers": 2,
     "maxplayers": 4,
     "link": "https://boardgamegeek.com/boardgame/143884/machi-koro",
-    "thumbnail": "https://cf.geekdo-images.com/images/pic1992476_md.jpg"
+    "thumbnail": "https://api.andersos.net/assets/machi-koro.jpg"
   },
   {
     "name": "Master Thief",
@@ -334,7 +334,7 @@
     "minplayers": 3,
     "maxplayers": 6,
     "link": "https://boardgamegeek.com/boardgame/195476/master-thief",
-    "thumbnail": "https://cf.geekdo-images.com/images/pic3793002_md.jpg"
+    "thumbnail": "https://api.andersos.net/assets/master-thief.jpg"
   },
   {
     "name": "Munchkin",
@@ -342,7 +342,7 @@
     "minplayers": 3,
     "maxplayers": 6,
     "link": "https://boardgamegeek.com/boardgame/1927/munchkin",
-    "thumbnail": "https://cf.geekdo-images.com/images/pic1871016_md.jpg"
+    "thumbnail": "https://api.andersos.net/assets/munchkin.jpg"
   },
   {
     "name": "Mysterium",
@@ -351,7 +351,7 @@
     "minplayers": 2,
     "maxplayers": 7,
     "link": "https://boardgamegeek.com/boardgame/181304/mysterium",
-    "thumbnail": "https://cf.geekdo-images.com/images/pic2601683_md.jpg"
+    "thumbnail": "https://api.andersos.net/assets/mysterium.jpg"
   },
   {
     "name": "One Night Ultimate Werewolf",
@@ -360,7 +360,7 @@
     "maxplayers": 10,
     "link":
       "https://boardgamegeek.com/boardgame/147949/one-night-ultimate-werewolf",
-    "thumbnail": "https://cf.geekdo-images.com/images/pic1809823_md.jpg"
+    "thumbnail": "https://api.andersos.net/assets/werewolf.jpg"
   },
   {
     "name": "Pandemic",
@@ -368,7 +368,7 @@
     "minplayers": 2,
     "maxplayers": 4,
     "link": "https://boardgamegeek.com/boardgame/30549/pandemic",
-    "thumbnail": "https://cf.geekdo-images.com/images/pic1534148_md.jpg"
+    "thumbnail": "https://api.andersos.net/assets/pandemic.jpg"
   },
   {
     "name": "Playing Lean",
@@ -376,7 +376,7 @@
     "minplayers": 2,
     "maxplayers": 12,
     "link": "https://boardgamegeek.com/image/2512995/playing-lean",
-    "thumbnail": "https://cf.geekdo-images.com/images/pic2512995_md.jpg"
+    "thumbnail": "https://api.andersos.net/assets/playinglean.jpg"
   },
   {
     "name": "Poker 500 Chips",
@@ -392,7 +392,7 @@
     "minplayers": 2,
     "maxplayers": 5,
     "link": "https://boardgamegeek.com/boardgame/1829/risk-2210-d",
-    "thumbnail": "https://cf.geekdo-images.com/images/pic326796_md.jpg"
+    "thumbnail": "https://api.andersos.net/assets/risk.jpg"
   },
   {
     "name": "Scrimish Card Game",
@@ -400,7 +400,7 @@
     "minplayers": 2,
     "maxplayers": 4,
     "link": "https://www.boardgamegeek.com/boardgame/189890/scrimish-card-game",
-    "thumbnail": "https://cf.geekdo-images.com/images/pic2825575_md.jpg"
+    "thumbnail": "https://api.andersos.net/assets/scrimish.jpg"
   },
   {
     "name": "Scythe",
@@ -408,7 +408,7 @@
     "minplayers": 1,
     "maxplayers": 5,
     "link": "https://boardgamegeek.com/boardgame/169786/scythe",
-    "thumbnail": "https://cf.geekdo-images.com/images/pic3163924_md.jpg"
+    "thumbnail": "https://api.andersos.net/assets/scythe.jpg"
   },
   {
     "name": "Secret Hitler",
@@ -416,7 +416,7 @@
     "minplayers": 5,
     "maxplayers": 10,
     "link": "https://boardgamegeek.com/boardgame/188834/secret-hitler",
-    "thumbnail": "https://cf.geekdo-images.com/images/pic2771488_md.png"
+    "thumbnail": "https://api.andersos.net/assets/secret-hitler.jpg"
   },
   {
     "name": "Settlers of Catan",
@@ -425,7 +425,7 @@
     "maxplayers": 6,
     "expansions": ["Seafarers", "5-6 players"],
     "link": "https://boardgamegeek.com/boardgame/13/catan",
-    "thumbnail": "https://cf.geekdo-images.com/images/pic2419375_md.jpg"
+    "thumbnail": "https://api.andersos.net/assets/settlers.jpg"
   },
   {
     "name": "Small World",
@@ -433,7 +433,7 @@
     "minplayers": 2,
     "maxplayers": 5,
     "link": "https://boardgamegeek.com/boardgame/40692/small-world",
-    "thumbnail": "https://cf.geekdo-images.com/images/pic428828_md.jpg"
+    "thumbnail": "https://api.andersos.net/assets/small-world.jpg"
   },
   {
     "name": "Spaceteam",
@@ -441,7 +441,7 @@
     "minplayers": 3,
     "maxplayers": 6,
     "link": "https://www.boardgamegeek.com/boardgame/184491/spaceteam",
-    "thumbnail": "https://cf.geekdo-images.com/images/pic2722498_md.png"
+    "thumbnail": "https://api.andersos.net/assets/spaceteam.jpg"
   },
   {
     "name": "Spyfall (App)",
@@ -450,7 +450,7 @@
     "maxplayers": 8,
     "tags": "App",
     "link": "https://boardgamegeek.com/boardgame/166384/spyfall",
-    "thumbnail": "https://cf.geekdo-images.com/images/pic2453926_md.jpg"
+    "thumbnail": "https://api.andersos.net/assets/spyfall.jpg"
   },
   {
     "name": "Sushi Go",
@@ -458,7 +458,7 @@
     "minplayers": 2,
     "maxplayers": 5,
     "link": "https://www.boardgamegeek.com/boardgame/133473/sushi-go",
-    "thumbnail": "https://cf.geekdo-images.com/images/pic1900075_md.jpg"
+    "thumbnail": "https://api.andersos.net/assets/sushigo.jpg"
   },
   {
     "name": "Takenoko",
@@ -467,7 +467,7 @@
     "maxplayers": 4,
     "expansions": ["Takenoko: Chibis"],
     "link": "https://boardgamegeek.com/boardgame/70919/takenoko",
-    "thumbnail": "https://cf.geekdo-images.com/images/pic1912529_md.jpg"
+    "thumbnail": "https://api.andersos.net/assets/takenoko.jpg"
   },
   {
     "name": "The Hare and the Tortoise",
@@ -476,7 +476,7 @@
     "maxplayers": 5,
     "link":
       "https://boardgamegeek.com/boardgame/130176/tales-games-hare-tortoise",
-    "thumbnail": "https://cf.geekdo-images.com/images/pic2433578_md.jpg"
+    "thumbnail": "https://api.andersos.net/assets/tales-games-hare-tortoise.jpg"
   },
   {
     "name": "Ticket To Ride Europe",
@@ -484,7 +484,7 @@
     "minplayers": 2,
     "maxplayers": 5,
     "link": "https://boardgamegeek.com/boardgame/14996/ticket-ride-europe",
-    "thumbnail": "https://cf.geekdo-images.com/images/pic66668_md.jpg"
+    "thumbnail": "https://api.andersos.net/assets/ticket-ride-europe.jpg"
   },
   {
     "name": "Tokaido",
@@ -493,7 +493,7 @@
     "maxplayers": 5,
     "rent": "Nikolai",
     "link": "https://boardgamegeek.com/boardgame/123540/tokaido",
-    "thumbnail": "https://cf.geekdo-images.com/images/pic1293719_md.jpg"
+    "thumbnail": "https://api.andersos.net/assets/tokaido.jpg"
   },
   {
     "name": "Unearth",
@@ -502,7 +502,7 @@
     "minplayers": 2,
     "maxplayers": 4,
     "link": "https://boardgamegeek.com/boardgame/217085/unearth",
-    "thumbnail": "https://cf.geekdo-images.com/images/pic3579391_md.jpg"
+    "thumbnail": "https://api.andersos.net/assets/unearth.jpg"
   },
   {
     "name": "Uno",
@@ -510,7 +510,7 @@
     "minplayers": 2,
     "maxplayers": 10,
     "link": "https://boardgamegeek.com/boardgame/2223/uno",
-    "thumbnail": "https://cf.geekdo-images.com/images/pic73103_md.jpg"
+    "thumbnail": "https://api.andersos.net/assets/uno.jpg"
   },
   {
     "name": "Zombie Dice",
@@ -518,6 +518,6 @@
     "minplayers": 2,
     "maxplayers": 10,
     "link": "https://boardgamegeek.com/boardgame/62871/zombie-dice",
-    "thumbnail": "https://cf.geekdo-images.com/images/pic2664015_md.jpg"
+    "thumbnail": "https://api.andersos.net/assets/zombie-dice.jpg"
   }
 ]
