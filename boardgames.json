@@ -13,7 +13,7 @@
     "minplayers": 3,
     "maxplayers": 5,
     "link": "https://boardgamegeek.com/boardgame/173800/adorable-pandaring",
-    "thumbnail": "https://api.andersos.net/assets/adorablepandaring.jpg"
+    "thumbnail": "https://api.andersos.net/assets/adorablepandaring.png"
   },
   {
     "name": "Alias",
@@ -30,7 +30,7 @@
     "minplayers": 2,
     "maxplayers": 5,
     "link": "https://boardgamegeek.com/boardgame/211534/bears-vs-babies",
-    "thumbnail": "https://api.andersos.net/assets/bearsbabies.jpg"
+    "thumbnail": "https://api.andersos.net/assets/bearsbabies.png"
   },
   {
     "name": "Ship it!",
