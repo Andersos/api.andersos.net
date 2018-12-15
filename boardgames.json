@@ -5,7 +5,7 @@
     "minplayers": 2,
     "maxplayers": 2,
     "link": "https://boardgamegeek.com/boardgame/153999/and-then-we-held-hands",
-    "thumbnail": "https://cf.geekdo-images.com/images/pic2621938_md.jpg"
+    "thumbnail": "https://api.andersos.net/assets/andthenweheldhands.jpg"
   },
   {
     "name": "Adorable Pandaring",
@@ -13,7 +13,7 @@
     "minplayers": 3,
     "maxplayers": 5,
     "link": "https://boardgamegeek.com/boardgame/173800/adorable-pandaring",
-    "thumbnail": "https://cf.geekdo-images.com/images/pic2422430_md.png"
+    "thumbnail": "https://api.andersos.net/assets/adorablepandaring.jpg"
   },
   {
     "name": "Alias",
@@ -22,7 +22,7 @@
     "maxplayers": 12,
     "link":
       "https://boardgamegeek.com/boardgameexpansion/103017/alias-new-cards",
-    "thumbnail": "https://cf.geekdo-images.com/images/pic1043639_md.jpg"
+    "thumbnail": "https://api.andersos.net/assets/alias.jpg"
   },
   {
     "name": "Bears vs Babies",
@@ -30,7 +30,7 @@
     "minplayers": 2,
     "maxplayers": 5,
     "link": "https://boardgamegeek.com/boardgame/211534/bears-vs-babies",
-    "thumbnail": "https://cf.geekdo-images.com/images/pic3231155_md.png"
+    "thumbnail": "https://api.andersos.net/assets/bearsbabies.jpg"
   },
   {
     "name": "Ship it!",
@@ -38,7 +38,7 @@
     "minplayers": 3,
     "maxplayers": 5,
     "link": "https://boardgamegeek.com/boardgame/257186/ship-it",
-    "thumbnail": "https://cf.geekdo-images.com/images/pic3231155_md.png"
+    "thumbnail": "https://api.andersos.net/assets/shipit.jpg"
   },
   {
     "name": "Betrayal at House on the Hill",
