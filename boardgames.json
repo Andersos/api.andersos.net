@@ -119,7 +119,7 @@
     "minplayers": 4,
     "maxplayers": 12,
     "link": "https://boardgamegeek.com/boardgame/147151/concept",
-    "thumbnail": "https://cf.geekdo-images.com/images/pic1907628_md.jpg"
+    "thumbnail": "https://api.andersos.net/assets/concept.jpg"
   },
   {
     "name": "Coup",
@@ -128,7 +128,7 @@
     "maxplayers": 10,
     "expansions": ["Reformation"],
     "link": "https://boardgamegeek.com/boardgame/131357/coup",
-    "thumbnail": "https://cf.geekdo-images.com/images/pic2016054_md.jpg"
+    "thumbnail": "https://api.andersos.net/assets/coup.jpg"
   },
   {
     "name": "Dead of Winter",
@@ -136,7 +136,7 @@
     "minplayers": 2,
     "maxplayers": 5,
     "link": "https://boardgamegeek.com/boardgame/131357/coup",
-    "thumbnail": "https://cf.geekdo-images.com/images/pic3016500_md.jpg"
+    "thumbnail": "https://api.andersos.net/assets/deadofwinter.jpg"
   },
   {
     "name": "Dixit",
@@ -144,7 +144,7 @@
     "minplayers": 3,
     "maxplayers": 6,
     "link": "https://boardgamegeek.com/boardgame/39856/dixit",
-    "thumbnail": "https://cf.geekdo-images.com/images/pic455883_md.jpg"
+    "thumbnail": "https://api.andersos.net/assets/dixit.jpg"
   },
   {
     "name": "Eldritch Horror",
@@ -152,7 +152,7 @@
     "minplayers": 1,
     "maxplayers": 8,
     "link": "https://boardgamegeek.com/boardgame/146021/eldritch-horror",
-    "thumbnail": "https://cf.geekdo-images.com/images/pic1872452_md.jpg"
+    "thumbnail": "https://api.andersos.net/assets/eldritchhorror.jpg"
   },
   {
     "name": "Entropy",
@@ -161,7 +161,7 @@
     "maxplayers": 5,
     "expansions": ["Echo of Time"],
     "link": "https://boardgamegeek.com/boardgame/223151/entropy-worlds-collide",
-    "thumbnail": "https://cf.geekdo-images.com/images/pic3689854_md.jpg"
+    "thumbnail": "https://api.andersos.net/assets/entropy.jpg"
   },
   {
     "name": "Escape: The Curse of the Temple",
@@ -169,7 +169,7 @@
     "minplayers": 1,
     "maxplayers": 5,
     "link": "https://boardgamegeek.com/boardgame/113294/escape-curse-temple",
-    "thumbnail": "https://cf.geekdo-images.com/images/pic1724684_md.jpg"
+    "thumbnail": "https://api.andersos.net/assets/escape.jpg"
   },
   {
     "name": "Exploding Kittens",
@@ -178,7 +178,7 @@
     "maxplayers": 5,
     "link":
       "https://boardgamegeek.com/boardgame/172242/exploding-kittens-nsfw-deck",
-    "thumbnail": "https://cf.geekdo-images.com/images/pic2815278_md.jpg"
+    "thumbnail": "https://api.andersos.net/assets/explodingkittens.jpg"
   },
   {
     "name": "Five Tribes",
@@ -186,7 +186,7 @@
     "minplayers": 2,
     "maxplayers": 4,
     "link": "https://boardgamegeek.com/boardgame/157354/five-tribes",
-    "thumbnail": "https://cf.geekdo-images.com/images/pic2055255_md.jpg"
+    "thumbnail": "https://api.andersos.net/assets/fivetribes.jpg"
   },
   {
     "name": "Forbidden Island",
@@ -194,7 +194,7 @@
     "minplayers": 1,
     "maxplayers": 4,
     "link": "https://www.boardgamegeek.com/boardgame/65244/forbidden-island",
-    "thumbnail": "https://cf.geekdo-images.com/images/pic646458_md.jpg"
+    "thumbnail": "https://api.andersos.net/assets/forbiddenisland.jpg"
   },
   {
     "name": "Game of Donkey",
@@ -211,7 +211,7 @@
     "maxplayers": 6,
     "link":
       "https://boardgamegeek.com/boardgame/103343/game-thrones-board-game-second-edition",
-    "thumbnail": "https://cf.geekdo-images.com/images/pic1077906_md.jpg"
+    "thumbnail": "https://api.andersos.net/assets/gameofthrones.jpg"
   },
   {
     "name": "Gobblet!",
@@ -235,7 +235,7 @@
     "minplayers": 2,
     "maxplayers": 5,
     "link": "https://boardgamegeek.com/boardgame/116/guillotine",
-    "thumbnail": "https://cf.geekdo-images.com/images/pic143139_md.jpg"
+    "thumbnail": "https://api.andersos.net/assets/guillotine.jpg"
   },
   {
     "name": "Hanabi",
@@ -243,7 +243,7 @@
     "minplayers": 2,
     "maxplayers": 5,
     "link": "https://boardgamegeek.com/boardgame/98778/hanabi",
-    "thumbnail": "https://cf.geekdo-images.com/images/pic2007286_md.jpg"
+    "thumbnail": "https://api.andersos.net/assets/hanabi.jpg"
   },
   {
     "name": "Ingeniørspillet",
@@ -251,7 +251,7 @@
     "minplayers": 2,
     "maxplayers": 12,
     "link": "https://boardgamegeek.com/boardgame/96481/ingeniorspillet",
-    "thumbnail": "https://cf.geekdo-images.com/images/pic1015128_md.png"
+    "thumbnail": "https://api.andersos.net/assets/ingeniorspillet.jpg"
   },
   {
     "name": "Jeg Har Aldri Original",
@@ -266,9 +266,10 @@
     "time": "60",
     "minplayers": 2,
     "maxplayers": 5,
+    "sold": true,
     "thumbnail": "https://api.andersos.net/assets/jentekveld.jpg",
     "link":
-      "https://gamezone.no/avdelinger/brettspill-nettbutikk/partyspill/partyspill/jentekveld-kortspill-til-den-ultimate-jentekvelden-125355-p0000054146"
+      "https://api.andersos.net/assets/jentekveld.jpeg"
   },
   {
     "name": "Johari",
@@ -276,7 +277,7 @@
     "minplayers": 2,
     "maxplayers": 4,
     "link": "https://boardgamegeek.com/boardgame/161965/johari",
-    "thumbnail": "https://cf.geekdo-images.com/images/pic2068216_md.jpg"
+    "thumbnail": "https://api.andersos.net/assets/johari.jpg"
   },
   {
     "name": "King of Tokyo",
@@ -284,7 +285,7 @@
     "minplayers": 2,
     "maxplayers": 6,
     "link": "https://boardgamegeek.com/boardgame/70323/king-tokyo",
-    "thumbnail": "https://cf.geekdo-images.com/images/pic761434_md.jpg"
+    "thumbnail": "https://api.andersos.net/assets/king-tokyo.jpg"
   },
   {
     "name": "Kitchen Rush",
@@ -292,7 +293,7 @@
     "minplayers": 1,
     "maxplayers": 4,
     "link": "https://boardgamegeek.com/boardgame/223953/kitchen-rush",
-    "thumbnail": "https://cf.geekdo-images.com/images/pic3559531_md.jpg"
+    "thumbnail": "https://api.andersos.net/assets/kitchen-rush.jpg"
   },
   {
     "name": "Ligretto",
@@ -309,7 +310,7 @@
     "maxplayers": 6,
     "expansions": ["Scoundrels Expansion kjøpt av Marte"],
     "link": "https://boardgamegeek.com/boardgame/110327/lords-waterdeep",
-    "thumbnail": "https://cf.geekdo-images.com/images/pic1116080_md.jpg"
+    "thumbnail": "https://api.andersos.net/assets/lords-waterdeep.jpg"
   },
   {
     "name": "Love Letter",
@@ -317,7 +318,7 @@
     "minplayers": 2,
     "maxplayers": 4,
     "link": "https://boardgamegeek.com/boardgame/129622/love-letter",
-    "thumbnail": "https://cf.geekdo-images.com/images/pic1401448_md.jpg"
+    "thumbnail": "https://api.andersos.net/assets/love-letter.jpg"
   },
   {
     "name": "Machi Koro",
