@@ -416,7 +416,7 @@
     "minplayers": 5,
     "maxplayers": 10,
     "link": "https://boardgamegeek.com/boardgame/188834/secret-hitler",
-    "thumbnail": "https://api.andersos.net/assets/secret-hitler.jpg"
+    "thumbnail": "https://api.andersos.net/assets/secret-hitler.png"
   },
   {
     "name": "Settlers of Catan",
@@ -441,7 +441,7 @@
     "minplayers": 3,
     "maxplayers": 6,
     "link": "https://www.boardgamegeek.com/boardgame/184491/spaceteam",
-    "thumbnail": "https://api.andersos.net/assets/spaceteam.jpg"
+    "thumbnail": "https://api.andersos.net/assets/spaceteam.png"
   },
   {
     "name": "Spyfall (App)",
@@ -493,7 +493,7 @@
     "maxplayers": 5,
     "rent": "Nikolai",
     "link": "https://boardgamegeek.com/boardgame/123540/tokaido",
-    "thumbnail": "https://api.andersos.net/assets/tokaido.jpg"
+    "thumbnail": "https://api.andersos.net/assets/tokaido.png"
   },
   {
     "name": "Unearth",
