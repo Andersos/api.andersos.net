@@ -46,7 +46,7 @@
     "minplayers": 3,
     "maxplayers": 6,
     "link": "https://boardgamegeek.com/boardgame/10547/betrayal-house-hill",
-    "thumbnail": "https://cf.geekdo-images.com/images/pic828598_md.jpg"
+    "thumbnail": "https://api.andersos.net/assets/betrayalathouseonthehill.jpg"
   },
   {
     "name": "Bezzerwizzer",
@@ -62,7 +62,7 @@
     "minplayers": 2,
     "maxplayers": 7,
     "link": "https://boardgamegeek.com/boardgame/11/bohnanza",
-    "thumbnail": "https://cf.geekdo-images.com/images/pic69366_md.jpg"
+    "thumbnail": "https://api.andersos.net/assets/bohnanza.jpg"
   },
   {
     "name": "Cards Against Humanity",
@@ -78,7 +78,7 @@
     "minplayers": 1,
     "maxplayers": 6,
     "link": "https://boardgamegeek.com/boardgame/43443/castle-panic",
-    "thumbnail": "https://cf.geekdo-images.com/images/pic496923_md.jpg"
+    "thumbnail": "https://api.andersos.net/assets/castlepanic.jpg"
   },
   {
     "name": "Caverna",
@@ -86,7 +86,7 @@
     "minplayers": 1,
     "maxplayers": 7,
     "link": "https://boardgamegeek.com/boardgame/102794/caverna-cave-farmers",
-    "thumbnail": "https://cf.geekdo-images.com/images/pic1790789_md.jpg"
+    "thumbnail": "https://api.andersos.net/assets/caverna.jpg"
   },
   {
     "name": "Charterstone",
@@ -95,7 +95,7 @@
     "minplayers": 1,
     "maxplayers": 6,
     "link": "https://boardgamegeek.com/boardgame/197376/charterstone",
-    "thumbnail": "https://cf.geekdo-images.com/images/pic3322613_md.jpg"
+    "thumbnail": "https://api.andersos.net/assets/charterstone.jpg"
   },
   {
     "name": "Cluedo",
@@ -103,7 +103,7 @@
     "minplayers": 3,
     "maxplayers": 6,
     "link": "https://boardgamegeek.com/boardgame/1294/clue",
-    "thumbnail": "https://cf.geekdo-images.com/images/pic2640657_md.jpg"
+    "thumbnail": "https://api.andersos.net/assets/cluedo.jpg"
   },
   {
     "name": "Codenames",
@@ -111,7 +111,7 @@
     "minplayers": 2,
     "maxplayers": 8,
     "link": "https://boardgamegeek.com/boardgame/178900/codenames",
-    "thumbnail": "https://cf.geekdo-images.com/images/pic2582929_md.jpg"
+    "thumbnail": "https://api.andersos.net/assets/codenames.jpg"
   },
   {
     "name": "Concept",
