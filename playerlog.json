@@ -1,28 +1,28 @@
 [
-    {
-      "date": "2018-12-02",
-     "game": "Eldritch Horror",
-      "players": ["Anders", "Kristian"],
-      "comment": "6 runder inn så drepte en Roumer oss. En giant spider. Fordi vi ikke hadde nok clues",
-      "winners": []
-    },
-    {
-      "date": "2018-12-01",
-     "game": "Secret Hitler",
-      "players": ["Francesco", "Victoria", "Anders", "Marte", "Jackie", "Aaron", "Christopher"],
-      "comment": "Christopher was Hitler and got elected as Chansleor after 3 Fascist policies",
-      "winners": ["Anders", "Francesco", "Christopher"]
-    },
-    {
-      "date": "2018-12-01",
-     "game": "Secret Hitler",
-      "players": ["Francesco", "Victoria", "Anders", "Marte", "Jackie", "Aaron", "Christopher"],
-      "comment": "Aaron was Hitler and got elected as Chansleor",
-      "winners": ["Anders", "Marte", "Aaron"]
-    },
+  {
+    "date": "2018-12-02",
+    "game": "Eldritch Horror",
+    "players": ["Anders", "Kristian"],
+    "comment": "6 runder inn så drepte en Roumer oss. En giant spider. Fordi vi ikke hadde nok clues",
+    "winners": []
+  },
   {
     "date": "2018-12-01",
-   "game": "Secret Hitler",
+    "game": "Secret Hitler",
+    "players": ["Francesco", "Victoria", "Anders", "Marte", "Jackie", "Aaron", "Christopher"],
+    "comment": "Christopher was Hitler and got elected as Chansleor after 3 Fascist policies",
+    "winners": ["Anders", "Francesco", "Christopher"]
+  },
+  {
+    "date": "2018-12-01",
+    "game": "Secret Hitler",
+    "players": ["Francesco", "Victoria", "Anders", "Marte", "Jackie", "Aaron", "Christopher"],
+    "comment": "Aaron was Hitler and got elected as Chansleor",
+    "winners": ["Anders", "Marte", "Aaron"]
+  },
+  {
+    "date": "2018-12-01",
+    "game": "Secret Hitler",
     "players": ["Francesco", "Victoria", "Anders", "Marte", "Jackie", "Aaron", "Christopher"],
     "comment": "Liberals won with 5 policies. Aron was Hitler",
     "winners": ["Francesco", "Marte", "Christopher", "Anders"]
@@ -284,7 +284,7 @@
     "date": "2017-03-01",
     "game": "Dead of Winter",
     "comment":
-      "Anja og Anders klarte oppdraget. Ingen deserter. Netlife Spillkveld",
+    "Anja og Anders klarte oppdraget. Ingen deserter. Netlife Spillkveld",
     "players": ["Anja", "Bård", "Anders"],
     "winners": ["Anders"]
   },
@@ -330,7 +330,7 @@
     "game": "Dead of Winter",
     "players": ["Marte", "Victoria", "Francesco", "Anders"],
     "comment":
-      "Anders vant og Marte vant. Victoria var betrayer. Francesco manglet noen items.",
+    "Anders vant og Marte vant. Victoria var betrayer. Francesco manglet noen items.",
     "winners": ["Anders", "Marte"]
   },
   {
@@ -355,7 +355,7 @@
     ],
     "winners": ["Catrin", "Victoria", "Julie", "Anders"],
     "comment":
-      "Catrin best acting, best dressed Victoria, most money Julie. Marte, Anders, Victoria og Julie"
+    "Catrin best acting, best dressed Victoria, most money Julie. Marte, Anders, Victoria og Julie"
   },
   {
     "date": "2018-01-20",
@@ -376,7 +376,7 @@
     "game": "Kitchen Rush",
     "players": ["Kristian", "Anders"],
     "comment":
-      "To tap og ... 2 tap og en vinn med 19 serverte måltider og 4 mynter igjen.",
+    "To tap og ... 2 tap og en vinn med 19 serverte måltider og 4 mynter igjen.",
     "winners": []
   },
   {
@@ -429,7 +429,7 @@
     "game": "Mysterium",
     "players": ["Christine", "Marte", "Kristian", "Anders"],
     "comment":
-      "Marte var spøkelse på medium og Kristian og Anders kom ikke frem",
+    "Marte var spøkelse på medium og Kristian og Anders kom ikke frem",
     "winners": []
   },
   {
@@ -492,7 +492,7 @@
     "game": "Secret Hitler",
     "players": ["Amed", "Kristen", "Anders", "Marte", "Victoria", "Francesco"],
     "comment":
-      "Victoria (Hitler) ble Chansleor etter 3 kort. Marte var også Fascist",
+    "Victoria (Hitler) ble Chansleor etter 3 kort. Marte var også Fascist",
     "winners": ["Marte", "Victoria"]
   },
   {
@@ -640,7 +640,7 @@
   },
   {
     "date": "2018-10-06",
-    "game": "",
+    "game": "Love Letter",
     "players": ["Rikke", "Anders", "Sondre", "Marte"],
     "winners": ["Marte"]
   },
