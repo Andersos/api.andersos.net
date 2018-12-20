@@ -395,6 +395,14 @@
     "thumbnail": "https://api.andersos.net/assets/risk.jpg"
   },
   {
+    "name": "Santorini",
+    "time": "20",
+    "minplayers": 2,
+    "maxplayers": 4,
+    "link": "https://boardgamegeek.com/boardgame/194655/santorini",
+    "thumbnail": "https://api.andersos.net/assets/santorini.png"
+  },
+  {
     "name": "Scrimish Card Game",
     "time": "10",
     "minplayers": 2,

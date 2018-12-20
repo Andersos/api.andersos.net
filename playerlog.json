@@ -1,5 +1,33 @@
 [
   {
+    "date": "2018-12-19",
+    "game": "Santorini",
+    "players": ["Anders", "Kristian"],
+    "comment": "Anders som Artemis og Kristian som Athena",
+    "winners": ["Anders"]
+  },
+  {
+    "date": "2018-12-19",
+    "game": "Santorini",
+    "players": ["Anders", "Kristian"],
+    "comment": "Anders som Hephaestus og Kristian som Atlas",
+    "winners": ["Anders"]
+  },
+  {
+    "date": "2018-12-19",
+    "game": "Santorini",
+    "players": ["Anders", "Kristian"],
+    "comment": "Uten guder",
+    "winners": ["Anders"]
+  },
+  {
+    "date": "2018-12-19",
+    "game": "Santorini",
+    "players": ["Anders", "Kristian"],
+    "comment": "Uten guder",
+    "winners": ["Kristian"]
+  },
+  {
     "date": "2018-12-02",
     "game": "Eldritch Horror",
     "players": ["Anders", "Kristian"],
