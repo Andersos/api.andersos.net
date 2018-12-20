@@ -165,10 +165,17 @@
     "gift": "Mumi - Sommer 2018"
   },
   {
-    "date": "2018.21.09",
+    "date": "2018.09.21",
     "time": "09:00",
     "location": "Ullevål sykehus",
     "HbF": "14,9",
     "gift": "Mumi - Thingumy og Bob"
+  },
+  {
+    "date": "2018.12.17",
+    "time": "17:00",
+    "location": "Ullevål sykehus",
+    "HbF": "54,8",
+    "gift": "Reflekspakke"
   }
 ]
