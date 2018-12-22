@@ -2,6 +2,13 @@
   {
     "date": "2018-12-19",
     "game": "Santorini",
+    "players": ["Anders", "Marte"],
+    "comment": "Uten guder",
+    "winners": ["Marte"]
+  },
+  {
+    "date": "2018-12-19",
+    "game": "Santorini",
     "players": ["Anders", "Kristian"],
     "comment": "Anders som Artemis og Kristian som Athena",
     "winners": ["Anders"]
