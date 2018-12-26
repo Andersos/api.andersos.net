@@ -497,6 +497,7 @@
   },
   {
     "name": "Takenoko",
+    "rent": "Nikolai",
     "time": "45",
     "minplayers": 2,
     "maxplayers": 4,
@@ -526,7 +527,6 @@
     "time": "45",
     "minplayers": 2,
     "maxplayers": 5,
-    "rent": "Nikolai",
     "link": "https://boardgamegeek.com/boardgame/123540/tokaido",
     "thumbnail": "https://api.andersos.net/assets/tokaido.png"
   },
