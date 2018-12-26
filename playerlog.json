@@ -1,4 +1,12 @@
 [
+
+  {
+    "date": "2018-12-26",
+    "game": "Escape Room Spillet",
+    "players": ["Anders", "Marte", "Kristian", "Jørgen", "Ann Harriet"],
+    "comment": "Tid igjen 25:38",
+    "winners": ["Anders", "Marte", "Kristian", "Jørgen", "Ann Harriet"]
+  },
   {
     "date": "2018-12-19",
     "game": "Santorini",

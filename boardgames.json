@@ -66,6 +66,7 @@
   },
   {
     "name": "Cards Against Humanity",
+    "owner": "Kristian",
     "time": "30",
     "minplayers": 4,
     "maxplayers": 30,
@@ -170,6 +171,15 @@
     "maxplayers": 5,
     "link": "https://boardgamegeek.com/boardgame/113294/escape-curse-temple",
     "thumbnail": "https://api.andersos.net/assets/escape.jpg"
+  },
+  {
+    "name": "Escape Room Spillet",
+    "owner": "Kristian",
+    "time": "60",
+    "minplayers": 1,
+    "maxplayers": 5,
+    "link": "https://boardgamegeek.com/boardgame/204836/escape-room-game",
+    "thumbnail": "https://api.andersos.net/assets/escape.png"
   },
   {
     "name": "Exploding Kittens",
@@ -371,6 +381,14 @@
     "thumbnail": "https://api.andersos.net/assets/pandemic.jpg"
   },
   {
+    "name": "Pandemic Legacy Season 1",
+    "time": "60",
+    "minplayers": 2,
+    "maxplayers": 4,
+    "link": "https://boardgamegeek.com/image/2738696/pandemic-legacy-season-1",
+    "thumbnail": "https://api.andersos.net/assets/pandemiclegacy1.png"
+  },
+  {
     "name": "Playing Lean",
     "time": "90",
     "minplayers": 2,
@@ -393,6 +411,15 @@
     "maxplayers": 5,
     "link": "https://boardgamegeek.com/boardgame/1829/risk-2210-d",
     "thumbnail": "https://api.andersos.net/assets/risk.jpg"
+  },
+  {
+    "name": "Ryktet Går...",
+    "owner": "Marte",
+    "time": "30",
+    "minplayers": 5,
+    "maxplayers": 8,
+    "link": "https://boardgamegeek.com/boardgame/173761/telestrations-after-dark",
+    "thumbnail": "https://api.andersos.net/assets/telestrations.jpg"
   },
   {
     "name": "Santorini",
