@@ -1,5 +1,39 @@
 [
-
+  {
+    "date": "2018-12-30",
+    "game": "Måffe (kontrakt)",
+    "players": ["Anders", "Marianne", "Vera", "Christine"],
+    "comment": "Vi telte ikke opp med Marianne hadde minst poeng",
+    "winners": ["Marianne"]
+  },
+  {
+    "date": "2018-12-30",
+    "game": "Codenames",
+    "players": ["Anders", "Marianne", "Vera", "Christine"],
+    "comment": "Marianne og Christine var masterspy",
+    "winners": ["Vera", "Marianne"]
+  },
+  {
+    "date": "2018-12-30",
+    "game": "Codenames",
+    "players": ["Anders", "Marianne", "Vera", "Christine"],
+    "comment": "Anders og Vera var masterspy",
+    "winners": ["Anders", "Christine"]
+  },
+  {
+    "date": "2018-12-30",
+    "game": "Codenames",
+    "players": ["Anders", "Marianne", "Vera", "Christine"],
+    "comment": "Marianne og Christine var masterspy",
+    "winners": ["Vera", "Marianne"]
+  },
+  {
+    "date": "2018-12-30",
+    "game": "Codenames",
+    "players": ["Anders", "Marianne", "Vera", "Christine"],
+    "comment": "Anders og Vera var masterspy",
+    "winners": ["Anders", "Christine"]
+  },
   {
     "date": "2018-12-26",
     "game": "Escape Room Spillet",
@@ -108,29 +142,13 @@
   {
     "date": "2016-10-02",
     "game": "Secret Hitler",
-    "players": [
-      "Rasmus",
-      "Joachim",
-      "Rikke",
-      "Susanne",
-      "Helene",
-      "Anders",
-      "Marte"
-    ],
+    "players": ["Rasmus", "Joachim", "Rikke", "Susanne", "Helene", "Anders", "Marte"],
     "stats": false
   },
   {
     "date": "2016-10-02",
     "game": "Dixit",
-    "players": [
-      "Rasmus",
-      "Joachim",
-      "Rikke",
-      "Susanne",
-      "Helene",
-      "Anders",
-      "Marte"
-    ],
+    "players": ["Rasmus", "Joachim", "Rikke", "Susanne", "Helene", "Anders", "Marte"],
     "comment": "Delt seier til Helene og Susanne",
     "winners": ["Helene", "Susanne"]
   },
@@ -326,8 +344,7 @@
   {
     "date": "2017-03-01",
     "game": "Dead of Winter",
-    "comment":
-    "Anja og Anders klarte oppdraget. Ingen deserter. Netlife Spillkveld",
+    "comment": "Anja og Anders klarte oppdraget. Ingen deserter. Netlife Spillkveld",
     "players": ["Anja", "Bård", "Anders"],
     "winners": ["Anders"]
   },
@@ -372,8 +389,7 @@
     "date": "2017-12-02",
     "game": "Dead of Winter",
     "players": ["Marte", "Victoria", "Francesco", "Anders"],
-    "comment":
-    "Anders vant og Marte vant. Victoria var betrayer. Francesco manglet noen items.",
+    "comment": "Anders vant og Marte vant. Victoria var betrayer. Francesco manglet noen items.",
     "winners": ["Anders", "Marte"]
   },
   {
@@ -386,19 +402,9 @@
     "date": "2017-12-16",
     "game": "Ho Ho Homicide",
     "players": "Marte, Victoria, Francesco, Andreas, Cathrin, Julie og Jon",
-    "players": [
-      "Marte",
-      "Victoria",
-      "Francesco",
-      "Anders",
-      "Andreas",
-      "Cathrin",
-      "Julie",
-      "Jon"
-    ],
+    "players": ["Marte", "Victoria", "Francesco", "Anders", "Andreas", "Cathrin", "Julie", "Jon"],
     "winners": ["Catrin", "Victoria", "Julie", "Anders"],
-    "comment":
-    "Catrin best acting, best dressed Victoria, most money Julie. Marte, Anders, Victoria og Julie"
+    "comment": "Catrin best acting, best dressed Victoria, most money Julie. Marte, Anders, Victoria og Julie"
   },
   {
     "date": "2018-01-20",
@@ -418,8 +424,7 @@
     "date": "2018-03-23",
     "game": "Kitchen Rush",
     "players": ["Kristian", "Anders"],
-    "comment":
-    "To tap og ... 2 tap og en vinn med 19 serverte måltider og 4 mynter igjen.",
+    "comment": "To tap og ... 2 tap og en vinn med 19 serverte måltider og 4 mynter igjen.",
     "winners": []
   },
   {
@@ -471,8 +476,7 @@
     "date": "2018-04-01",
     "game": "Mysterium",
     "players": ["Christine", "Marte", "Kristian", "Anders"],
-    "comment":
-    "Marte var spøkelse på medium og Kristian og Anders kom ikke frem",
+    "comment": "Marte var spøkelse på medium og Kristian og Anders kom ikke frem",
     "winners": []
   },
   {
@@ -512,14 +516,7 @@
   {
     "date": "2018-04-29",
     "game": "Charterstone",
-    "players": [
-      "Jørgen",
-      "Kristian",
-      "Anders",
-      "Marte",
-      "Victoria",
-      "Francesco"
-    ],
+    "players": ["Jørgen", "Kristian", "Anders", "Marte", "Victoria", "Francesco"],
     "winners": ["Anders"],
     "comment": "Game 1. Anders vant."
   },
@@ -534,8 +531,7 @@
     "date": "2018-05-11",
     "game": "Secret Hitler",
     "players": ["Amed", "Kristen", "Anders", "Marte", "Victoria", "Francesco"],
-    "comment":
-    "Victoria (Hitler) ble Chansleor etter 3 kort. Marte var også Fascist",
+    "comment": "Victoria (Hitler) ble Chansleor etter 3 kort. Marte var også Fascist",
     "winners": ["Marte", "Victoria"]
   },
   {
@@ -576,14 +572,7 @@
   {
     "date": "2018-07-07",
     "game": "Charterstone",
-    "players": [
-      "Kristian",
-      "Anders",
-      "Marte",
-      "Victoria",
-      "Francesco",
-      "Jørgen"
-    ],
+    "players": ["Kristian", "Anders", "Marte", "Victoria", "Francesco", "Jørgen"],
     "winners": ["Francesco"]
   },
   {
