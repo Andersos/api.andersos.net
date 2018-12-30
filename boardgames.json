@@ -20,8 +20,7 @@
     "time": "45",
     "minplayers": 4,
     "maxplayers": 12,
-    "link":
-      "https://boardgamegeek.com/boardgameexpansion/103017/alias-new-cards",
+    "link": "https://boardgamegeek.com/boardgameexpansion/103017/alias-new-cards",
     "thumbnail": "https://api.andersos.net/assets/alias.jpg"
   },
   {
@@ -140,6 +139,14 @@
     "thumbnail": "https://api.andersos.net/assets/deadofwinter.jpg"
   },
   {
+    "name": "Deep Sea Adventure",
+    "time": "30",
+    "minplayers": 2,
+    "maxplayers": 6,
+    "link": "https://boardgamegeek.com/boardgame/169654/deep-sea-adventure",
+    "thumbnail": "https://api.andersos.net/assets/deep-sea-adventure.png"
+  },
+  {
     "name": "Dixit",
     "time": "30",
     "minplayers": 3,
@@ -186,8 +193,7 @@
     "time": "15",
     "minplayers": 2,
     "maxplayers": 5,
-    "link":
-      "https://boardgamegeek.com/boardgame/172242/exploding-kittens-nsfw-deck",
+    "link": "https://boardgamegeek.com/boardgame/172242/exploding-kittens-nsfw-deck",
     "thumbnail": "https://api.andersos.net/assets/explodingkittens.jpg"
   },
   {
@@ -219,8 +225,7 @@
     "time": "120",
     "minplayers": 3,
     "maxplayers": 6,
-    "link":
-      "https://boardgamegeek.com/boardgame/103343/game-thrones-board-game-second-edition",
+    "link": "https://boardgamegeek.com/boardgame/103343/game-thrones-board-game-second-edition",
     "thumbnail": "https://api.andersos.net/assets/gameofthrones.jpg"
   },
   {
@@ -256,6 +261,23 @@
     "thumbnail": "https://api.andersos.net/assets/hanabi.jpg"
   },
   {
+    "name": "Harbour",
+    "time": "60",
+    "minplayers": 1,
+    "maxplayers": 4,
+    "link": "https://boardgamegeek.com/boardgame/155969/harbour",
+    "thumbnail": "https://api.andersos.net/assets/harbour.jpg"
+  },
+  {
+    "name": "The Hare and the Tortoise",
+    "sortkey": "Hare and the Tortoise",
+    "time": "15",
+    "minplayers": 2,
+    "maxplayers": 5,
+    "link": "https://boardgamegeek.com/boardgame/130176/tales-games-hare-tortoise",
+    "thumbnail": "https://api.andersos.net/assets/tales-games-hare-tortoise.jpg"
+  },
+  {
     "name": "Ingeniørspillet",
     "time": "60",
     "minplayers": 2,
@@ -278,8 +300,7 @@
     "maxplayers": 5,
     "sold": true,
     "thumbnail": "https://api.andersos.net/assets/jentekveld.jpg",
-    "link":
-      "https://api.andersos.net/assets/jentekveld.jpeg"
+    "link": "https://api.andersos.net/assets/jentekveld.jpeg"
   },
   {
     "name": "Johari",
@@ -347,6 +368,15 @@
     "thumbnail": "https://api.andersos.net/assets/master-thief.jpg"
   },
   {
+    "name": "The Mind",
+    "sortkey": "Mind",
+    "time": "15",
+    "minplayers": 2,
+    "maxplayers": 4,
+    "link": "https://boardgamegeek.com/boardgame/244992/mind",
+    "thumbnail": "https://api.andersos.net/assets/mind.png"
+  },
+  {
     "name": "Munchkin",
     "time": "60",
     "minplayers": 3,
@@ -368,8 +398,7 @@
     "time": "10",
     "minplayers": 3,
     "maxplayers": 10,
-    "link":
-      "https://boardgamegeek.com/boardgame/147949/one-night-ultimate-werewolf",
+    "link": "https://boardgamegeek.com/boardgame/147949/one-night-ultimate-werewolf",
     "thumbnail": "https://api.andersos.net/assets/werewolf.jpg"
   },
   {
@@ -504,15 +533,6 @@
     "expansions": ["Takenoko: Chibis"],
     "link": "https://boardgamegeek.com/boardgame/70919/takenoko",
     "thumbnail": "https://api.andersos.net/assets/takenoko.jpg"
-  },
-  {
-    "name": "The Hare and the Tortoise",
-    "time": "15",
-    "minplayers": 2,
-    "maxplayers": 5,
-    "link":
-      "https://boardgamegeek.com/boardgame/130176/tales-games-hare-tortoise",
-    "thumbnail": "https://api.andersos.net/assets/tales-games-hare-tortoise.jpg"
   },
   {
     "name": "Ticket To Ride Europe",
