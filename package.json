@@ -19,5 +19,8 @@
   },
   "eslintConfig": {
     "extends": "airbnb"
+  },
+  "prettier": {
+    "printWidth": 400
   }
 }
