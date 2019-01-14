@@ -18019,7 +18019,8 @@
     "aPosition": 584,
     "Const": "tt3104988",
     "Your Rating": 6,
-    "Date Rated": "2018-11-23"
+    "Date Rated": "2018-11-23",
+    "Source": "Popcorn"
   },
   {
     "Title": "Sonja: The White Swan",
@@ -18046,6 +18047,14 @@
     "aPosition": 585,
     "Const": "tt7398642",
     "Your Rating": 4,
-    "Date Rated": "2018-12-28"
+    "Date Rated": "2018-12-28",
+    "Source": "Cinema"
+  },
+  {
+    "aPosition": 586,
+    "Const": "tt7398642",
+    "Your Rating": 7,
+    "Date Rated": "2019-01-12",
+    "Source": "Popcorn"
   }
 ]
