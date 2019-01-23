@@ -118,6 +118,13 @@
     "winners": []
   },
   {
+    "date": "2016-04-24",
+    "game": "Game of Thrones",
+    "players": ["Robin", "Lars", "Anders", "Jens", "Peder", "Martin"],
+    "winners": ["Lars"],
+    "comment": "Lars vant med å få nok slott på den 6. runden"
+  },
+  {
     "date": "2016-08-17",
     "game": "Dead of Winter",
     "players": ["Marte", "Jørgen", "Anders"],
