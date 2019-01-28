@@ -712,5 +712,16 @@
     "game": "Ship it!",
     "players": ["Sjur", "Anders", "Cathrine"],
     "winners": ["Sjur"]
+  },
+  {
+    "date": "2014-10-24",
+    "game": "Archipelago",
+    "players": ["Robin", "Peder", "Jens", "Anders", "Lars"],
+    "winners": ["Robin"]
+  },
+  {
+    "date": "2014-07-11",
+    "game": "Archipelago",
+    "players": ["Robin", "Martin", "Jens", "Anders", "Lars"]
   }
 ]
