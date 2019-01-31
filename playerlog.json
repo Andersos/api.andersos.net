@@ -723,5 +723,37 @@
     "date": "2014-07-11",
     "game": "Archipelago",
     "players": ["Robin", "Martin", "Jens", "Anders", "Lars"]
+  },
+  {
+    "date": "2008-03-08",
+    "game": "Poker",
+    "comment": "pokah Night Round 4",
+    "players": ["Robin", "Anders", "Christian", "Jens", "Ivar", "Fredrick"]
+  },
+  {
+    "date": "2014-06-08",
+    "game": "Eldritch Horror",
+    "players": ["Robin", "Martin", "Jens", "Anders", "Peder", "Lars"]
+  },
+  {
+    "date": "2014-04-04",
+    "game": "Archipelago",
+    "players": ["Robin", "Anders", "Peder"]
+  },
+  {
+    "date": "2014-03-15",
+    "game": "Archipelago",
+    "players": ["Robin", "Anders", "Peder", "Martin"]
+  },
+  {
+    "date": "2014-03-15",
+    "game": "Archipelago",
+    "players": ["Robin", "Anders", "Peder", "Martin"]
+  },
+  {
+    "date": "2009-06-29",
+    "game": "ukjent",
+    "players": ["Oluf", "Anders", "Jørgen", "Kristian"],
+    "comment": "O: 54 A:36 K:43 J:45"
   }
 ]
