@@ -1,3 +1,14 @@
-Steam time
-Battle.ent time
-Lol time https://wol.gg/stats/eune/lightningbolt/
+[
+  {
+    "platform": "Steam",
+    "time": 1897
+  },
+  {
+    "platform": "lol",
+    "time": 1017
+  },
+  {
+    "platform": "battle",
+    "time": 0
+  }
+]
