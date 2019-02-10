@@ -4,8 +4,7 @@
     "name": "In the plex",
     "tags": ["to-read"],
     "index": 0,
-    "thumbnail":
-      "http://www.stevenlevy.com/wp-content/uploads/2011/04/in-the-plex.jpg"
+    "thumbnail": "http://www.stevenlevy.com/wp-content/uploads/2011/04/in-the-plex.jpg"
   },
   {
     "asin": "B004JF4NOQ",
@@ -36,18 +35,15 @@
   },
   {
     "asin": "B00VY4B4RY",
-    "name":
-      "Day Trading: Beat the System and Make Money in Any Market Environment",
+    "name": "Day Trading: Beat the System and Make Money in Any Market Environment",
     "tags": ["to-read", "humble-bundle"],
-    "thumbnail":
-      "https://humblebundle-a.akamaihd.net/misc/files/hashed/e315907e80531853b840ba8546af9578276e1e0d.png"
+    "thumbnail": "https://humblebundle-a.akamaihd.net/misc/files/hashed/e315907e80531853b840ba8546af9578276e1e0d.png"
   },
   {
     "asin": "B010GUXQCW",
     "name": "LinkedIn: Tell Your Story, Land the Job",
     "tags": ["to-read", "humble-bundle"],
-    "thumbnail":
-      "https://humblebundle-a.akamaihd.net/misc/files/hashed/e6998b2fcf1d135361f91f375787a937cc929660.png"
+    "thumbnail": "https://humblebundle-a.akamaihd.net/misc/files/hashed/e6998b2fcf1d135361f91f375787a937cc929660.png"
   },
   {
     "isbn": "B006X2QEQS",
@@ -71,8 +67,7 @@
   {
     "isbn": 0,
     "name": "Front-end Handbook",
-    "link":
-      "https://www.gitbook.com/star/book/frontendmasters/front-end-handbook"
+    "link": "https://www.gitbook.com/star/book/frontendmasters/front-end-handbook"
   },
   {
     "isbn": 0,
@@ -107,15 +102,13 @@
     "isbn": 0,
     "name": "The Leader’s Guide - Eric Ries",
     "tags": ["to-read"],
-    "thumbnail":
-      "https://ksr-ugc.imgix.net/projects/1694890/photo-original.jpeg?v=1426265725&w=1536&h=1152&fit=crop&auto=format&q=92&s=da476ac23590d4d59e07bf0e6d22871d"
+    "thumbnail": "https://ksr-ugc.imgix.net/projects/1694890/photo-original.jpeg?v=1426265725&w=1536&h=1152&fit=crop&auto=format&q=92&s=da476ac23590d4d59e07bf0e6d22871d"
   },
   {
     "isbn": 0,
     "name": "The Startup Way - Eric Ries",
     "tags": ["to-read"],
-    "thumbnail":
-      "https://ksr-ugc.imgix.net/projects/1694890/photo-original.jpeg?v=1426265725&w=1536&h=1152&fit=crop&auto=format&q=92&s=da476ac23590d4d59e07bf0e6d22871d"
+    "thumbnail": "https://ksr-ugc.imgix.net/projects/1694890/photo-original.jpeg?v=1426265725&w=1536&h=1152&fit=crop&auto=format&q=92&s=da476ac23590d4d59e07bf0e6d22871d"
   },
   {
     "isbn": 140008381,
@@ -135,39 +128,34 @@
     "name": "Vi spiller kort og legger kabal",
     "tags": ["read", "bookshelf"],
     "read": "2000",
-    "thumbnail":
-      "https://static.bokelskere.no/8e838dbf2272221ea24790d7f7e7e394ac0da60f48afe4458869b8ff.jpeg"
+    "thumbnail": "https://static.bokelskere.no/8e838dbf2272221ea24790d7f7e7e394ac0da60f48afe4458869b8ff.jpeg"
   },
   {
     "isbn": 9780060512804,
     "name": "Cryptonomicon",
     "tags": ["Google Play", "to-read", "audible"],
-    "thumbnail":
-      "https://books.google.com/books/content?id=qYAmfUBPN-UC&printsec=frontcover&img=1&zoom=1"
+    "thumbnail": "https://books.google.com/books/content?id=qYAmfUBPN-UC&printsec=frontcover&img=1&zoom=1"
   },
   {
     "isbn": 9780061914799,
     "name": "Cyanide and Happiness",
     "tags": ["read", "kindle"],
     "read": "2011",
-    "thumbnail":
-      "http://books.google.com/books/content?id=zjZHlwEACAAJ&printsec=frontcover&img=1&zoom=1"
+    "thumbnail": "http://books.google.com/books/content?id=zjZHlwEACAAJ&printsec=frontcover&img=1&zoom=1"
   },
   {
     "isbn": 9780062046222,
     "name": "Ice Cream & Sadness",
     "tags": ["read", "kindle"],
     "read": "2011",
-    "thumbnail":
-      "http://www3.alibris-static.com/ice-cream-sadness-more-comics-from-cyanide-happiness/isbn/9780062046222_l.jpg"
+    "thumbnail": "http://www3.alibris-static.com/ice-cream-sadness-more-comics-from-cyanide-happiness/isbn/9780062046222_l.jpg"
   },
   {
     "isbn": 9780062047410,
     "name": "What I Wish I Knew When I Was 20",
     "tags": ["audible", "read", "kindle"],
     "read": "2013",
-    "thumbnail":
-      "http://books.google.com/books/content?id=ldI78Ed-9csC&printsec=frontcover&img=1&zoom=1"
+    "thumbnail": "http://books.google.com/books/content?id=ldI78Ed-9csC&printsec=frontcover&img=1&zoom=1"
   },
   {
     "isbn": 9780062268358,
@@ -348,8 +336,7 @@
   },
   {
     "isbn": 9780470876411,
-    "name":
-      "Business Model Generation: A Handbook for Visionaries, Game Changers, and Challengers",
+    "name": "Business Model Generation: A Handbook for Visionaries, Game Changers, and Challengers",
     "tags": ["kindle"]
   },
   {
@@ -359,8 +346,7 @@
   },
   {
     "isbn": 9780544272996,
-    "name":
-      "What If?: Serious Scientific Answers to Absurd Hypothetical Questions",
+    "name": "What If?: Serious Scientific Answers to Absurd Hypothetical Questions",
     "tags": ["kindle"]
   },
   {
@@ -564,11 +550,9 @@
   },
   {
     "isbn": 9780984725113,
-    "name":
-      "Race Against The Machine: How the Digital Revolution is Accelerating Innovation, Driving Productivity, and Irreversibly Transforming Employment and the Economy",
+    "name": "Race Against The Machine: How the Digital Revolution is Accelerating Innovation, Driving Productivity, and Irreversibly Transforming Employment and the Economy",
     "tags": ["to-read", "kindle"],
-    "thumbnail":
-      "https://images-na.ssl-images-amazon.com/images/I/51%2BW2ergLuL.jpg"
+    "thumbnail": "https://images-na.ssl-images-amazon.com/images/I/51%2BW2ergLuL.jpg"
   },
   {
     "isbn": 9781101545355,
@@ -726,8 +710,7 @@
     "isbn": 9781491960875,
     "name": "Working with Static Sites",
     "tags": ["to-read"],
-    "thumbnail":
-      "http://akamaicovers.oreilly.com/images/0636920051879/rc_cat.gif"
+    "thumbnail": "http://akamaicovers.oreilly.com/images/0636920051879/rc_cat.gif"
   },
   {
     "isbn": 9781492603238,
@@ -744,8 +727,7 @@
   },
   {
     "isbn": 9781501121746,
-    "name":
-      "Sprint: How to Solve Big Problems and Test New Ideas in Just Five Days",
+    "name": "Sprint: How to Solve Big Problems and Test New Ideas in Just Five Days",
     "tags": ["to-read"],
     "thumbnail": "https://d.gr-assets.com/books/1457284924l/25814544.jpg"
   },
@@ -757,8 +739,7 @@
   },
   {
     "isbn": 9781589795471,
-    "name":
-      "The Millionaire Next Door: The Surprising Secrets of America's Wealthy",
+    "name": "The Millionaire Next Door: The Surprising Secrets of America's Wealthy",
     "tags": ["read", "audiable"],
     "read": "2017-10-10",
     "rating": 6,
@@ -784,8 +765,7 @@
   },
   {
     "isbn": 9781593270650,
-    "name":
-      "Write Great Code, Volume 2: Thinking Low-Level, Writing High-Level",
+    "name": "Write Great Code, Volume 2: Thinking Low-Level, Writing High-Level",
     "tags": ["humble-bundle", "ebook", "kindle"],
     "thumbnail": "https://d.gr-assets.com/books/1390091979l/1063671.jpg"
   },
@@ -805,13 +785,11 @@
     "isbn": 9781593273842,
     "name": "The Art of R Programming: A Tour of Statistical Software Design",
     "tags": ["humble-bundle", "ebook", "kindle"],
-    "thumbnail":
-      "https://d2arxad8u2l0g7.cloudfront.net/books/1328753512l/11746626.jpg"
+    "thumbnail": "https://d2arxad8u2l0g7.cloudfront.net/books/1328753512l/11746626.jpg"
   },
   {
     "isbn": 9781593274245,
-    "name":
-      "Think Like a Programmer: An Introduction to Creative Problem Solving",
+    "name": "Think Like a Programmer: An Introduction to Creative Problem Solving",
     "tags": ["humble-bundle", "ebook", "kindle"],
     "thumbnail": "https://d.gr-assets.com/books/1344609981l/13590009.jpg"
   },
@@ -835,8 +813,7 @@
   },
   {
     "isbn": 9781593275846,
-    "name":
-      "Eloquent JavaScript, 2nd edition: A Modern Introduction to Programming",
+    "name": "Eloquent JavaScript, 2nd edition: A Modern Introduction to Programming",
     "reading": true,
     "tags": ["humble-bundle", "ebook", "kindle", "to-read"],
     "thumbnail": "https://d.gr-assets.com/books/1406741001l/22843271.jpg"
@@ -856,19 +833,15 @@
   },
   {
     "isbn": 9781593275914,
-    "name":
-      "Clojure for the Brave and True: Learn the Ultimate Language and Become a Better Programmer",
+    "name": "Clojure for the Brave and True: Learn the Ultimate Language and Become a Better Programmer",
     "tags": ["humble-bundle", "ebook", "kindle"],
-    "thumbnail":
-      "https://d2arxad8u2l0g7.cloudfront.net/books/1441496147l/26234107.jpg"
+    "thumbnail": "https://d2arxad8u2l0g7.cloudfront.net/books/1441496147l/26234107.jpg"
   },
   {
     "isbn": 9781593275990,
-    "name":
-      "Automate the Boring Stuff with Python: Practical Programming for Total Beginners",
+    "name": "Automate the Boring Stuff with Python: Practical Programming for Total Beginners",
     "tags": ["humble-bundle", "ebook", "kindle"],
-    "thumbnail":
-      "https://d2arxad8u2l0g7.cloudfront.net/books/1418768948l/22514127.jpg"
+    "thumbnail": "https://d2arxad8u2l0g7.cloudfront.net/books/1418768948l/22514127.jpg"
   },
   {
     "isbn": 9781593276041,
@@ -888,116 +861,91 @@
     "isbn": 9781623155278,
     "name": "Paleo in 28: 4 Weeks, 5 Ingredients, 130 Recipes",
     "tags": ["to-read", "humble-bundle"],
-    "thumbnail":
-      "https://humblebundle-a.akamaihd.net/misc/files/hashed/4155f1e270e023119b79efd56631289bafab861d.png"
+    "thumbnail": "https://humblebundle-a.akamaihd.net/misc/files/hashed/4155f1e270e023119b79efd56631289bafab861d.png"
   },
   {
     "isbn": 9781623155971,
     "name": "Sushi at Home: A Mat-to-Table Sushi Cookbook",
     "tags": ["to-read", "humble-bundle"],
-    "thumbnail":
-      "https://humblebundle-a.akamaihd.net/misc/files/hashed/d4b776777338b85e76c868a47e1d21b799ba5698.png"
+    "thumbnail": "https://humblebundle-a.akamaihd.net/misc/files/hashed/d4b776777338b85e76c868a47e1d21b799ba5698.png"
   },
   {
     "isbn": 9781623156008,
     "name": "Real BBQ: The Ultimate Step-by-Step Smoker Cookbook",
     "tags": ["to-read", "humble-bundle"],
-    "thumbnail":
-      "https://humblebundle-a.akamaihd.net/misc/files/hashed/ec6bd0604a7297ede50f15828706d4dd71ca6765.png"
+    "thumbnail": "https://humblebundle-a.akamaihd.net/misc/files/hashed/ec6bd0604a7297ede50f15828706d4dd71ca6765.png"
   },
   {
     "isbn": 9781623156237,
-    "name":
-      "Thriving With Social Anxiety: Daily Strategies for Overcoming Anxiety and Building Self-Confidence",
+    "name": "Thriving With Social Anxiety: Daily Strategies for Overcoming Anxiety and Building Self-Confidence",
     "tags": ["to-read", "humble-bundle"],
-    "thumbnail":
-      "https://humblebundle-a.akamaihd.net/misc/files/hashed/e6e7d01691b07f6eba7bbb337cebd91fc1adcf57.png"
+    "thumbnail": "https://humblebundle-a.akamaihd.net/misc/files/hashed/e6e7d01691b07f6eba7bbb337cebd91fc1adcf57.png"
   },
   {
     "isbn": 9781623156305,
-    "name":
-      "Handcrafted Bitters: Simple Recipes for Artisanal Bitters and the Cocktails that Love Them",
+    "name": "Handcrafted Bitters: Simple Recipes for Artisanal Bitters and the Cocktails that Love Them",
     "tags": ["to-read", "humble-bundle"],
-    "thumbnail":
-      "https://humblebundle-a.akamaihd.net/misc/files/hashed/cd9acbe6a516e756d56b817bcf6363801da2d13c.png"
+    "thumbnail": "https://humblebundle-a.akamaihd.net/misc/files/hashed/cd9acbe6a516e756d56b817bcf6363801da2d13c.png"
   },
   {
     "isbn": 9781623156350,
-    "name":
-      "BOLD: 212 Charisma and Small Talk Tips to Engage, Charm and Leave a Lasting Impression",
+    "name": "BOLD: 212 Charisma and Small Talk Tips to Engage, Charm and Leave a Lasting Impression",
     "tags": ["to-read", "humble-bundle"],
-    "thumbnail":
-      "https://humblebundle-a.akamaihd.net/misc/files/hashed/e563fb41b553287d89a5f363b19f801ff1149c71.png"
+    "thumbnail": "https://humblebundle-a.akamaihd.net/misc/files/hashed/e563fb41b553287d89a5f363b19f801ff1149c71.png"
   },
   {
     "isbn": 9781623156374,
     "name": "Philosophy",
     "tags": ["to-read", "humble-bundle"],
-    "thumbnail":
-      "https://humblebundle-a.akamaihd.net/misc/files/hashed/c5febf68c2d12690b6f3871b7bd97e2698df76b5.png"
+    "thumbnail": "https://humblebundle-a.akamaihd.net/misc/files/hashed/c5febf68c2d12690b6f3871b7bd97e2698df76b5.png"
   },
   {
     "isbn": 9781623156428,
-    "name":
-      "Unmasking Narcissism: A Guide to Understanding the Narcissist in Your Life",
+    "name": "Unmasking Narcissism: A Guide to Understanding the Narcissist in Your Life",
     "tags": ["to-read", "humble-bundle"],
-    "thumbnail":
-      "https://humblebundle-a.akamaihd.net/misc/files/hashed/e2878c81a06267e5d650bf3c645732fe1d787803.png"
+    "thumbnail": "https://humblebundle-a.akamaihd.net/misc/files/hashed/e2878c81a06267e5d650bf3c645732fe1d787803.png"
   },
   {
     "isbn": 9781623156688,
-    "name":
-      "Economics Through Everyday Life: From China & Chili Dogs to Marx & Marijuana",
+    "name": "Economics Through Everyday Life: From China & Chili Dogs to Marx & Marijuana",
     "tags": ["to-read", "humble-bundle"],
-    "thumbnail":
-      "https://humblebundle-a.akamaihd.net/misc/files/hashed/1320599bb4abac9445e244919a16d551901d436c.png"
+    "thumbnail": "https://humblebundle-a.akamaihd.net/misc/files/hashed/1320599bb4abac9445e244919a16d551901d436c.png"
   },
   {
     "isbn": 9781623156886,
     "name": "The Simple Art of Business Etiquette",
     "tags": ["to-read", "humble-bundle"],
-    "thumbnail":
-      "https://humblebundle-a.akamaihd.net/misc/files/hashed/f3e1a1593479830d5dc3850dda3e1cd99612d0eb.png"
+    "thumbnail": "https://humblebundle-a.akamaihd.net/misc/files/hashed/f3e1a1593479830d5dc3850dda3e1cd99612d0eb.png"
   },
   {
     "isbn": 9781623156947,
-    "name":
-      "Politics from A to Z: Great Wars, Inspiring Leaders, Major Revolutions, Current Policies, Big Ideas",
+    "name": "Politics from A to Z: Great Wars, Inspiring Leaders, Major Revolutions, Current Policies, Big Ideas",
     "tags": ["to-read", "humble-bundle"],
-    "thumbnail":
-      "https://humblebundle-a.akamaihd.net/misc/files/hashed/c9d41e202702d659854115cc15a53442bdc8c8ef.png"
+    "thumbnail": "https://humblebundle-a.akamaihd.net/misc/files/hashed/c9d41e202702d659854115cc15a53442bdc8c8ef.png"
   },
   {
     "isbn": 9781623157081,
-    "name":
-      "Psychology: Essential Thinkers, Classic Theories, and How They Inform Your World",
+    "name": "Psychology: Essential Thinkers, Classic Theories, and How They Inform Your World",
     "tags": ["to-read", "humble-bundle"],
-    "thumbnail":
-      "https://humblebundle-a.akamaihd.net/misc/files/hashed/f4e5c91fe4684953aac4dc72b88d8600c025d6e3.png"
+    "thumbnail": "https://humblebundle-a.akamaihd.net/misc/files/hashed/f4e5c91fe4684953aac4dc72b88d8600c025d6e3.png"
   },
   {
     "isbn": 9781623157401,
-    "name":
-      "The Portable Essential Oils: A Pocket Reference of 250 Everyday Essential Oils Remedies for Natural Health",
+    "name": "The Portable Essential Oils: A Pocket Reference of 250 Everyday Essential Oils Remedies for Natural Health",
     "tags": ["to-read", "humble-bundle"],
-    "thumbnail":
-      "https://humblebundle-a.akamaihd.net/misc/files/hashed/cd40898ae0bf3926b863971bf6112adbd7411958.png"
+    "thumbnail": "https://humblebundle-a.akamaihd.net/misc/files/hashed/cd40898ae0bf3926b863971bf6112adbd7411958.png"
   },
   {
     "isbn": 9781623157654,
-    "name":
-      "The Ultimate Bodybuilding Cookbook: High-Impact Recipes to Make You Stronger Than Ever",
+    "name": "The Ultimate Bodybuilding Cookbook: High-Impact Recipes to Make You Stronger Than Ever",
     "tags": ["to-read", "humble-bundle"],
-    "thumbnail":
-      "https://humblebundle-a.akamaihd.net/misc/files/hashed/31dd2893fc55dc8a1f095247263aa2f82c4f14a8.png"
+    "thumbnail": "https://humblebundle-a.akamaihd.net/misc/files/hashed/31dd2893fc55dc8a1f095247263aa2f82c4f14a8.png"
   },
   {
     "isbn": 9781743216897,
-    "name":
-      "Volunteer: A Traveller's Guide to Making a Difference Around the World",
+    "name": "Volunteer: A Traveller's Guide to Making a Difference Around the World",
     "tags": ["to-read", "humble-bundle", "ebook", "kindle"],
-    "thumbnail":
-      "https://images-na.ssl-images-amazon.com/images/I/51MFxqrXrHL._SX323_BO1,204,203,200_.jpg"
+    "thumbnail": "https://images-na.ssl-images-amazon.com/images/I/51MFxqrXrHL._SX323_BO1,204,203,200_.jpg"
   },
   {
     "isbn": 9781743219768,
@@ -1009,43 +957,37 @@
     "isbn": 9781743601013,
     "name": "Great Adventures",
     "tags": ["to-read", "humble-bundle", "ebook", "kindle"],
-    "thumbnail":
-      "http://media.lonelyplanet.com/shop/images/8640-Great_Adventures__Paperback_508117_Large.png"
+    "thumbnail": "http://media.lonelyplanet.com/shop/images/8640-Great_Adventures__Paperback_508117_Large.png"
   },
   {
     "isbn": 9781743601648,
     "name": "You Only Live Once",
     "tags": ["to-read", "humble-bundle", "ebook", "kindle"],
-    "thumbnail":
-      "https://media.lonelyplanet.com/shop/images/You_Only_Live_Once_Large.png"
+    "thumbnail": "https://media.lonelyplanet.com/shop/images/You_Only_Live_Once_Large.png"
   },
   {
     "isbn": 9781743607527,
     "name": "How To Survive Anything",
     "tags": ["to-read", "humble-bundle", "ebook", "kindle"],
-    "thumbnail":
-      "http://media.lonelyplanet.com/shop/images/How_to_Survive_Anything__A_Visual_Guide_to_Laughing_in_the_Face_of_Adversity__Large.png"
+    "thumbnail": "http://media.lonelyplanet.com/shop/images/How_to_Survive_Anything__A_Visual_Guide_to_Laughing_in_the_Face_of_Adversity__Large.png"
   },
   {
     "isbn": 9781760340605,
     "name": "50 Museums to Blow Your Mind",
     "tags": ["to-read", "humble-bundle", "ebook", "kindle"],
-    "thumbnail":
-      "http://media.lonelyplanet.com/shop/images/50_Museums_to_Blow_Your_Mind_-_1st_edition_Large.png"
+    "thumbnail": "http://media.lonelyplanet.com/shop/images/50_Museums_to_Blow_Your_Mind_-_1st_edition_Large.png"
   },
   {
     "isbn": 9781760340629,
     "name": "The Best Things in Life Are Free",
     "tags": ["to-read", "humble-bundle", "ebook", "kindle"],
-    "thumbnail":
-      "https://images-na.ssl-images-amazon.com/images/I/51nxweuIb2L._SX392_BO1,204,203,200_.jpg"
+    "thumbnail": "https://images-na.ssl-images-amazon.com/images/I/51nxweuIb2L._SX392_BO1,204,203,200_.jpg"
   },
   {
     "isbn": 9781760340834,
     "name": "Epic Bike Rides of the World",
     "tags": ["to-read", "humble-bundle", "ebook", "kindle"],
-    "thumbnail":
-      "http://media.lonelyplanet.com/shop/images/Epic_Bike_Rides_of_the_World_Large.png"
+    "thumbnail": "http://media.lonelyplanet.com/shop/images/Epic_Bike_Rides_of_the_World_Large.png"
   },
   {
     "isbn": 9781782166320,
@@ -1057,50 +999,43 @@
     "isbn": 9781786574046,
     "name": "50 Festivals to Blow Your Mind",
     "tags": ["to-read", "humble-bundle", "ebook", "kindle"],
-    "thumbnail":
-      "http://media.lonelyplanet.com/shop/images/50_Festivals_To_Blow_Your_Mind_Large.png"
+    "thumbnail": "http://media.lonelyplanet.com/shop/images/50_Festivals_To_Blow_Your_Mind_Large.png"
   },
   {
     "isbn": 9781786577573,
     "name": "Street Art",
     "tags": ["to-read", "humble-bundle", "ebook", "kindle"],
-    "thumbnail":
-      "http://media.lonelyplanet.com/shop/images/Street_Art_Large.png"
+    "thumbnail": "http://media.lonelyplanet.com/shop/images/Street_Art_Large.png"
   },
   {
     "isbn": 9781786577597,
     "name": "Atlas of Adventure",
     "tags": ["to-read", "humble-bundle", "ebook", "kindle"],
-    "thumbnail":
-      "http://media.lonelyplanet.com/shop/images/Lonely_Planet_s_Atlas_of_Adventures_Large.png"
+    "thumbnail": "http://media.lonelyplanet.com/shop/images/Lonely_Planet_s_Atlas_of_Adventures_Large.png"
   },
   {
     "isbn": 9781786577603,
     "name": "Film and TV Locations",
     "tags": ["to-read", "humble-bundle", "ebook", "kindle"],
-    "thumbnail":
-      "http://media.lonelyplanet.com/shop/images/Film___TV_Locations__A_Spotter_s_Guide_Large.png"
+    "thumbnail": "http://media.lonelyplanet.com/shop/images/Film___TV_Locations__A_Spotter_s_Guide_Large.png"
   },
   {
     "isbn": 9781786577955,
     "name": "Global Beer Tour",
     "tags": ["to-read", "humble-bundle", "ebook", "kindle"],
-    "thumbnail":
-      "http://media.lonelyplanet.com/shop/images/Lonely_Planet_s_Global_Beer_Tour_Large.png"
+    "thumbnail": "http://media.lonelyplanet.com/shop/images/Lonely_Planet_s_Global_Beer_Tour_Large.png"
   },
   {
     "isbn": 9781786578655,
     "name": "Secret Marvels of the World",
     "tags": ["to-read", "humble-bundle", "ebook", "kindle"],
-    "thumbnail":
-      "http://media.lonelyplanet.com/shop/images/Secret_Marvels_of_the_World_Large.png"
+    "thumbnail": "http://media.lonelyplanet.com/shop/images/Secret_Marvels_of_the_World_Large.png"
   },
   {
     "isbn": 9781786578662,
     "name": "How To Be A Travel Writer",
     "tags": ["to-read", "humble-bundle", "ebook", "kindle"],
-    "thumbnail":
-      "http://media.lonelyplanet.com/shop/images/How_to_be_a_Travel_Writer_-_4th_edition_Large.png"
+    "thumbnail": "http://media.lonelyplanet.com/shop/images/How_to_be_a_Travel_Writer_-_4th_edition_Large.png"
   },
   {
     "isbn": 9781844138517,
@@ -1119,19 +1054,16 @@
   },
   {
     "isbn": 9781943451241,
-    "name":
-      "F*ck Your Resume: The Revolutionary Guide to Getting Hired in the Digital Age",
+    "name": "F*ck Your Resume: The Revolutionary Guide to Getting Hired in the Digital Age",
     "tags": ["to-read", "humble-bundle"],
-    "thumbnail":
-      "https://humblebundle-a.akamaihd.net/misc/files/hashed/e178b37471f1d26f4260aa14540622fb00d1b4b3.png"
+    "thumbnail": "https://humblebundle-a.akamaihd.net/misc/files/hashed/e178b37471f1d26f4260aa14540622fb00d1b4b3.png"
   },
   {
     "isbn": 9783945749432,
     "name": "Inclusive Design Patterns",
     "reading": true,
     "tags": ["to-read"],
-    "thumbnail":
-      "https://www.smashingmagazine.com/wp-content/uploads/2016/06/cover-inclusive-design-patterns-1200-opt-1.jpg"
+    "thumbnail": "https://www.smashingmagazine.com/wp-content/uploads/2016/06/cover-inclusive-design-patterns-1200-opt-1.jpg"
   },
   {
     "isbn": 9788202249120,
@@ -1257,8 +1189,7 @@
     "isbn": 9788205330979,
     "name": "feedback",
     "tags": ["to-read"],
-    "thumbnail":
-      "http://www.gyldendal.no/var/ezwebin_site/storage/images/gyldendal/faglitteratur/psykologi/generell-psykologi/feedback/485866-1-nor-NO/Feedback_productimage.jpg"
+    "thumbnail": "http://www.gyldendal.no/var/ezwebin_site/storage/images/gyldendal/faglitteratur/psykologi/generell-psykologi/feedback/485866-1-nor-NO/Feedback_productimage.jpg"
   },
   {
     "isbn": 9788205366824,
@@ -1284,8 +1215,7 @@
     "isbn": 9788215015392,
     "name": "Til forsvar for personvernet",
     "tags": ["to-read", "bookshelf"],
-    "thumbnail":
-      "https://d2arxad8u2l0g7.cloudfront.net/books/1472402091l/31695380.jpg"
+    "thumbnail": "https://d2arxad8u2l0g7.cloudfront.net/books/1472402091l/31695380.jpg"
   },
   {
     "isbn": 9788242950642,
@@ -1307,8 +1237,7 @@
     "isbn": 9788245018035,
     "name": "Digital strategi for alle",
     "tags": ["to-read"],
-    "thumbnail":
-      "http://dizw242ufxqut.cloudfront.net/images/product/book/book/image604/P20883317_frntl.jpg"
+    "thumbnail": "http://dizw242ufxqut.cloudfront.net/images/product/book/book/image604/P20883317_frntl.jpg"
   },
   {
     "isbn": 9788248914075,
@@ -1320,8 +1249,7 @@
     "isbn": 9788248916550,
     "name": "God tur",
     "tags": ["to-read", "bookshelf"],
-    "thumbnail":
-      "http://www.vivo.no/bm/comp/bokogmedia/content/mma/products/12/1238/123841/gwi600x1000/9788248916550.jpg"
+    "thumbnail": "http://www.vivo.no/bm/comp/bokogmedia/content/mma/products/12/1238/123841/gwi600x1000/9788248916550.jpg"
   },
   {
     "isbn": 9788248917984,
@@ -1343,8 +1271,7 @@
     "tags": ["read", "bookshelf"],
     "read": "2016-09-02",
     "rating": 6,
-    "thumbnail":
-      "https://d2arxad8u2l0g7.cloudfront.net/books/1380981715l/18628625.jpg"
+    "thumbnail": "https://d2arxad8u2l0g7.cloudfront.net/books/1380981715l/18628625.jpg"
   },
   {
     "isbn": 9788251681278,
@@ -1362,29 +1289,25 @@
     "isbn": 9788252562804,
     "name": "Den hemmelige nattverden",
     "tags": ["to-read", "bookshelf"],
-    "thumbnail":
-      "https://bokelskere.s3.amazonaws.com/1b4b1a3c21c96a0ca80dba0bbd18c766d251946ce3738bc48d250ae7.jpeg"
+    "thumbnail": "https://bokelskere.s3.amazonaws.com/1b4b1a3c21c96a0ca80dba0bbd18c766d251946ce3738bc48d250ae7.jpeg"
   },
   {
     "isbn": 9788252567557,
     "name": "Det hvite hotellet",
     "tags": ["to-read"],
-    "thumbnail":
-      "http://www.bokklubben.no/SamboWeb/servlet/VisBildeServlet?bildeId=335488"
+    "thumbnail": "http://www.bokklubben.no/SamboWeb/servlet/VisBildeServlet?bildeId=335488"
   },
   {
     "isbn": 9788271461447,
     "name": "Sun Tzus The art of war og kunsten å lede",
     "tags": ["to-read", "bookshelf"],
-    "thumbnail":
-      "http://www.norli.no/wcsstore/ExtendedSitesCatalogAssetStore/images/catalog/nl/s160/DNBB/9788271461447.jpg"
+    "thumbnail": "http://www.norli.no/wcsstore/ExtendedSitesCatalogAssetStore/images/catalog/nl/s160/DNBB/9788271461447.jpg"
   },
   {
     "isbn": 9788275477628,
     "name": "Kokkelære",
     "tags": ["to-read"],
-    "thumbnail":
-      "https://d2arxad8u2l0g7.cloudfront.net/books/1464460020l/30308239.jpg"
+    "thumbnail": "https://d2arxad8u2l0g7.cloudfront.net/books/1464460020l/30308239.jpg"
   },
   {
     "isbn": 9788282820523,
@@ -1396,8 +1319,7 @@
     "isbn": 9788282821216,
     "name": "Når livet er kjipt - en håndbok for unge folk",
     "tags": ["to-read", "bookshelf"],
-    "thumbnail":
-      "https://d2arxad8u2l0g7.cloudfront.net/books/1441532255l/26236138.jpg"
+    "thumbnail": "https://d2arxad8u2l0g7.cloudfront.net/books/1441532255l/26236138.jpg"
   },
   {
     "isbn": 9788299885188,
@@ -1423,8 +1345,7 @@
     "name": "Atomic Design",
     "reading": true,
     "tags": ["to-read"],
-    "thumbnail":
-      "https://cdn.shopify.com/s/files/1/0727/0443/products/book-cover_1024x1024.png?v=1478041896"
+    "thumbnail": "https://cdn.shopify.com/s/files/1/0727/0443/products/book-cover_1024x1024.png?v=1478041896"
   },
   { "isbn": 0, "name": "Going offline by JEREMY KEITH", "tags": ["to-read"] },
   {
@@ -1443,5 +1364,25 @@
     "read": "2018-08-05",
     "rating": 6,
     "thumbnail": "https://images.gr-assets.com/books/1507128451l/36352875.jpg"
+  },
+  {
+    "isbn": 9781449368425,
+    "name": "Lean Enterprise: How High Performance Organizations Innovate at Scale",
+    "thumbnail": "https://images.gr-assets.com/books/1419979426l/18167218.jpg"
+  },
+  {
+    "isbn": 9780062874788,
+    "name": "It Doesn't Have to Be Crazy at Work",
+    "thumbnail": "https://images.gr-assets.com/books/1526057292l/38900866.jpg"
+  },
+  {
+    "isbn": 9780307463746,
+    "name": "Rework",
+    "thumbnail": "https://images.gr-assets.com/books/1391275636l/6732019.jpg"
+  },
+  {
+    "isbn": 9780804148993,
+    "name": "Remote: Office Not Required",
+    "thumbnail": "https://images.gr-assets.com/books/1363265098l/17316682.jpg"
   }
 ]
