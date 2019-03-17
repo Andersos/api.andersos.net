@@ -755,5 +755,32 @@
     "game": "ukjent",
     "players": ["Oluf", "Anders", "Jørgen", "Kristian"],
     "comment": "O: 54 A:36 K:43 J:45"
+  },
+  {
+    "date": "2019-03-14",
+    "game": "Love letter",
+    "players": ["Anders", "Jørgen", "Kristian"],
+    "winners": ["Anders"]
+  },
+  {
+    "date": "2019-03-14",
+    "game": "Deep Sea Adventure",
+    "players": ["Anders", "Jørgen", "Kristian", "Maria"],
+    "winners": ["Anders"],
+    "comment": "Anders var den eneste som kom til overflaten en gang på 3 runder"
+  },
+  {
+    "date": "2019-03-15",
+    "game": "Ravine",
+    "players": ["Anders", "Jørgen", "Kristian", "Maria"],
+    "winners": ["Anders", "Jørgen", "Kristian", "Maria"],
+    "comment": "Anders var den eneste som kom til overflaten en gang på 3 runder"
+  },
+  {
+    "date": "2019-03-15",
+    "game": "Ravine",
+    "players": ["Anders", "Jørgen", "Kristian", "Maria"],
+    "winners": [],
+    "comment": "Vi ble angrepet av et dyr på natta og alle døde samtdigit omtrent"
   }
 ]
