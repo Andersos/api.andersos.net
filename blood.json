@@ -175,7 +175,14 @@
     "date": "2018.12.17",
     "time": "17:00",
     "location": "Ullevål sykehus",
-    "HbF": "54,8",
+    "HbF": "15,8",
     "gift": "Reflekspakke"
+  },
+  {
+    "date": "2019.03.21",
+    "time": "16:00",
+    "location": "Ullevål sykehus",
+    "HbF": "15,6",
+    "gift": "Håndkle"
   }
 ]
