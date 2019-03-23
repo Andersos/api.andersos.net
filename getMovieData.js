@@ -20,9 +20,9 @@ async function writeMovieDataToFile(id, moreData) {
   w2f(result);
 }
 
-writeMovieDataToFile('tt9817258', {
-  'Your Rating': 5,
-  'Date Watched': '2019-03-16',
-  'Date Rated': '2019-03-17',
-  Source: 'Netflix',
+writeMovieDataToFile('tt1258197', {
+  'Your Rating': 7,
+  'Date Watched': '2019-03-23',
+  'Date Rated': '2019-03-23',
+  Source: 'Popcorn',
 });
