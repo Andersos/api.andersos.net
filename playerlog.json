@@ -782,5 +782,23 @@
     "players": ["Anders", "Jørgen", "Kristian", "Maria"],
     "winners": [],
     "comment": "Vi ble angrepet av et dyr på natta og alle døde samtdigit omtrent"
+  },
+  {
+    "date": "2019-03-24",
+    "game": "Peek & Push",
+    "players": ["Anders", "Ann Harriet"],
+    "winners": ["Ann Harriet"]
+  },
+  {
+    "date": "2019-03-24",
+    "game": "Peek & Push",
+    "players": ["Anders", "Ann Harriet"],
+    "winners": ["Anders"]
+  },
+  {
+    "date": "2019-03-24",
+    "game": "Peek & Push",
+    "players": ["Anders", "Ann Harriet"],
+    "winners": ["Anders"]
   }
 ]
