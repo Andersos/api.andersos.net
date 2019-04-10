@@ -591,5 +591,13 @@
     "expansions": ["The Spirits"],
     "link": "https://boardgamegeek.com/boardgame/237728/ravine",
     "thumbnail": "https://api.andersos.net/assets/ravine.png"
+  },
+  {
+    "name": "Azul",
+    "time": "30",
+    "minplayers": 2,
+    "maxplayers": 4,
+    "link": "https://boardgamegeek.com/boardgame/230802/azul",
+    "thumbnail": "https://api.andersos.net/assets/azul.jpg"
   }
 ]
