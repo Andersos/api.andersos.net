@@ -800,5 +800,11 @@
     "game": "Peek & Push",
     "players": ["Anders", "Ann Harriet"],
     "winners": ["Anders"]
+  },
+  {
+    "date": "2019-04-11",
+    "game": "Bezzerwizzer",
+    "players": ["Marte", "Victoria", "Francesco", "Anders"],
+    "winners": ["Francesco"]
   }
 ]
