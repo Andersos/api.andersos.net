@@ -806,5 +806,12 @@
     "game": "Bezzerwizzer",
     "players": ["Marte", "Victoria", "Francesco", "Anders"],
     "winners": ["Francesco"]
+  },
+  {
+    "date": "2019-04-23",
+    "game": "Game of Thrones",
+    "players": ["Francesco", "Victoria", "Kristian", "Anders", "Christopher", "Kari A"],
+    "winners": ["Anders"],
+    "comment": "Etter 6 runder så avsluttet vi. Da ledet Anders med 6 slott og andreplassene hadde 4"
   }
 ]
