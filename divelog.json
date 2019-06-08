@@ -1,0 +1,115 @@
+[
+  {
+    "diveNumber": 1,
+    "date": "2010.06.20",
+    "location": "Sjøstrand",
+    "diveTime": {
+      "diveLength": 21,
+      "bottomTime": 3,
+      "decoStops": [
+        {
+          "depth": 5,
+          "duration": 5
+        }
+      ]
+    },
+    "cylinder": [
+      {
+        "startPressure": 250,
+        "endPressure": 150
+      }
+    ],
+    "depth": {
+      "max": 9.5
+    },
+    "exposure": {
+      "body": "tørrdrakt",
+      "gloves": true,
+      "hood": true,
+      "boots": false
+    },
+    "equipment": {
+      "compass": false,
+      "computer": true,
+      "knife": false,
+      "light": false,
+      "scooter": false,
+      "slate": false,
+      "surfaceMarker": false
+    },
+    "diveType": {
+      "altitude": false,
+      "boat": false,
+      "cave": false,
+      "deep": false,
+      "drift": false,
+      "ice": false,
+      "night": false,
+      "reef": false,
+      "saltWater": true,
+      "searchAndRecovery": false,
+      "training": false,
+      "wreck": false
+    },
+    "visibility": 8,
+    "weight": "12kg",
+    "notes": "Hette L, Hansker XL, Vest LS, Drakt XL, Sunnto Vyper"
+  },
+  {
+    "diveNumber": 2,
+    "date": "2010.06.20",
+    "location": "Sjøstrand brygge",
+    "diveTime": {
+      "diveLength": 24,
+      "bottomTime": 3,
+      "decoStops": [
+        {
+          "depth": 5,
+          "duration": 5
+        }
+      ]
+    },
+    "cylinder": [
+      {
+        "startPressure": 300,
+        "endPressure": 100
+      }
+    ],
+    "depth": {
+      "max": 11
+    },
+    "exposure": {
+      "body": "tørrdrakt",
+      "gloves": true,
+      "hood": true,
+      "boots": false
+    },
+    "equipment": {
+      "compass": false,
+      "computer": true,
+      "knife": false,
+      "light": false,
+      "scooter": false,
+      "slate": false,
+      "surfaceMarker": false
+    },
+
+    "diveType": {
+      "altitude": false,
+      "boat": false,
+      "cave": false,
+      "deep": false,
+      "drift": false,
+      "ice": false,
+      "night": false,
+      "reef": false,
+      "saltWater": true,
+      "searchAndRecovery": false,
+      "training": false,
+      "wreck": false
+    },
+    "visibility": 8,
+    "weight": "10kg",
+    "notes": "Tren på å finne ventil. Hette L, Hansker XL, Vest L, Drakt XL, Suunto Vyper"
+  }
+]
