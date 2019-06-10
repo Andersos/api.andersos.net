@@ -813,5 +813,18 @@
     "players": ["Francesco", "Victoria", "Kristian", "Anders", "Christopher", "Kari A"],
     "winners": ["Anders"],
     "comment": "Etter 6 runder så avsluttet vi. Da ledet Anders med 6 slott og andreplassene hadde 4"
+  },
+  {
+    "date": "2019-06-03",
+    "game": "Harbour",
+    "players": ["Kristian", "Anders"],
+    "winners": ["Anders"]
+  },
+  {
+    "date": "2019-06-03",
+    "game": "Scythe",
+    "players": ["Francesco", "Kristian", "Anders", "Christopher"],
+    "winners": ["Francesco"],
+    "comment": "Francesco 44p, Anders 34p,  Christopher 20p, Kristian 18p"
   }
 ]
