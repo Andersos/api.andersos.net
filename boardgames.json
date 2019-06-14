@@ -576,6 +576,14 @@
     "thumbnail": "https://api.andersos.net/assets/tokaido.png"
   },
   {
+    "name": "Villagers",
+    "time": "40",
+    "minplayers": 1,
+    "maxplayers": 5,
+    "link": "https://boardgamegeek.com/boardgame/241724/villagers",
+    "thumbnail": "https://api.andersos.net/assets/villagers.png"
+  },
+  {
     "name": "Unearth",
     "owner": "Kristian",
     "time": "40",
