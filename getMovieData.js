@@ -21,6 +21,7 @@ async function writeMovieDataToFile(id, moreData) {
 }
 
 writeMovieDataToFile('tt1618434', {
+  Const: 'tt1618434',
   'Your Rating': 4,
   'Date Watched': '2019-06-14',
   'Date Rated': '2019-06-014',
