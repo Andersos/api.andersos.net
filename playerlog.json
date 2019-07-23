@@ -826,5 +826,11 @@
     "players": ["Francesco", "Kristian", "Anders", "Christopher"],
     "winners": ["Francesco"],
     "comment": "Francesco 44p, Anders 34p,  Christopher 20p, Kristian 18p"
+  },
+  {
+    "date": "2019-07-12",
+    "game": "Settlers of Catan",
+    "players": ["Anders", "Anders M", "Henrik"],
+    "winners": ["Anders"]
   }
 ]
