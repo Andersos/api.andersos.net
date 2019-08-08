@@ -20,10 +20,10 @@ async function writeMovieDataToFile(id, moreData) {
   w2f(result);
 }
 
-writeMovieDataToFile('tt1477834', {
-  Const: 'tt1477834',
-  'Your Rating': 4,
-  'Date Watched': '2019-07-30',
-  'Date Rated': '2019-08-03',
-  Source: 'Singapore Airlines',
+writeMovieDataToFile('tt5666304', {
+  Const: 'tt5666304',
+  'Your Rating': 5,
+  'Date Watched': '2019-08-06',
+  'Date Rated': '2019-08-08',
+  Source: 'Netflix',
 });
