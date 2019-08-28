@@ -1,5 +1,9 @@
 [
   {
+    "owid": "https://api.andersos.net/photos/dive/ow.jpg",
+    "aowid": "https://api.andersos.net/photos/dive/aow.jpg"
+  },
+  {
     "diveNumber": 1,
     "date": "2010.06.20",
     "location": "Sjøstrand",
