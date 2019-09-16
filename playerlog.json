@@ -833,4 +833,11 @@
     "players": ["Anders", "Anders M", "Henrik"],
     "winners": ["Anders"]
   }
+  {
+    "date": "2019-09-16",
+    "game": "Settlers of Catan",
+    "players": ["Anders", "Marte", "Kristian"],
+    "winners": ["Anders"],
+    "comment": "Marte 9, Anders 10, Kristian 7"
+  }
 ]
