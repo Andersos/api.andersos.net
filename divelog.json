@@ -1145,5 +1145,119 @@
     "weight": 10,
     "visibility": 10,
     "notes": "Så Arrowcrabs, Anemoner og Manta Ray. Vi startet ved båten og svømte litt rundt og bort til en mur. Mot slutten svmøte vi tre ganger under noen steinbruer under vann"
+  },
+  {
+    "diveNumber": 20,
+    "date": "2019.08.07",
+    "location": "Wave corner",
+    "company": "Ultimate Gilig Gede",
+    "diveTime": {
+      "diveLength": 39
+    },
+    "temperature": {
+      "surface": 28
+    },
+    "cylinder": [
+      {
+        "gas": {
+          "startPressure": 220,
+          "endPressure": 40
+        },
+        "volume": "12L"
+      }
+    ],
+    "depth": {
+      "max": 22,
+      "avg": 15
+    },
+    "exposure": {
+      "body": "våtdrakt",
+      "gloves": false,
+      "hood": false,
+      "boots": false
+    },
+    "equipment": {
+      "compass": false,
+      "computer": false,
+      "knife": false,
+      "light": false,
+      "scooter": false,
+      "slate": false,
+      "surfaceMarker": false
+    },
+    "diveType": {
+      "altitude": false,
+      "boat": true,
+      "cave": false,
+      "deep": false,
+      "drift": true,
+      "ice": false,
+      "night": false,
+      "reef": false,
+      "saltWater": true,
+      "searchAndRecovery": false,
+      "training": false,
+      "wreck": false
+    },
+    "weight": 10,
+    "visibility": 25,
+    "notes": "Stringray, lots of current, drift dive, måtte få luft fra han ene guiden fordi jeg brukte så mye luft ift de andre"
+  },
+  {
+    "diveNumber": 21,
+    "date": "2019.08.07",
+    "location": "Batu Putih",
+    "company": "Ultimate Gilig Gede",
+    "diveTime": {
+      "diveLength": 51
+    },
+    "temperature": {
+      "surface": 27
+    },
+    "cylinder": [
+      {
+        "gas": {
+          "startPressure": 220,
+          "endPressure": 40
+        },
+        "volume": "12L"
+      }
+    ],
+    "depth": {
+      "max": 19,
+      "avg": 12
+    },
+    "exposure": {
+      "body": "våtdrakt",
+      "gloves": false,
+      "hood": false,
+      "boots": false
+    },
+    "equipment": {
+      "compass": false,
+      "computer": false,
+      "knife": false,
+      "light": false,
+      "scooter": false,
+      "slate": false,
+      "surfaceMarker": false
+    },
+    "diveType": {
+      "altitude": false,
+      "boat": true,
+      "cave": false,
+      "deep": false,
+      "drift": true,
+      "ice": false,
+      "night": false,
+      "reef": false,
+      "saltWater": true,
+      "searchAndRecovery": false,
+      "training": false,
+      "wreck": false
+    },
+    "weight": 8,
+    "visibility": 25,
+    "notes": "Followed reef down. Drift dive no current, boat, black spotted morey eel, nudi brach, sting ray"
   }
 ]
