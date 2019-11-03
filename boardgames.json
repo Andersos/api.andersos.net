@@ -115,7 +115,6 @@
   },
   {
     "name": "Codenames",
-    "rent": "Jørgen",
     "time": "15",
     "minplayers": 2,
     "maxplayers": 8,
@@ -157,7 +156,6 @@
   },
   {
     "name": "Dixit",
-    "rent": "Jørgen",
     "time": "30",
     "minplayers": 3,
     "maxplayers": 6,
@@ -355,7 +353,6 @@
   },
   {
     "name": "Love Letter",
-    "rent": "Jørgen",
     "time": "20",
     "minplayers": 2,
     "maxplayers": 4,
@@ -565,7 +562,6 @@
   },
   {
     "name": "Ticket To Ride Europe",
-    "rent": "Jørgen",
     "time": "30",
     "minplayers": 2,
     "maxplayers": 5,
