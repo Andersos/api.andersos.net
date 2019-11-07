@@ -832,12 +832,30 @@
     "game": "Settlers of Catan",
     "players": ["Anders", "Anders M", "Henrik"],
     "winners": ["Anders"]
-  }
+  },
   {
     "date": "2019-09-16",
     "game": "Settlers of Catan",
     "players": ["Anders", "Marte", "Kristian"],
     "winners": ["Anders"],
     "comment": "Marte 9, Anders 10, Kristian 7"
+  },
+  {
+    "date": "2019-11-06",
+    "game": "Throw Throw Burrito",
+    "players": ["Marte", "Victoria", "Francesco", "Anders"],
+    "winners": ["Marte"]
+  },
+  {
+    "date": "2019-11-06",
+    "game": "Throw Throw Burrito",
+    "players": ["Marte", "Victoria", "Francesco", "Anders"],
+    "winners": ["Victoria"]
+  },
+  {
+    "date": "2019-11-06",
+    "game": "Throw Throw Burrito",
+    "players": ["Marte", "Victoria", "Francesco", "Anders"],
+    "winners": ["Anders"]
   }
 ]
