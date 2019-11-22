@@ -1,0 +1,12 @@
+[
+    {"name": "Anders Olsen Sandvik", "father": "Oluf Sandvik", "mother": "Ann Harriet Olsen"},
+    {"name": "Kristian Olsen Sandvik", "father": "Oluf Sandvik", "mother": "Ann Harriet Olsen"},
+    {"name": "Jørgen Olsen Sandvik", "father": "Oluf Sandvik", "mother": "Ann Harriet Olsen"},
+    {"name": "Ann Harriet Olsen", "father": "Birger Kristian Olaus Olsen", "mother": "Ada Olsen"},
+    {"name": "Ada Olsen", "father": "Hartvik Laurits Jørgensen", "mother": "Agnes Elida Jørgensen"},
+    {"name": "Agnes Elida Jørgensen", "father": "Andreas Pedersen", "mother": "Karoline Pedersen"},
+    {"name": "Hartvik Laurits Jørgensen", "father": "Jørgen Hansen", "mother": "Nilsine Benedikte"},
+    {"name": "Birger Kristian Olaus Olsen", "father": "Daniel Olsen", "mother": "Charlotte Kristine Olsen"},
+    {"name": "Charlotte Kristine Olsen", "father": "Hans Hagerup Kristoffersen", "mother": "Anna Hagerup Kristoffersen"},
+    {"name": "Daniel Olsen", "father": "Kristian Olsen", "mother": "Berit Olsen"}
+]
