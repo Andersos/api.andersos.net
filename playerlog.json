@@ -857,5 +857,19 @@
     "game": "Throw Throw Burrito",
     "players": ["Marte", "Victoria", "Francesco", "Anders"],
     "winners": ["Anders"]
+  },
+  {
+    "date": "2019-11-23",
+    "game": "Secret Hitler",
+    "players": ["Francesco", "Victoria", "Marte", "Anders", "Christopher", "Trym", "Jackie", "Aaron"],
+    "winners": ["Trym", "Marte", "Francesco"],
+    "comment": "Trym Hitler. Hitler vant som Chanslor etter 3 facist kort"
+  },
+  {
+    "date": "2019-11-23",
+    "game": "Secret Hitler",
+    "players": ["Francesco", "Victoria", "Marte", "Anders", "Christopher", "Trym", "Jackie", "Aaron"],
+    "winners": ["Francesco", "Marte", "Anders", "Trym", "Aaron"],
+    "comment": "Jackie Hitler. Liberale vant helt på slutten"
   }
 ]
