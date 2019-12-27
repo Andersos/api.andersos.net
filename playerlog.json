@@ -871,5 +871,24 @@
     "players": ["Francesco", "Victoria", "Marte", "Anders", "Christopher", "Trym", "Jackie", "Aaron"],
     "winners": ["Francesco", "Marte", "Anders", "Trym", "Aaron"],
     "comment": "Jackie Hitler. Liberale vant helt på slutten"
+  },
+  {
+    "date": "2019-12-27",
+    "game": "Ticket To Ride Europe",
+    "players": ["Anders", "Marte", "Christine", "Cecilie", "Julie"],
+    "winners": ["Cecilie"],
+    "comment": "Cecilie 112, Christine 94, Marte 93, Julie 60, Anders 47"
+  },
+  {
+    "date": "2019-12-27",
+    "game": "Exploding Kittens",
+    "players": ["Anders", "Marte", "Christine", "Cecilie", "Julie"],
+    "winners": ["Julie"]
+  },
+  {
+    "date": "2019-12-27",
+    "game": "Exploding Kittens",
+    "players": ["Anders", "Marte", "Christine", "Cecilie", "Julie"],
+    "winners": ["Christine"]
   }
 ]
