@@ -875,20 +875,20 @@
   {
     "date": "2019-12-27",
     "game": "Ticket To Ride Europe",
-    "players": ["Anders", "Marte", "Christine", "Cecilie", "Julie"],
-    "winners": ["Cecilie"],
+    "players": ["Anders", "Marte", "Christine", "Cecilie H", "Julie"],
+    "winners": ["Cecilie H"],
     "comment": "Cecilie 112, Christine 94, Marte 93, Julie 60, Anders 47"
   },
   {
     "date": "2019-12-27",
     "game": "Exploding Kittens",
-    "players": ["Anders", "Marte", "Christine", "Cecilie", "Julie"],
+    "players": ["Anders", "Marte", "Christine", "Cecilie H", "Julie"],
     "winners": ["Julie"]
   },
   {
     "date": "2019-12-27",
     "game": "Exploding Kittens",
-    "players": ["Anders", "Marte", "Christine", "Cecilie", "Julie"],
+    "players": ["Anders", "Marte", "Christine", "Cecilie H", "Julie"],
     "winners": ["Christine"]
   }
 ]
