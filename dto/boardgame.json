@@ -1,0 +1,13 @@
+{
+  "name": "string",
+  "time": "string",
+  "sortkey": "string",
+  "rent": "string",
+  "owner": "string",
+  "minplayers": "number",
+  "maxplayers": "number",
+  "expansions": ["array"],
+  "link": "string",
+  "thumbnail": "string",
+  "sold": "boolean"
+}

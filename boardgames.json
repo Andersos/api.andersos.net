@@ -8,6 +8,22 @@
     "thumbnail": "https://api.andersos.net/assets/andthenweheldhands.jpg"
   },
   {
+    "name": "0-100",
+    "time": "15",
+    "minplayers": 2,
+    "maxplayers": 6,
+    "link": "",
+    "thumbnail": ""
+  },
+  {
+    "name": "7 Wonders",
+    "time": "30",
+    "minplayers": 2,
+    "maxplayers": 7,
+    "link": "https://www.boardgamegeek.com/boardgame/68448/7-wonders",
+    "thumbnail": "https://api.andersos.net/assets/7wonders.jpg"
+  },
+  {
     "name": "Adorable Pandaring",
     "time": "10",
     "minplayers": 3,
@@ -140,6 +156,7 @@
   },
   {
     "name": "Dead of Winter",
+    "rent": "Cecilie",
     "time": "60",
     "minplayers": 2,
     "maxplayers": 5,
@@ -181,6 +198,7 @@
   },
   {
     "name": "Escape: The Curse of the Temple",
+    "sold": true,
     "time": "10",
     "minplayers": 1,
     "maxplayers": 5,
