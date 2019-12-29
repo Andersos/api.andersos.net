@@ -1,18 +1,20 @@
-const fs = require('fs');
-const fetch = require('node-fetch');
-const apikey = require('./secrets');
+const fs = require("fs");
+const fetch = require("node-fetch");
+const apikey = require("./secrets");
 
 function w2f(movie) {
-  console.log(`You rated ${movie.Title} ${movie['Your Rating']} of 10.`);
-  fs.writeFileSync('newMovie.json', JSON.stringify(movie));
+  console.log(`You rated ${movie.Title} ${movie["Your Rating"]} of 10.`);
+  fs.writeFileSync("newMovie.json", JSON.stringify(movie));
 }
 
 async function getMovieData(id, moreData) {
   return fetch(`http://www.omdbapi.com/?i=${id}&apikey=${apikey}`)
     .then(r => r.json())
-    .then(movie => Object.assign(movie, moreData, {
-        URL: `https://www.imdb.com/title/${movie.imdbID}`,
-      }),);
+    .then(movie =>
+      Object.assign(movie, moreData, {
+        URL: `https://www.imdb.com/title/${movie.imdbID}`
+      })
+    );
 }
 
 async function writeMovieDataToFile(id, moreData) {
@@ -20,10 +22,10 @@ async function writeMovieDataToFile(id, moreData) {
   w2f(result);
 }
 
-writeMovieDataToFile('tt10864024', {
-  Const: 'tt10864024',
-  'Your Rating': 4,
-  'Date Watched': '2019-10-20',
-  'Date Rated': '2019-12-27',
-  Source: 'Vika',
+writeMovieDataToFile("tt0137523", {
+  Const: "tt1119646",
+  "Your Rating": 6,
+  "Date Watched": "2019-12-21",
+  "Date Rated": "2019-12-29",
+  Source: "Ringen"
 });
