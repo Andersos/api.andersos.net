@@ -890,5 +890,23 @@
     "game": "Exploding Kittens",
     "players": ["Anders", "Marte", "Christine", "Cecilie H", "Julie"],
     "winners": ["Christine"]
+  },
+  {
+    "date": "2019-12-28",
+    "game": "0-100",
+    "players": ["Anders", "Marte", "Ann Harriet", "Geir"],
+    "winners": ["Anders"]
+  },
+  {
+    "date": "2019-12-28",
+    "game": "0-100",
+    "players": ["Anders", "Marte", "Ann Harriet", "Geir"],
+    "winners": ["Anders"]
+  },
+  {
+    "date": "2019-12-28",
+    "game": "0-100",
+    "players": ["Anders", "Marte", "Ann Harriet", "Geir"],
+    "winners": ["Geir"]
   }
 ]
