@@ -22,10 +22,10 @@ async function writeMovieDataToFile(id, moreData) {
   w2f(result);
 }
 
-writeMovieDataToFile("tt0137523", {
-  Const: "tt1119646",
-  "Your Rating": 6,
-  "Date Watched": "2019-12-21",
-  "Date Rated": "2019-12-29",
-  Source: "Ringen"
+writeMovieDataToFile("tt8946378", {
+  Const: "tt8946378",
+  "Your Rating": 7,
+  "Date Watched": "2020-01-04",
+  "Date Rated": "2020-01-17",
+  Source: "Frogner Kino"
 });
