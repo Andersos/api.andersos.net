@@ -33,6 +33,7 @@
   },
   {
     "name": "Alias",
+    "rent": "Kristian",
     "time": "45",
     "minplayers": 4,
     "maxplayers": 12,
@@ -73,6 +74,7 @@
   },
   {
     "name": "Bezzerwizzer",
+    "rent": "Kristian",
     "time": "45",
     "minplayers": 2,
     "maxplayers": 12,
@@ -216,6 +218,7 @@
   },
   {
     "name": "Exploding Kittens",
+    "rent": "Kristian",
     "time": "15",
     "minplayers": 2,
     "maxplayers": 5,
@@ -421,6 +424,7 @@
   },
   {
     "name": "One Night Ultimate Werewolf",
+    "rent": "Kristian",
     "time": "10",
     "minplayers": 3,
     "maxplayers": 10,
@@ -487,6 +491,7 @@
   {
     "name": "Ryktet Går...",
     "owner": "Marte",
+    "rent": "Kristian",
     "time": "30",
     "minplayers": 5,
     "maxplayers": 8,
@@ -520,6 +525,7 @@
   },
   {
     "name": "Secret Hitler",
+    "rent": "Kristian",
     "time": "45",
     "minplayers": 5,
     "maxplayers": 10,
@@ -562,6 +568,7 @@
   },
   {
     "name": "Sushi Go",
+    "rent": "Kristian",
     "time": "15",
     "minplayers": 2,
     "maxplayers": 5,
