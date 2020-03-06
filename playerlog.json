@@ -933,5 +933,18 @@
     "game": "Exploding Kittens",
     "players": ["Anders", "Irene", "Kine", "Malin"],
     "winners": ["Malin"]
+  },
+  {
+    "date": "2020-03-06",
+    "game": "Pandemic",
+    "players": ["Francesco", "Victoria", "Anders", "Marte"],
+    "winners": ["Francesco", "Victoria", "Anders", "Marte"]
+  },
+  {
+    "date": "2020-03-06",
+    "game": "Escape Room Spillet",
+    "players": ["Francesco", "Victoria", "Anders", "Marte"],
+    "comment": "Virus med 1:58 igjen og brukte en del hint (4-5)",
+    "winners": ["Francesco", "Victoria", "Anders", "Marte"]
   }
 ]
