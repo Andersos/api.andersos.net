@@ -626,5 +626,21 @@
     "maxplayers": 10,
     "link": "https://boardgamegeek.com/boardgame/62871/zombie-dice",
     "thumbnail": "https://api.andersos.net/assets/zombie-dice.jpg"
+  },
+  {
+    "name": "Patchwork",
+    "time": "30",
+    "minplayers": 2,
+    "maxplayers": 2,
+    "link": "https://boardgamegeek.com/boardgame/163412/patchwork",
+    "thumbnail": "https://api.andersos.net/assets/patchwork.jpg"
+  },
+  {
+    "name": "Just one",
+    "time": "20",
+    "minplayers": 3,
+    "maxplayers": 7,
+    "link": "https://boardgamegeek.com/boardgame/254640/just-one",
+    "thumbnail": "https://api.andersos.net/assets/justone.jpg"
   }
 ]
