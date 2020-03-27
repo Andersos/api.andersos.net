@@ -946,5 +946,17 @@
     "players": ["Francesco", "Victoria", "Anders", "Marte"],
     "comment": "Virus med 1:58 igjen og brukte en del hint (4-5)",
     "winners": ["Francesco", "Victoria", "Anders", "Marte"]
+  },
+  {
+    "date": "2020-03-27",
+    "game": "Azul",
+    "players": ["Anders", "Marte"],
+    "winners": ["Anders"]
+  },
+  {
+    "date": "2020-03-27",
+    "game": "...and then, we held hands.",
+    "players": ["Anders", "Marte"],
+    "winners": ["Anders", "Marte"]
   }
 ]
