@@ -9,10 +9,10 @@ function w2f(movie) {
 
 async function getMovieData(id, moreData) {
   return fetch(`http://www.omdbapi.com/?i=${id}&apikey=${apikey}`)
-    .then(r => r.json())
-    .then(movie =>
+    .then((r) => r.json())
+    .then((movie) =>
       Object.assign(movie, moreData, {
-        URL: `https://www.imdb.com/title/${movie.imdbID}`
+        URL: `https://www.imdb.com/title/${movie.imdbID}`,
       })
     );
 }
@@ -22,10 +22,10 @@ async function writeMovieDataToFile(id, moreData) {
   w2f(result);
 }
 
-writeMovieDataToFile("tt6751668", {
-  Const: "tt6751668",
-  "Your Rating": 10,
-  "Date Watched": "2020-02-18",
-  "Date Rated": "2020-03-04",
-  Source: "Gimle"
+writeMovieDataToFile("tt8228288", {
+  Const: "tt8228288",
+  "Your Rating": 9,
+  "Date Watched": "2020-04-04",
+  "Date Rated": "2020-04-04",
+  Source: "Netflix",
 });

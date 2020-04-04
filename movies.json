@@ -21775,5 +21775,41 @@
     "Date Rated": "2020-03-04",
     "Source": "Gimle",
     "URL": "https://www.imdb.com/title/tt6751668"
+  },
+  {
+    "Title": "The Platform",
+    "Year": "2019",
+    "Rated": "TV-MA",
+    "Released": "20 Mar 2020",
+    "Runtime": "94 min",
+    "Genre": "Horror, Sci-Fi, Thriller",
+    "Director": "Galder Gaztelu-Urrutia",
+    "Writer": "David Desola (screenplay by), David Desola (story by), Pedro Rivero (screenplay by)",
+    "Actors": "Ivan Massagué, Zorion Eguileor, Antonia San Juan, Emilio Buale",
+    "Plot": "A vertical prison with one cell per level. Two people per cell. One only food platform and two minutes per day to feed from up to down. An endless nightmare trapped in The Pit.",
+    "Language": "Spanish",
+    "Country": "Spain",
+    "Awards": "9 wins & 14 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BZTZiYzJkNTQtNmQzZS00YWU3LTgwN2MtMmFkZWQ5Y2QxNmYxXkEyXkFqcGdeQXVyNzE5NDMwNjA@._V1_SX300.jpg",
+    "Ratings": [
+      { "Source": "Internet Movie Database", "Value": "7.0/10" },
+      { "Source": "Metacritic", "Value": "73/100" }
+    ],
+    "Metascore": "73",
+    "imdbRating": "7.0",
+    "imdbVotes": "12,998",
+    "imdbID": "tt8228288",
+    "Type": "movie",
+    "DVD": "N/A",
+    "BoxOffice": "N/A",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True",
+    "Const": "tt8228288",
+    "Your Rating": 9,
+    "Date Watched": "2020-04-04",
+    "Date Rated": "2020-04-04",
+    "Source": "Netflix",
+    "URL": "https://www.imdb.com/title/tt8228288"
   }
 ]
