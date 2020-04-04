@@ -406,14 +406,6 @@
     "winners": ["Marte"]
   },
   {
-    "date": "2017-12-16",
-    "game": "Ho Ho Homicide",
-    "players": "Marte, Victoria, Francesco, Andreas, Cathrin, Julie og Jon",
-    "players": ["Marte", "Victoria", "Francesco", "Anders", "Andreas", "Cathrin", "Julie", "Jon"],
-    "winners": ["Cathrin", "Victoria", "Julie", "Anders"],
-    "comment": "Catrin best acting, best dressed Victoria, most money Julie. Marte, Anders, Victoria og Julie"
-  },
-  {
     "date": "2018-01-20",
     "game": "Sushi Go",
     "players": ["Marte", "Victoria", "Francesco", "Anders"],
@@ -422,7 +414,6 @@
   {
     "date": "2018-01-20",
     "game": "Tokaido",
-    "players": "Anders, Marte, Victoria og Francesco",
     "comment": "Anders vant, så Marte, Victoria og Francesco",
     "players": ["Marte", "Victoria", "Francesco", "Anders"],
     "winners": ["Anders"]
@@ -948,6 +939,13 @@
     "winners": ["Francesco", "Victoria", "Anders", "Marte"]
   },
   {
+    "date": "2020-03-10",
+    "game": "Pandemic Legacy",
+    "comment": "Game 1",
+    "players": ["Francesco", "Victoria", "Anders", "Marte"],
+    "winners": []
+  },
+  {
     "date": "2020-03-27",
     "game": "Azul",
     "players": ["Anders", "Marte"],
@@ -955,8 +953,14 @@
   },
   {
     "date": "2020-03-27",
-    "game": "...and then, we held hands.",
+    "game": "Azul",
     "players": ["Anders", "Marte"],
-    "winners": ["Anders", "Marte"]
+    "winners": ["Marte"]
+  },
+  {
+    "date": "2020-03-27",
+    "game": "Patchwork",
+    "players": ["Anders", "Marte"],
+    "winners": ["Marte"]
   }
 ]
