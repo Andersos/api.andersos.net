@@ -10,8 +10,7 @@
   <body>
 
     <outline title="Comedy" text="Comedy">
-          <outline type="rss" title="DevOps Reactions" text="DevOps Reactions" htmlUrl="http://devopsreactions.tumblr.com/" xmlUrl="http://devopsreactions.tumblr.com/rss"/>
-          <outline type="rss" title="Geek and poke" text="Geek and poke" htmlUrl="http://geek-and-poke.com/" xmlUrl="http://feeds.feedburner.com/GeekAndPoke"/>
+         <outline type="rss" title="Geek and poke" text="Geek and poke" htmlUrl="http://geek-and-poke.com/" xmlUrl="http://feeds.feedburner.com/GeekAndPoke"/>
           https://zachholman.com/atom.xml
           http://yehudakatz.com/rss/
           https://krausefx.com/feed.xml
@@ -128,7 +127,6 @@
           http://datagenetics.com/feed/rss.xml
           https://developer.github.com/changes.atom
           https://facebook.github.io/react/feed.xml
-          https://theblog.okcupid.com/feed
           http://culturedcode.com/things/blog/feed/rss.xml
           https://developer.apple.com/news/rss/news.rss
           http://feeds.feedburner.com/JohnResig
