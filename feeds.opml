@@ -11,38 +11,13 @@
 
     <outline title="Comedy" text="Comedy">
          <outline type="rss" title="Geek and poke" text="Geek and poke" htmlUrl="http://geek-and-poke.com/" xmlUrl="http://feeds.feedburner.com/GeekAndPoke"/>
-          https://zachholman.com/atom.xml
-          http://yehudakatz.com/rss/
-          https://krausefx.com/feed.xml
-          http://www.absurdgalleriet.no/feed/
-          http://www.kalzumeus.com/feed/articles/
-          http://wumo.com/wumo?view=rss
-          http://pengebingen.blogspot.com/feeds/posts/default?alt=rss
-          http://pengeblogg.bloggnorge.com/feed/
-          http://daginge.com/atom.xml
           http://feeds.feedburner.com/TroyHunt?format=xml
           http://feeds.feedburner.com/rickpastoor
-          http://blogg.kolonial.no/rss
-          https://inclusive-components.design/rss/
-          http://kodsmuts.com/feed/
           https://numeriskgalskap.com/feed/
-          https://themacro.com/feed.xml
-          http://caitflanders.com/feed/
           http://tomorrowcorporation.com/feed
-          https://www.gatesnotes.com/rss
-          http://hauken.io/atom.xml
-          https://feeds.feedburner.com/csswizardry
           http://www.oursuperadventure.com/feed/
-          https://what-if.xkcd.com/feed.atom
-          https://espen.codes/rss
           http://bokardo.com/feed/
-          http://eivindlund.no/wp/feed/
           http://nicolasgallagher.com/
-          http://meowni.ca/atom.xml
-          http://engineering.tumblr.com/rss
-          http://code.flickr.f/feed/
-          http://waitbutwhy.com/feed
-          https://blog.twitter.com/api/blog.rss?name=engineering
           https://byparker.com/blog/atom.xml
           http://ceciliavdm.wordpress.com/feed/
           http://djearworm.com/feed
@@ -116,7 +91,6 @@
           http://feeds.feedburner.com/paul-irish
           https://addyosmani.com/rss.xml
           http://muan.co/feed.xml
-          https://mojang.com/feed.xml
           http://tech.finn.no/atom.xml
           https://www.dagsoras.com/nyheter?format=RSS
           http://onethingwell.org/rss
@@ -125,14 +99,9 @@
           https://github.com/blog/all.atom
           http://tjomlid.com/feed/
           http://datagenetics.com/feed/rss.xml
-          https://developer.github.com/changes.atom
-          https://facebook.github.io/react/feed.xml
           http://culturedcode.com/things/blog/feed/rss.xml
           https://developer.apple.com/news/rss/news.rss
           http://feeds.feedburner.com/JohnResig
-          http://rameznaam.com/feed/
-          http://blog.xkcd.com/feed/
-          http://blog.getbootstrap.com/feed.xml
           http://blog.alexmaccaw.com/feed
           https://marco.org/rss
     </outline>
