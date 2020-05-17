@@ -962,5 +962,12 @@
     "game": "Patchwork",
     "players": ["Anders", "Marte"],
     "winners": ["Marte"]
+  },
+  {
+    "date": "2020-05-16",
+    "game": "Azul",
+    "players": ["Anders", "Jørgen", "Kristian", "Maria"],
+    "winners": ["Jørgen"],
+    "comment": "Jørgen, Kristian, Anders, Maria"
   }
 ]
