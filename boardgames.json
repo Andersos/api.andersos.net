@@ -464,6 +464,7 @@
     "time": "60",
     "minplayers": 2,
     "maxplayers": 12,
+    "rent": "Jørgen",
     "link": "https://boardgamegeek.com/boardgame/1115/poker",
     "thumbnail": "https://api.andersos.net/assets/poker.jpg"
   },
