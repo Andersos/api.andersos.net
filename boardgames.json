@@ -643,5 +643,13 @@
     "maxplayers": 7,
     "link": "https://boardgamegeek.com/boardgame/254640/just-one",
     "thumbnail": "https://api.andersos.net/assets/justone.jpg"
+  },
+  {
+    "name": "Terraforming Mars",
+    "time": "120",
+    "minplayers": 1,
+    "maxplayers": 5,
+    "link": "https://boardgamegeek.com/boardgame/167791/terraforming-mars",
+    "thumbnail": "https://api.andersos.net/assets/terraforming.jpg"
   }
 ]

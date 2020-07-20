@@ -971,10 +971,9 @@
     "comment": "Jørgen, Kristian, Anders, Maria"
   },
   {
-    "date": "2020-05-16",
-    "game": "Azul",
-    "players": ["Anders", "Jørgen", "Kristian", "Maria"],
-    "winners": ["Jørgen"],
-    "comment": "Jørgen, Kristian, Anders, Maria"
+    "date": "2020-07-06",
+    "game": "0-100",
+    "players": ["Anders", "Marte", "Fridtjof"],
+    "winners": ["Anders"]
   }
 ]
