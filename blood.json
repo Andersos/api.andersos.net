@@ -205,5 +205,12 @@
     "location": "Ullevål sykehus",
     "HbF": "15,1",
     "gift": "Vinglass"
+  },
+  {
+    "date": "2020.08.05",
+    "time": "12:00",
+    "location": "Ullevål sykehus",
+    "HbF": "15,3",
+    "gift": "Vinglass"
   }
 ]
