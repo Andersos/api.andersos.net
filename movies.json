@@ -21999,139 +21999,211 @@
     "Source": "Netflix",
     "URL": "https://www.imdb.com/title/tt1213663"
   },
-  {"Title":"The Gentlemen","Year":"2019","Rated":"R","Released":"24 Jan 2020","Runtime":"113 min","Genre":"Action, Comedy, Crime","Director":"Guy Ritchie","Writer":"Guy Ritchie (story by), Ivan Atkinson (story by), Marn Davies (story by), Guy Ritchie (screenplay by)","Actors":"Matthew McConaughey, Charlie Hunnam, Michelle Dockery, Jeremy Strong","Plot":"An American expat tries to sell off his highly profitable marijuana empire in London, triggering plots, schemes, bribery and blackmail in an attempt to steal his domain out from under him.","Language":"English","Country":"UK, USA","Awards":"N/A","Poster":"https://m.media-amazon.com/images/M/MV5BMTlkMmVmYjktYTc2NC00ZGZjLWEyOWUtMjc2MDMwMjQwOTA5XkEyXkFqcGdeQXVyNTI4MzE4MDU@._V1_SX300.jpg","Ratings":[{"Source":"Internet Movie Database","Value":"7.9/10"},{"Source":"Metacritic","Value":"51/100"}],"Metascore":"51","imdbRating":"7.9","imdbVotes":"179,587","imdbID":"tt8367814","Type":"movie","DVD":"N/A","BoxOffice":"N/A","Production":"N/A","Website":"N/A","Response":"True","Const":"tt8367814","Your Rating":7,"Date Watched":"2020-09-06","Date Rated":"2020-09-08","Source":"Get","URL":"https://www.imdb.com/title/tt8367814"},
-    {
-      "Title": "Eurovision Song Contest: The Story of Fire Saga",
-      "Year": "2020",
-      "Rated": "PG-13",
-      "Released": "26 Jun 2020",
-      "Runtime": "123 min",
-      "Genre": "Comedy, Music",
-      "Director": "David Dobkin",
-      "Writer": "Will Ferrell, Andrew Steele",
-      "Actors": "Will Ferrell, Rachel McAdams, Dan Stevens, Mikael Persbrandt",
-      "Plot": "When aspiring musicians Lars and Sigrit are given the opportunity to represent their country at the world's biggest song competition, they finally have a chance to prove that any dream worth having is a dream worth fighting for.",
-      "Language": "English, Icelandic",
-      "Country": "USA",
-      "Awards": "N/A",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BYzRjYzA5NTQtOTE3MC00OTYzLWEzODItMzQxYWE1NDJkMDA0XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_SX300.jpg",
-      "Ratings": [
-        {
-          "Source": "Internet Movie Database",
-          "Value": "6.5/10"
-        },
-        {
-          "Source": "Metacritic",
-          "Value": "50/100"
-        }
-      ],
-      "Metascore": "50",
-      "imdbRating": "6.5",
-      "imdbVotes": "61,994",
-      "imdbID": "tt8580274",
-      "Type": "movie",
-      "DVD": "N/A",
-      "BoxOffice": "N/A",
-      "Production": "N/A",
-      "Website": "N/A",
-      "Response": "True",
-      "Const": "tt8580274",
-      "Your Rating": 3,
-      "Date Watched": "2020-08-29",
-      "Date Rated": "2020-09-08",
-      "Source": "Netflix",
-      "URL": "https://www.imdb.com/title/tt8580274"
-    },
-    {
-      "Title": "Tenet",
-      "Year": "2020",
-      "Rated": "PG-13",
-      "Released": "03 Sep 2020",
-      "Runtime": "150 min",
-      "Genre": "Action, Sci-Fi",
-      "Director": "Christopher Nolan",
-      "Writer": "Christopher Nolan",
-      "Actors": "Elizabeth Debicki, Robert Pattinson, John David Washington, Aaron Taylor-Johnson",
-      "Plot": "Armed with only one word, Tenet, and fighting for the survival of the entire world, a Protagonist journeys through a twilight world of international espionage on a mission that will unfold in something beyond real time.",
-      "Language": "English, Russian, Ukrainian, Estonian",
-      "Country": "UK, USA",
-      "Awards": "N/A",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BYzg0NGM2NjAtNmIxOC00MDJmLTg5ZmYtYzM0MTE4NWE2NzlhXkEyXkFqcGdeQXVyMTA4NjE0NjEy._V1_SX300.jpg",
-      "Ratings": [
-        {
-          "Source": "Internet Movie Database",
-          "Value": "7.9/10"
-        },
-        {
-          "Source": "Rotten Tomatoes",
-          "Value": "74%"
-        },
-        {
-          "Source": "Metacritic",
-          "Value": "69/100"
-        }
-      ],
-      "Metascore": "69",
-      "imdbRating": "7.9",
-      "imdbVotes": "63,755",
-      "imdbID": "tt6723592",
-      "Type": "movie",
-      "DVD": "N/A",
-      "BoxOffice": "N/A",
-      "Production": "Warner Bros. Pictures",
-      "Website": "N/A",
-      "Response": "True",
-      "Const": "tt6723592",
-      "Your Rating": 10,
-      "Date Watched": "2020-08-28",
-      "Date Rated": "2020-09-08",
-      "Source": "Netflix",
-      "URL": "https://www.imdb.com/title/tt6723592"
-    },
-    {
-      "Title": "Last Vegas",
-      "Year": "2013",
-      "Rated": "PG-13",
-      "Released": "01 Nov 2013",
-      "Runtime": "105 min",
-      "Genre": "Comedy, Drama",
-      "Director": "Jon Turteltaub",
-      "Writer": "Dan Fogelman",
-      "Actors": "Michael Douglas, Robert De Niro, Morgan Freeman, Kevin Kline",
-      "Plot": "Four friends take a break from their day-to-day lives to throw a bachelor party in Las Vegas for their last remaining single pal.",
-      "Language": "English",
-      "Country": "USA",
-      "Awards": "4 wins & 1 nomination.",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BMTQ2ODg2MTIyNF5BMl5BanBnXkFtZTgwMzU2NjgwMDE@._V1_SX300.jpg",
-      "Ratings": [
-        {
-          "Source": "Internet Movie Database",
-          "Value": "6.6/10"
-        },
-        {
-          "Source": "Rotten Tomatoes",
-          "Value": "46%"
-        },
-        {
-          "Source": "Metacritic",
-          "Value": "48/100"
-        }
-      ],
-      "Metascore": "48",
-      "imdbRating": "6.6",
-      "imdbVotes": "126,220",
-      "imdbID": "tt1204975",
-      "Type": "movie",
-      "DVD": "28 Jan 2014",
-      "BoxOffice": "$51,434,214",
-      "Production": "CBS Films",
-      "Website": "N/A",
-      "Response": "True",
-      "Const": "tt1204975",
-      "Your Rating": 6,
-      "Date Watched": "2020-09-05",
-      "Date Rated": "2020-09-08",
-      "Source": "Netflix",
-      "URL": "https://www.imdb.com/title/tt1204975"
-    }
+  {
+    "Title": "The Gentlemen",
+    "Year": "2019",
+    "Rated": "R",
+    "Released": "24 Jan 2020",
+    "Runtime": "113 min",
+    "Genre": "Action, Comedy, Crime",
+    "Director": "Guy Ritchie",
+    "Writer": "Guy Ritchie (story by), Ivan Atkinson (story by), Marn Davies (story by), Guy Ritchie (screenplay by)",
+    "Actors": "Matthew McConaughey, Charlie Hunnam, Michelle Dockery, Jeremy Strong",
+    "Plot": "An American expat tries to sell off his highly profitable marijuana empire in London, triggering plots, schemes, bribery and blackmail in an attempt to steal his domain out from under him.",
+    "Language": "English",
+    "Country": "UK, USA",
+    "Awards": "N/A",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMTlkMmVmYjktYTc2NC00ZGZjLWEyOWUtMjc2MDMwMjQwOTA5XkEyXkFqcGdeQXVyNTI4MzE4MDU@._V1_SX300.jpg",
+    "Ratings": [
+      { "Source": "Internet Movie Database", "Value": "7.9/10" },
+      { "Source": "Metacritic", "Value": "51/100" }
+    ],
+    "Metascore": "51",
+    "imdbRating": "7.9",
+    "imdbVotes": "179,587",
+    "imdbID": "tt8367814",
+    "Type": "movie",
+    "DVD": "N/A",
+    "BoxOffice": "N/A",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True",
+    "Const": "tt8367814",
+    "Your Rating": 7,
+    "Date Watched": "2020-09-06",
+    "Date Rated": "2020-09-08",
+    "Source": "Get",
+    "URL": "https://www.imdb.com/title/tt8367814"
+  },
+  {
+    "Title": "Eurovision Song Contest: The Story of Fire Saga",
+    "Year": "2020",
+    "Rated": "PG-13",
+    "Released": "26 Jun 2020",
+    "Runtime": "123 min",
+    "Genre": "Comedy, Music",
+    "Director": "David Dobkin",
+    "Writer": "Will Ferrell, Andrew Steele",
+    "Actors": "Will Ferrell, Rachel McAdams, Dan Stevens, Mikael Persbrandt",
+    "Plot": "When aspiring musicians Lars and Sigrit are given the opportunity to represent their country at the world's biggest song competition, they finally have a chance to prove that any dream worth having is a dream worth fighting for.",
+    "Language": "English, Icelandic",
+    "Country": "USA",
+    "Awards": "N/A",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BYzRjYzA5NTQtOTE3MC00OTYzLWEzODItMzQxYWE1NDJkMDA0XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_SX300.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "6.5/10"
+      },
+      {
+        "Source": "Metacritic",
+        "Value": "50/100"
+      }
+    ],
+    "Metascore": "50",
+    "imdbRating": "6.5",
+    "imdbVotes": "61,994",
+    "imdbID": "tt8580274",
+    "Type": "movie",
+    "DVD": "N/A",
+    "BoxOffice": "N/A",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True",
+    "Const": "tt8580274",
+    "Your Rating": 3,
+    "Date Watched": "2020-08-29",
+    "Date Rated": "2020-09-08",
+    "Source": "Netflix",
+    "URL": "https://www.imdb.com/title/tt8580274"
+  },
+  {
+    "Title": "Tenet",
+    "Year": "2020",
+    "Rated": "PG-13",
+    "Released": "03 Sep 2020",
+    "Runtime": "150 min",
+    "Genre": "Action, Sci-Fi",
+    "Director": "Christopher Nolan",
+    "Writer": "Christopher Nolan",
+    "Actors": "Elizabeth Debicki, Robert Pattinson, John David Washington, Aaron Taylor-Johnson",
+    "Plot": "Armed with only one word, Tenet, and fighting for the survival of the entire world, a Protagonist journeys through a twilight world of international espionage on a mission that will unfold in something beyond real time.",
+    "Language": "English, Russian, Ukrainian, Estonian",
+    "Country": "UK, USA",
+    "Awards": "N/A",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BYzg0NGM2NjAtNmIxOC00MDJmLTg5ZmYtYzM0MTE4NWE2NzlhXkEyXkFqcGdeQXVyMTA4NjE0NjEy._V1_SX300.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "7.9/10"
+      },
+      {
+        "Source": "Rotten Tomatoes",
+        "Value": "74%"
+      },
+      {
+        "Source": "Metacritic",
+        "Value": "69/100"
+      }
+    ],
+    "Metascore": "69",
+    "imdbRating": "7.9",
+    "imdbVotes": "63,755",
+    "imdbID": "tt6723592",
+    "Type": "movie",
+    "DVD": "N/A",
+    "BoxOffice": "N/A",
+    "Production": "Warner Bros. Pictures",
+    "Website": "N/A",
+    "Response": "True",
+    "Const": "tt6723592",
+    "Your Rating": 10,
+    "Date Watched": "2020-08-28",
+    "Date Rated": "2020-09-08",
+    "Source": "Netflix",
+    "URL": "https://www.imdb.com/title/tt6723592"
+  },
+  {
+    "Title": "Last Vegas",
+    "Year": "2013",
+    "Rated": "PG-13",
+    "Released": "01 Nov 2013",
+    "Runtime": "105 min",
+    "Genre": "Comedy, Drama",
+    "Director": "Jon Turteltaub",
+    "Writer": "Dan Fogelman",
+    "Actors": "Michael Douglas, Robert De Niro, Morgan Freeman, Kevin Kline",
+    "Plot": "Four friends take a break from their day-to-day lives to throw a bachelor party in Las Vegas for their last remaining single pal.",
+    "Language": "English",
+    "Country": "USA",
+    "Awards": "4 wins & 1 nomination.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMTQ2ODg2MTIyNF5BMl5BanBnXkFtZTgwMzU2NjgwMDE@._V1_SX300.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "6.6/10"
+      },
+      {
+        "Source": "Rotten Tomatoes",
+        "Value": "46%"
+      },
+      {
+        "Source": "Metacritic",
+        "Value": "48/100"
+      }
+    ],
+    "Metascore": "48",
+    "imdbRating": "6.6",
+    "imdbVotes": "126,220",
+    "imdbID": "tt1204975",
+    "Type": "movie",
+    "DVD": "28 Jan 2014",
+    "BoxOffice": "$51,434,214",
+    "Production": "CBS Films",
+    "Website": "N/A",
+    "Response": "True",
+    "Const": "tt1204975",
+    "Your Rating": 6,
+    "Date Watched": "2020-09-05",
+    "Date Rated": "2020-09-08",
+    "Source": "Netflix",
+    "URL": "https://www.imdb.com/title/tt1204975"
+  },
+  {
+    "Title": "The Firm",
+    "Year": "1993",
+    "Rated": "R",
+    "Released": "30 Jun 1993",
+    "Runtime": "154 min",
+    "Genre": "Drama, Mystery, Thriller",
+    "Director": "Sydney Pollack",
+    "Writer": "John Grisham (novel), David Rabe (screenplay), Robert Towne (screenplay), David Rayfiel (screenplay)",
+    "Actors": "Tom Cruise, Jeanne Tripplehorn, Gene Hackman, Hal Holbrook",
+    "Plot": "A young lawyer joins a prestigious law firm only to discover that it has a sinister dark side.",
+    "Language": "English",
+    "Country": "USA",
+    "Awards": "Nominated for 2 Oscars. Another 3 wins & 5 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMTgxMjM5NDYwM15BMl5BanBnXkFtZTgwODkzMzk5MDE@._V1_SX300.jpg",
+    "Ratings": [
+      { "Source": "Internet Movie Database", "Value": "6.8/10" },
+      { "Source": "Rotten Tomatoes", "Value": "75%" },
+      { "Source": "Metacritic", "Value": "58/100" }
+    ],
+    "Metascore": "58",
+    "imdbRating": "6.8",
+    "imdbVotes": "116,333",
+    "imdbID": "tt0106918",
+    "Type": "movie",
+    "DVD": "23 May 2000",
+    "BoxOffice": "N/A",
+    "Production": "Paramount Pictures",
+    "Website": "N/A",
+    "Response": "True",
+    "Const": "tt0106918",
+    "Your Rating": 6,
+    "Date Watched": "2020-07-15",
+    "Date Rated": "2020-09-10",
+    "Source": "Netflix",
+    "URL": "https://www.imdb.com/title/tt0106918"
+  }
 ]
