@@ -16,7 +16,7 @@
     "eslint-plugin-react": "^7.9.1",
     "jest": "^24.8.0",
     "live-server": "^1.2.0",
-    "node-fetch": "^2.3.0"
+    "node-fetch": "^2.6.1"
   },
   "eslintConfig": {
     "extends": "airbnb"
