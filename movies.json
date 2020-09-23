@@ -22205,5 +22205,41 @@
     "Date Rated": "2020-09-10",
     "Source": "Netflix",
     "URL": "https://www.imdb.com/title/tt0106918"
+  },
+  {
+    "Title": "Love, Guaranteed",
+    "Year": "2020",
+    "Rated": "N/A",
+    "Released": "03 Sep 2020",
+    "Runtime": "90 min",
+    "Genre": "Comedy, Romance",
+    "Director": "Mark Steven Johnson",
+    "Writer": "Elizabeth Hackett, Hilary Galanoy",
+    "Actors": "Rachael Leigh Cook, Damon Wayans Jr., Heather Graham, Caitlin Howden",
+    "Plot": "To save her small law firm, earnest lawyer Susan takes a high-paying case from Nick, a charming new client who wants to sue a dating website that guarantees love. But as the case heats up, so do Susan and Nick's feelings for each other.",
+    "Language": "English",
+    "Country": "USA",
+    "Awards": "N/A",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BNDE1MmE4MTktNzU0OS00YjdmLWEyNzYtY2JhNWE4ZWVlYmY5XkEyXkFqcGdeQXVyNjY1MTg4Mzc@._V1_SX300.jpg",
+    "Ratings": [
+      { "Source": "Internet Movie Database", "Value": "5.6/10" },
+      { "Source": "Metacritic", "Value": "39/100" }
+    ],
+    "Metascore": "39",
+    "imdbRating": "5.6",
+    "imdbVotes": "576",
+    "imdbID": "tt11100856",
+    "Type": "movie",
+    "DVD": "N/A",
+    "BoxOffice": "N/A",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True",
+    "Const": "tt11100856",
+    "Your Rating": 4,
+    "Date Watched": "2020-09-19",
+    "Date Rated": "2020-09-23",
+    "Source": "Netflix",
+    "URL": "https://www.imdb.com/title/tt11100856"
   }
 ]
