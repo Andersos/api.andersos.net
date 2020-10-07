@@ -22315,5 +22315,51 @@
     "Date Rated": "2020-10-07",
     "Source": "Disney+",
     "URL": "https://www.imdb.com/title/tt8503618"
+  },
+  {
+    "Title": "Harley Quinn: Birds of Prey",
+    "Year": "2020",
+    "Rated": "R",
+    "Released": "07 Feb 2020",
+    "Runtime": "109 min",
+    "Genre": "Action, Adventure, Crime",
+    "Director": "Cathy Yan",
+    "Writer": "Christina Hodson, Paul Dini (Harley Quinn created by), Bruce Timm (Harley Quinn created by)",
+    "Actors": "Margot Robbie, Rosie Perez, Mary Elizabeth Winstead, Jurnee Smollett",
+    "Plot": "After splitting with the Joker, Harley Quinn joins superheroes Black Canary, Huntress and Renee Montoya to save a young girl from an evil crime lord.",
+    "Language": "English, Chinese",
+    "Country": "USA",
+    "Awards": "2 wins & 3 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMzQ3NTQxMjItODBjYi00YzUzLWE1NzQtZTBlY2Y2NjZlNzkyXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_SX300.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "6.1/10"
+      },
+      {
+        "Source": "Rotten Tomatoes",
+        "Value": "78%"
+      },
+      {
+        "Source": "Metacritic",
+        "Value": "60/100"
+      }
+    ],
+    "Metascore": "60",
+    "imdbRating": "6.1",
+    "imdbVotes": "143,603",
+    "imdbID": "tt7713068",
+    "Type": "movie",
+    "DVD": "N/A",
+    "BoxOffice": "N/A",
+    "Production": "DC Entertainment, Clubhouse Pictures (II), Kroll &amp; Co. Entertainment",
+    "Website": "N/A",
+    "Response": "True",
+    "Const": "tt7713068",
+    "Your Rating": 3,
+    "Date Watched": "2020-10-02",
+    "Date Rated": "2020-10-07",
+    "Source": "Netflix",
+    "URL": "https://www.imdb.com/title/tt7713068"
   }
 ]
