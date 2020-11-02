@@ -89,6 +89,7 @@
   },
   {
     "name": "Cards Against Humanity",
+    "location": "Kristian",
     "owner": "Kristian",
     "time": "30",
     "minplayers": 4,
@@ -206,6 +207,7 @@
   },
   {
     "name": "Escape Room Spillet",
+    "location": "Kristian",
     "owner": "Kristian",
     "time": "60",
     "minplayers": 1,
@@ -263,6 +265,7 @@
   },
   {
     "name": "Gruble",
+    "location": "Kristian",
     "time": "20",
     "minplayers": 2,
     "maxplayers": 12,
@@ -312,6 +315,7 @@
   },
   {
     "name": "Jeg Har Aldri Original",
+    "location": "Kristian",
     "time": "60",
     "minplayers": 2,
     "maxplayers": 12,
