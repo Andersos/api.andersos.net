@@ -1,6 +1,6 @@
 const fs = require("fs");
 const fetch = require("node-fetch");
-const apikey = require("./secrets");
+const apikey = require("./secrets"); // eslint-disable-line import/no-unresolved
 
 function w2f(movie) {
   console.log(`You rated ${movie.Title} ${movie["Your Rating"]} of 10.`);
