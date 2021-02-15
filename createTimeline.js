@@ -8,6 +8,18 @@ function removeNoDate(array) {
   return array.filter((element) => Object.hasOwnProperty.call(element, "date"));
 }
 
+function expandSeries(series) {
+  const datedSeries = [];
+  series.map((serie) =>
+    Object.keys(serie).forEach((key) => {
+      if (key.startsWith("S")) {
+        datedSeries.push({ name: `${serie.name} ${key}`, date: serie[key] });
+      }
+    })
+  );
+  return datedSeries;
+}
+
 function addDateFromProperty(array, property) {
   return array
     .filter((element) => Object.hasOwnProperty.call(element, property))
@@ -43,6 +55,7 @@ const videos = addDateFromProperty(
   addType(require("./photostream.json").videos, "📹"),
   "taken_at"
 );
+const series = addType(expandSeries(require("./series.json")), "📺");
 
 const timeline = [
   ...blood,
@@ -54,6 +67,7 @@ const timeline = [
   ...movies,
   ...photos,
   ...videos,
+  ...series,
   // culture
   // trips
   // runs / trening
