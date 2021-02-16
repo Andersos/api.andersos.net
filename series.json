@@ -18,6 +18,7 @@
   { "name": "Awake: The Million Dollar Game", "lastWatched": "S01E08" },
   { "name": "Atypical", "lastWatched": "S03E10" },
   { "name": "Awkward", "lastWatched": "S02E12" },
+  { "name": "Babies", "lastWatched": "S02E16", "tag": "Netflix", "S1": "2021-02-15" },
   { "name": "Baby Daddy", "lastWatched": "S02E16" },
   { "name": "Battlestar Galactica", "lastWatched": "S00E00" },
   { "name": "Beforeigners", "lastWatched": "S01E06" },
@@ -44,7 +45,7 @@
   { "name": "Cougar Town", "lastWatched": "S04E15" },
   { "name": "Crashing", "lastWatched": "S00E00" },
   { "name": "Crazy Ex-Girlfriend", "lastWatched": "S00E00" },
-  { "name": "Cupcake & Dino", "lastWatched": "S02E26" },
+  { "name": "Cupcake & Dino", "lastWatched": "S02E26", "tag": "Netflix" },
   { "name": "Curb Your Enthusiasm", "lastWatched": "S00E00" },
   { "name": "Cybercrimes with Ben Hammersley", "lastWatched": "S00E00" },
   { "name": "Dads (2013)", "lastWatched": "S01E18", "cancelled": true },
@@ -258,9 +259,8 @@
   { "name": "Web Therapy", "lastWatched": "S00E00" },
   { "name": "Westworld", "lastWatched": "S02E05" },
   { "name": "Wet Hot American Summer: First Day of Camp", "lastWatched": "S00E00" },
-  { "name": "White Rabbit Project", "lastWatched": "S00E00" },
   { "name": "Whitney", "lastWatched": "S02E16", "cancelled": true },
   { "name": "Who is America?", "lastWatched": "S01E07" },
-  { "name": "You Me Her", "lastWatched": "S01E10" },
-  { "name": "ZombieLars", "lastWatched": "S03E13" }
+  { "name": "You Me Her", "lastWatched": "S01E10", "tag": "Netflix" },
+  { "name": "ZombieLars", "lastWatched": "S03E13", "tag": "NRK" }
 ]
