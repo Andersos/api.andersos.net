@@ -1,75 +1,75 @@
 [
   {
-    "date": "2009.10.15",
+    "date": "2009-10-15",
     "location": "St. Olavs Hospital",
     "comment": "Nyregistrering / Prøvtaking",
     "HbF": "",
     "gift": ""
   },
   {
-    "date": "2010.01.14",
+    "date": "2010-01-14",
     "location": "St. Olavs Hospital",
     "HbF": "",
     "gift": ""
   },
   {
-    "date": "2010.04.03",
+    "date": "2010-04-03",
     "location": "St. Olavs Hospital",
     "HbF": "",
     "gift": ""
   },
   {
-    "date": "2010.08.26",
+    "date": "2010-08-26",
     "location": "St. Olavs Hospital",
     "HbF": "",
     "gift": ""
   },
   {
-    "date": "2010.12.06",
+    "date": "2010-12-06",
     "location": "St. Olavs Hospital",
     "HbF": "",
     "gift": ""
   },
   {
-    "date": "2011.03.15",
+    "date": "2011-03-15",
     "location": "St. Olavs Hospital",
     "HbF": "",
     "gift": ""
   },
   {
-    "date": "2011.06.23",
+    "date": "2011-06-23",
     "location": "St. Olavs Hospital",
     "HbF": "",
     "gift": ""
   },
   {
-    "date": "2011.10.14",
+    "date": "2011-10-14",
     "location": "St. Olavs Hospital",
     "HbF": "",
     "gift": ""
   },
   {
-    "date": "2012.08.30",
+    "date": "2012-08-30",
     "location": "St. Olavs Hospital",
     "HbF": "",
     "gift": ""
   },
   {
-    "date": "2012.12.04",
+    "date": "2012-12-04",
     "time": "09:15",
     "location": "St. Olavs Hospital",
     "HbF": "",
     "gift": ""
   },
   {
-    "date": "2013.02.22",
+    "date": "2013-02-22",
     "time": "13:30",
     "location": "St. Olavs Hospital",
     "HbF": "",
     "gift": ""
   },
   {
-    "date": "2015.04.23",
+    "date": "2015-04-23",
     "time": "16:00",
     "location": "Ullevål sykehus",
     "BLTR": "131...",
@@ -78,7 +78,7 @@
     "gift": ""
   },
   {
-    "date": "2015.07.24",
+    "date": "2015-07-24",
     "time": "13:30",
     "location": "Ullevål sykehus",
     "comment": "Annullert",
@@ -86,7 +86,7 @@
     "gift": ""
   },
   {
-    "date": "2015.10.22",
+    "date": "2015-10-22",
     "time": "16:45",
     "location": "Ullevål sykehus",
     "HbF": "14,9",
@@ -94,14 +94,14 @@
     "gift": ""
   },
   {
-    "date": "2016.01.14",
+    "date": "2016-01-14",
     "time": "10:15",
     "location": "Ullevål sykehus",
     "HbF": "15,4",
     "gift": "Mumi - green"
   },
   {
-    "date": "2016.05.10",
+    "date": "2016-05-10",
     "time": "10:00",
     "location": "Ullevål sykehus",
     "comment": "Annullert",
@@ -109,112 +109,112 @@
     "gift": ""
   },
   {
-    "date": "2016.08.29",
+    "date": "2016-08-29",
     "time": "15:00",
     "location": "Ullevål sykehus",
     "HbF": "15,2",
     "gift": ""
   },
   {
-    "date": "2016.11.29",
+    "date": "2016-11-29",
     "time": "09:00",
     "location": "Ullevål sykehus",
     "HbF": "14,5",
     "gift": "Mumi - snow horse"
   },
   {
-    "date": "2017.02.27",
+    "date": "2017-02-27",
     "time": "07:45",
     "location": "Ullevål sykehus",
     "HbF": "14,6",
     "gift": "Mumi - orange"
   },
   {
-    "date": "2017.05.29",
+    "date": "2017-05-29",
     "time": "09:15",
     "location": "Ullevål sykehus",
     "HbF": "14,8",
     "gift": "Mumi - turkis"
   },
   {
-    "date": "2017.08.23",
+    "date": "2017-08-23",
     "time": "08:30",
     "location": "Ullevål sykehus",
     "HbF": "14,5",
     "gift": "Mumi - blue"
   },
   {
-    "date": "2017.11.17",
+    "date": "2017-11-17",
     "time": "09:00",
     "location": "Ullevål sykehus",
     "HbF": "14,7",
     "gift": "Mumi - rosa"
   },
   {
-    "date": "2018.03.01",
+    "date": "2018-03-01",
     "time": "12:15",
     "location": "Ullevål sykehus",
     "HbF": "15,4",
     "gift": "Mumi - turkis Mymamma"
   },
   {
-    "date": "2018.06.13",
+    "date": "2018-06-13",
     "time": "09:00",
     "location": "Ullevål sykehus",
     "HbF": "16,1",
     "gift": "Mumi - Sommer 2018"
   },
   {
-    "date": "2018.09.21",
+    "date": "2018-09-21",
     "time": "09:00",
     "location": "Ullevål sykehus",
     "HbF": "14,9",
     "gift": "Mumi - Thingumy og Bob"
   },
   {
-    "date": "2018.12.17",
+    "date": "2018-12-17",
     "time": "17:00",
     "location": "Ullevål sykehus",
     "HbF": "15,8",
     "gift": "Reflekspakke"
   },
   {
-    "date": "2019.03.21",
+    "date": "2019-03-21",
     "time": "16:00",
     "location": "Ullevål sykehus",
     "HbF": "15,6",
     "gift": "Håndkle"
   },
   {
-    "date": "2019.06.27",
+    "date": "2019-06-27",
     "time": "10:00",
     "location": "Ullevål sykehus",
     "HbF": "15,2",
     "gift": "Mumi - Friendship"
   },
   {
-    "date": "2020.01.07",
+    "date": "2020-01-07",
     "time": "16:15",
     "location": "Ullevål sykehus",
     "HbF": "15,2",
     "gift": "Donation"
   },
   {
-    "date": "2020.04.20",
+    "date": "2020-04-20",
     "time": "11:45",
     "location": "Ullevål sykehus",
     "HbF": "15,1",
     "gift": "Vinglass"
   },
   {
-    "date": "2020.08.05",
+    "date": "2020-08-05",
     "time": "12:00",
     "location": "Ullevål sykehus",
     "HbF": "15,3",
     "gift": "Vinglass"
   },
   {
-    "date": "2021.01.28",
+    "date": "2021-01-28",
     "time": "13:00",
     "location": "Ullevål sykehus",
     "HbF": "15,9",
