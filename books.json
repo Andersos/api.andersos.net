@@ -92,14 +92,6 @@
   },
   {
     "isbn": 0,
-    "name": "Redux Book",
-    "reading": true,
-    "tags": ["to-read"],
-    "link": "https://reduxbook.com/",
-    "thumbnail": "https://reduxbook.com/images/ipad.png"
-  },
-  {
-    "isbn": 0,
     "name": "The Leader’s Guide - Eric Ries",
     "tags": ["to-read"],
     "thumbnail": "https://ksr-ugc.imgix.net/projects/1694890/photo-original.jpeg?v=1426265725&w=1536&h=1152&fit=crop&auto=format&q=92&s=da476ac23590d4d59e07bf0e6d22871d"
