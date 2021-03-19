@@ -4,21 +4,21 @@
     "name": "In the plex",
     "tags": ["to-read"],
     "index": 0,
-    "thumbnail": "http://www.stevenlevy.com/wp-content/uploads/2011/04/in-the-plex.jpg"
+    "thumbnail": "https://www.stevenlevy.com/wp-content/uploads/2011/04/in-the-plex.jpg"
   },
   {
     "asin": "B004JF4NOQ",
     "name": "Vim and Vi Tips: Essential Vim and Vi Editor Skills, 3rd ed. ",
     "index": 0,
     "tags": ["kindle"],
-    "thumbnail": "http://g-images.amazon.com/images/I/41XBrRjPrVL._SS130_.jpg"
+    "thumbnail": "https://g-images.amazon.com/images/I/41XBrRjPrVL._SS130_.jpg"
   },
   {
     "asin": "B006431ADS",
     "name": "Simplify",
     "tags": ["to-read", "kindle"],
     "index": 1,
-    "thumbnail": "http://d.gr-assets.com/books/1328040364l/13049773.jpg"
+    "thumbnail": "https://d.gr-assets.com/books/1328040364l/13049773.jpg"
   },
   {
     "asin": "B00C2UUJX4",
@@ -72,7 +72,7 @@
   {
     "isbn": 0,
     "name": "Neural Networks and Deep Learning",
-    "link": "http://neuralnetworksanddeeplearning.com/"
+    "link": "https://neuralnetworksanddeeplearning.com/"
   },
   {
     "isbn": 0,
@@ -80,15 +80,15 @@
     "reading": true,
     "tags": ["to-read", "free-online"],
     "link": "https://read.reduxbook.com/",
-    "thumbnail": "http://humanjavascript.com/images/human-javascript.png"
+    "thumbnail": "https://api.andersos.net/assets/human-redux.png"
   },
   {
     "isbn": 0,
     "name": "Human Javascript",
     "reading": true,
     "tags": ["to-read", "free-online"],
-    "link": "read.humanjavascript.com",
-    "thumbnail": "http://humanjavascript.com/images/human-javascript.png"
+    "link": "https://read.humanjavascript.com",
+    "thumbnail": "https://api.andersos.net/assets/human-javascript.png"
   },
   {
     "isbn": 0,
@@ -141,21 +141,21 @@
     "name": "Cyanide and Happiness",
     "tags": ["read", "kindle"],
     "read": "2011",
-    "thumbnail": "http://books.google.com/books/content?id=zjZHlwEACAAJ&printsec=frontcover&img=1&zoom=1"
+    "thumbnail": "https://books.google.com/books/content?id=zjZHlwEACAAJ&printsec=frontcover&img=1&zoom=1"
   },
   {
     "isbn": 9780062046222,
     "name": "Ice Cream & Sadness",
     "tags": ["read", "kindle"],
     "read": "2011",
-    "thumbnail": "http://www3.alibris-static.com/ice-cream-sadness-more-comics-from-cyanide-happiness/isbn/9780062046222_l.jpg"
+    "thumbnail": "https://www3.alibris-static.com/ice-cream-sadness-more-comics-from-cyanide-happiness/isbn/9780062046222_l.jpg"
   },
   {
     "isbn": 9780062047410,
     "name": "What I Wish I Knew When I Was 20",
     "tags": ["audible", "read", "kindle"],
     "read": "2013",
-    "thumbnail": "http://books.google.com/books/content?id=ldI78Ed-9csC&printsec=frontcover&img=1&zoom=1"
+    "thumbnail": "https://books.google.com/books/content?id=ldI78Ed-9csC&printsec=frontcover&img=1&zoom=1"
   },
   {
     "isbn": 9780062268358,
@@ -235,7 +235,7 @@
     "tags": ["read"],
     "read": "2016-07-01",
     "rating": 10,
-    "thumbnail": "http://pictures.abebooks.com/isbn/9780307887436-uk.jpg"
+    "thumbnail": "https://pictures.abebooks.com/isbn/9780307887436-uk.jpg"
   },
   {
     "isbn": 9780307947055,
@@ -558,7 +558,7 @@
     "isbn": 9781101545355,
     "name": "You are not so smart",
     "tags": ["to-read", "Link", "Marte"],
-    "link": "http://stuckathomemom.com/downloads/NotSoSmart.pdf",
+    "link": "https://stuckathomemom.com/downloads/NotSoSmart.pdf",
     "thumbnail": "https://d.gr-assets.com/books/1391879112l/11709037.jpg"
   },
   {
@@ -691,7 +691,7 @@
     "isbn": 9781484200773,
     "name": "Pro Git",
     "tags": ["to-read", "Link"],
-    "link": "http://git-scm.com/book/en/v2",
+    "link": "https://git-scm.com/book/en/v2",
     "thumbnail": "https://d.gr-assets.com/books/1383771684l/6518085.jpg"
   },
   {
@@ -710,7 +710,7 @@
     "isbn": 9781491960875,
     "name": "Working with Static Sites",
     "tags": ["to-read"],
-    "thumbnail": "http://akamaicovers.oreilly.com/images/0636920051879/rc_cat.gif"
+    "thumbnail": "https://akamaicovers.oreilly.com/images/0636920051879/rc_cat.gif"
   },
   {
     "isbn": 9781492603238,
@@ -822,7 +822,7 @@
     "isbn": 9781593275846,
     "name": "Eloquent JavaScript",
     "tags": ["to-read", "O'Reilly", "Link"],
-    "link": "http://eloquentjavascript.net/",
+    "link": "https://eloquentjavascript.net/",
     "thumbnail": "https://d.gr-assets.com/books/1308260856l/8910666.jpg"
   },
   {
@@ -965,7 +965,7 @@
     "isbn": 9781743601013,
     "name": "Great Adventures",
     "tags": ["to-read", "humble-bundle", "ebook", "kindle"],
-    "thumbnail": "http://media.lonelyplanet.com/shop/images/8640-Great_Adventures__Paperback_508117_Large.png"
+    "thumbnail": "https://media.lonelyplanet.com/shop/images/8640-Great_Adventures__Paperback_508117_Large.png"
   },
   {
     "isbn": 9781743601648,
@@ -977,13 +977,13 @@
     "isbn": 9781743607527,
     "name": "How To Survive Anything",
     "tags": ["to-read", "humble-bundle", "ebook", "kindle"],
-    "thumbnail": "http://media.lonelyplanet.com/shop/images/How_to_Survive_Anything__A_Visual_Guide_to_Laughing_in_the_Face_of_Adversity__Large.png"
+    "thumbnail": "https://media.lonelyplanet.com/shop/images/How_to_Survive_Anything__A_Visual_Guide_to_Laughing_in_the_Face_of_Adversity__Large.png"
   },
   {
     "isbn": 9781760340605,
     "name": "50 Museums to Blow Your Mind",
     "tags": ["to-read", "humble-bundle", "ebook", "kindle"],
-    "thumbnail": "http://media.lonelyplanet.com/shop/images/50_Museums_to_Blow_Your_Mind_-_1st_edition_Large.png"
+    "thumbnail": "https://media.lonelyplanet.com/shop/images/50_Museums_to_Blow_Your_Mind_-_1st_edition_Large.png"
   },
   {
     "isbn": 9781760340629,
@@ -995,7 +995,7 @@
     "isbn": 9781760340834,
     "name": "Epic Bike Rides of the World",
     "tags": ["to-read", "humble-bundle", "ebook", "kindle"],
-    "thumbnail": "http://media.lonelyplanet.com/shop/images/Epic_Bike_Rides_of_the_World_Large.png"
+    "thumbnail": "https://media.lonelyplanet.com/shop/images/Epic_Bike_Rides_of_the_World_Large.png"
   },
   {
     "isbn": 9781782166320,
@@ -1007,43 +1007,43 @@
     "isbn": 9781786574046,
     "name": "50 Festivals to Blow Your Mind",
     "tags": ["to-read", "humble-bundle", "ebook", "kindle"],
-    "thumbnail": "http://media.lonelyplanet.com/shop/images/50_Festivals_To_Blow_Your_Mind_Large.png"
+    "thumbnail": "https://media.lonelyplanet.com/shop/images/50_Festivals_To_Blow_Your_Mind_Large.png"
   },
   {
     "isbn": 9781786577573,
     "name": "Street Art",
     "tags": ["to-read", "humble-bundle", "ebook", "kindle"],
-    "thumbnail": "http://media.lonelyplanet.com/shop/images/Street_Art_Large.png"
+    "thumbnail": "https://media.lonelyplanet.com/shop/images/Street_Art_Large.png"
   },
   {
     "isbn": 9781786577597,
     "name": "Atlas of Adventure",
     "tags": ["to-read", "humble-bundle", "ebook", "kindle"],
-    "thumbnail": "http://media.lonelyplanet.com/shop/images/Lonely_Planet_s_Atlas_of_Adventures_Large.png"
+    "thumbnail": "https://media.lonelyplanet.com/shop/images/Lonely_Planet_s_Atlas_of_Adventures_Large.png"
   },
   {
     "isbn": 9781786577603,
     "name": "Film and TV Locations",
     "tags": ["to-read", "humble-bundle", "ebook", "kindle"],
-    "thumbnail": "http://media.lonelyplanet.com/shop/images/Film___TV_Locations__A_Spotter_s_Guide_Large.png"
+    "thumbnail": "https://media.lonelyplanet.com/shop/images/Film___TV_Locations__A_Spotter_s_Guide_Large.png"
   },
   {
     "isbn": 9781786577955,
     "name": "Global Beer Tour",
     "tags": ["to-read", "humble-bundle", "ebook", "kindle"],
-    "thumbnail": "http://media.lonelyplanet.com/shop/images/Lonely_Planet_s_Global_Beer_Tour_Large.png"
+    "thumbnail": "https://media.lonelyplanet.com/shop/images/Lonely_Planet_s_Global_Beer_Tour_Large.png"
   },
   {
     "isbn": 9781786578655,
     "name": "Secret Marvels of the World",
     "tags": ["to-read", "humble-bundle", "ebook", "kindle"],
-    "thumbnail": "http://media.lonelyplanet.com/shop/images/Secret_Marvels_of_the_World_Large.png"
+    "thumbnail": "https://media.lonelyplanet.com/shop/images/Secret_Marvels_of_the_World_Large.png"
   },
   {
     "isbn": 9781786578662,
     "name": "How To Be A Travel Writer",
     "tags": ["to-read", "humble-bundle", "ebook", "kindle"],
-    "thumbnail": "http://media.lonelyplanet.com/shop/images/How_to_be_a_Travel_Writer_-_4th_edition_Large.png"
+    "thumbnail": "https://media.lonelyplanet.com/shop/images/How_to_be_a_Travel_Writer_-_4th_edition_Large.png"
   },
   {
     "isbn": 9781844138517,
@@ -1071,7 +1071,7 @@
     "name": "Inclusive Design Patterns",
     "reading": true,
     "tags": ["to-read"],
-    "thumbnail": "https://www.smashingmagazine.com/wp-content/uploads/2016/06/cover-inclusive-design-patterns-1200-opt-1.jpg"
+    "thumbnail": "https://api.andersos.net/assets/9783945749432.jpg"
   },
   {
     "isbn": 9788202249120,
@@ -1197,7 +1197,7 @@
     "isbn": 9788205330979,
     "name": "feedback",
     "tags": ["to-read"],
-    "thumbnail": "http://www.gyldendal.no/var/ezwebin_site/storage/images/gyldendal/faglitteratur/psykologi/generell-psykologi/feedback/485866-1-nor-NO/Feedback_productimage.jpg"
+    "thumbnail": "https://www.gyldendal.no/var/ezwebin_site/storage/images/gyldendal/faglitteratur/psykologi/generell-psykologi/feedback/485866-1-nor-NO/Feedback_productimage.jpg"
   },
   {
     "isbn": 9788205366824,
@@ -1245,7 +1245,7 @@
     "isbn": 9788245018035,
     "name": "Digital strategi for alle",
     "tags": ["to-read"],
-    "thumbnail": "http://dizw242ufxqut.cloudfront.net/images/product/book/book/image604/P20883317_frntl.jpg"
+    "thumbnail": "https://dizw242ufxqut.cloudfront.net/images/product/book/book/image604/P20883317_frntl.jpg"
   },
   {
     "isbn": 9788248914075,
@@ -1257,7 +1257,7 @@
     "isbn": 9788248916550,
     "name": "God tur",
     "tags": ["to-read", "bookshelf"],
-    "thumbnail": "http://www.vivo.no/bm/comp/bokogmedia/content/mma/products/12/1238/123841/gwi600x1000/9788248916550.jpg"
+    "thumbnail": "https://www.vivo.no/bm/comp/bokogmedia/content/mma/products/12/1238/123841/gwi600x1000/9788248916550.jpg"
   },
   {
     "isbn": 9788248917984,
@@ -1303,13 +1303,13 @@
     "isbn": 9788252567557,
     "name": "Det hvite hotellet",
     "tags": ["to-read"],
-    "thumbnail": "http://www.bokklubben.no/SamboWeb/servlet/VisBildeServlet?bildeId=335488"
+    "thumbnail": "https://www.bokklubben.no/SamboWeb/servlet/VisBildeServlet?bildeId=335488"
   },
   {
     "isbn": 9788271461447,
     "name": "Sun Tzus The art of war og kunsten å lede",
     "tags": ["to-read", "bookshelf"],
-    "thumbnail": "http://www.norli.no/wcsstore/ExtendedSitesCatalogAssetStore/images/catalog/nl/s160/DNBB/9788271461447.jpg"
+    "thumbnail": "https://www.norli.no/wcsstore/ExtendedSitesCatalogAssetStore/images/catalog/nl/s160/DNBB/9788271461447.jpg"
   },
   {
     "isbn": 9788275477628,
@@ -1346,7 +1346,7 @@
     "isbn": 9788777415326,
     "name": "Løperens nye håndbok",
     "tags": ["to-read", "bookshelf"],
-    "thumbnail": "http://api.andersos.net/assets/9788777415326.jpg"
+    "thumbnail": "https://api.andersos.net/assets/9788777415326.jpg"
   },
   {
     "isbn": 9780998296609,
@@ -1395,7 +1395,7 @@
   },
   {
     "isbn": 9780525533832,
-    "name": "  No Hard Feelings: The Secret Power of Embracing Emotions at Work",
+    "name": "No Hard Feelings: The Secret Power of Embracing Emotions at Work",
     "thumbnail": "https://images.gr-assets.com/books/1541754307l/40062678.jpg"
   },
   {
@@ -1407,7 +1407,20 @@
     "isbn": "9780988262591"
   },
   {
-    "name": " Humble Pi",
+    "name": "Humble Pi",
     "isbn": "9780241360231"
+  },
+  {
+    "name": "Staff Engineer: Leadership beyond the management track by Will Larson",
+    "isbn": "9781736417911",
+    "thumbnail": "https://api.andersos.net/assets/9781736417911.jpg",
+    "tags": ["to-read"]
+  },
+  {
+    "name": "The Opinionated Guide to React",
+    "isbn": 0,
+    "link": "https://opinionatedreact.com/",
+    "thumbnail": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1597300911l/54905880._SX318_.jpg",
+    "tags": ["to-read"]
   }
 ]
