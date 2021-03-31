@@ -1414,5 +1414,28 @@
     "link": "https://opinionatedreact.com/",
     "thumbnail": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1597300911l/54905880._SX318_.jpg",
     "tags": ["to-read"]
+  },
+  {
+    "name": "Resilient Management",
+    "isbn": "9781937557829",
+    "tags": ["abookapart"],
+    "thumbnail": "https://cdn.shopify.com/s/files/1/0051/7692/products/aba-cover-30_112x@3x.png?v=1560252476"
+  },
+  {
+    "name": "Practical SVG",
+    "isbn": "9781937557423",
+    "tags": ["abookapart"],
+    "thumbnail": "https://cdn.shopify.com/s/files/1/0051/7692/products/ABA-cover-19_5dadd09b-0e54-482b-ad05-c530fc32928f_112x@3x.png?v=1478189088"
+  },
+  {
+    "name": "Responsive Web Design",
+    "isbn": "9781937557188",
+    "tags": ["abookapart"],
+    "thumbnail": "https://cdn.shopify.com/s/files/1/0051/7692/products/ABA-cover-4_112x@3x.png?v=1463456131"
+  },
+   {
+    "name": "Can You Solve My Problems?: Ingenious, Perplexing, and Totally Satisfying Math and Logic Puzzles",
+    "isbn": "9781615193882",
+    "thumbnail": "https://images-na.ssl-images-amazon.com/images/I/51d7rrh8owL._SX385_BO1,204,203,200_.jpg"
   }
 ]
