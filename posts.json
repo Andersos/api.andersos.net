@@ -1,5 +1,5 @@
 [
-  { "date": "2007-08-10", "title": "First post!" },
-  { "date": "2007-08-10", "title": "10/8 - Poker night at Robin's" },
-  { "date": "2007-08-16", "title": "12/8 - Grand Prix in Oslo" }
+  { "date": "2007-08-10", "title": "First post!", "link": "/2007/first-post" },
+  { "date": "2007-08-10", "title": "10/8 - Poker night at Robin's", "link": "/2007/poker-night" },
+  { "date": "2007-08-16", "title": "12/8 - Grand Prix in Oslo", "link": "/2007/grand-prix" }
 ]
