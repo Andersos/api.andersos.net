@@ -56,6 +56,7 @@ const videos = addDateFromProperty(
   "taken_at"
 );
 const series = addType(expandSeries(require("./series.json")), "📺");
+const posts = addType(require("./posts.json"), "📝");
 
 const timeline = [
   ...blood,
@@ -68,6 +69,7 @@ const timeline = [
   ...photos,
   ...videos,
   ...series,
+  ...posts,
   // culture
   // trips
   // runs / trening
