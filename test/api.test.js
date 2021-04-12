@@ -8,7 +8,11 @@ const playerlog = require("../playerlog.json");
 const podcasts = require("../podcasts.json");
 const series = require("../series.json");
 const movies = require("../movies.json");
-// const trips = require('../trips.json');
+const trips = require("../trips.json");
+const divelog = require("../divelog.json");
+const posts = require("../posts.json");
+const { photos } = require("../photostream.json");
+const { videos } = require("../photostream.json");
 // const runs = require('../runs.json');
 
 function ElementsHasProperty(elements, prop) {
@@ -159,9 +163,9 @@ describe("The playerlog", () => {
       assert(ElementsHasProperty(playerlog, "date"));
     });
 
-     it("has valid date", () => {
-       assert(validDate(playerlog));
-     });
+    it("has valid date", () => {
+      assert(validDate(playerlog));
+    });
 
     it("has game", () => {
       assert(ElementsHasProperty(playerlog, "game"));
@@ -245,9 +249,78 @@ describe("The series api", () => {
 });
 
 describe("The trips api", () => {
-  it.skip("is valid JSON", () => {
-    // TODO: Wait until trips api is updated
-    // assert(isValidJSON(trips));
+  it("is valid JSON", () => {
+    assert(isValidJSON(trips));
+  });
+
+  describe("each record", () => {
+    it("has location", () => {
+      assert(ElementsHasProperty(trips, "location"));
+    });
+
+    it("has startDate", () => {
+      assert(ElementsHasProperty(trips, "startDate"));
+    });
+  });
+});
+
+describe("The divelog api", () => {
+  it("is valid JSON", () => {
+    assert(isValidJSON(divelog));
+  });
+
+  describe("each record", () => {
+    it("has location", () => {
+      assert(ElementsHasProperty(divelog.slice(1), "date"));
+    });
+
+    it("has startDate", () => {
+      assert(ElementsHasProperty(divelog.slice(1), "location"));
+    });
+  });
+});
+
+describe("The photos api", () => {
+  it("is valid JSON", () => {
+    assert(isValidJSON(photos));
+  });
+
+  describe("each record", () => {
+    it("has taken_at", () => {
+      assert(ElementsHasProperty(photos, "taken_at"));
+    });
+  });
+});
+
+describe("The videos api", () => {
+  it("is valid JSON", () => {
+    assert(isValidJSON(videos));
+  });
+
+  describe("each record", () => {
+    it("has taken_at", () => {
+      assert(ElementsHasProperty(videos, "taken_at"));
+    });
+  });
+});
+
+describe("The posts api", () => {
+  it("is valid JSON", () => {
+    assert(isValidJSON(posts));
+  });
+
+  describe("each record", () => {
+    it("has date", () => {
+      assert(ElementsHasProperty(posts, "date"));
+    });
+
+    it("has title", () => {
+      assert(ElementsHasProperty(posts, "title"));
+    });
+
+    it("has link", () => {
+      assert(ElementsHasProperty(posts, "link"));
+    });
   });
 });
 

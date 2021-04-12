@@ -35,13 +35,13 @@ function w2f(timeline) {
 }
 
 const activity = addType(require("./activity.json"), "🚶‍♂️");
+const trips = addType(require("./trips.json"), "✈️");
 const blood = addType(require("./blood.json"), "🩸");
 const books = addDateFromProperty(
   addType(require("./books.json"), "📖"),
   "read"
 );
 const playerlog = addType(require("./playerlog.json"), "🎲");
-const courses = addType(require("./courses.json"), "📜");
 const divelog = removeNoDate(addType(require("./divelog.json"), "🤿"));
 const movies = addDateFromProperty(
   addType(require("./movies.json"), "🎬"),
@@ -63,18 +63,15 @@ const timeline = [
   ...divelog,
   ...playerlog,
   ...books,
-  ...courses,
   ...activity,
   ...movies,
   ...photos,
   ...videos,
   ...series,
   ...posts,
+  ...trips,
   // culture
-  // trips
-  // runs / trening
-  // podcast
-  // series
+  // runs
 ];
 
 timeline.sort((a, b) => new Date(b.date) - new Date(a.date));

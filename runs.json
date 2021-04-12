@@ -1,3 +1,27 @@
-10 for Grete 20.september 2014 Løp Oslo Maraton 10 for Grete i dag. Avsluttet med tiden 1:06:39. I 2015 skal jeg klare samme distansen på under en time. https://www.endomondo.com/workouts/411613836/357581 http://www.racetimer.se/sv/runner/show/4026266?layout=racetimer&race_id=2185 https://l.facebook.com/l.php?u=http%3A%2F%2Fwww.osloby.no%2Foslomaraton%2FSe-deg-selv-krysse-malstreken-i-Oslo-maraton-7713333.html%3Fom_id%3D27718&h=ATM7TvZM4W4xW6AoUdtBBTMGCWsrp2TVuvUiZSTz_mVdMszCtctc2fpAF8iwpARyAp49GZ_wy0ZN8UfvmW_7TNS1HEQtp8shnpJev3Pf_GeZQsttXBtRAY8
-10 for grete 17. septeber 2016
-Ulriken med Merethe 19 june 2012
+[
+  {
+    "date": "2014-09-10",
+    "name": "10 for Grete",
+    "distance": "10",
+    "time": "1:06:39",
+    "type": "Race",
+    "link": "https://www.endomondo.com/workouts/411613836/357581",
+    "link2": "http://www.racetimer.se/sv/runner/show/4026266?layout=racetimer&race_id=2185",
+    "place": "Oslo"
+  },
+  {
+    "date": "2016-09-17",
+    "name": "10 for Grete",
+    "distance": "10",
+    "type": "Race",
+    "link": "https://www.endomondo.com/users/357581/workouts/807346308",
+    "place": "Oslo"
+  },
+  {
+    "date": "2016-05-07",
+    "name": "Holmenkollstafetten",
+    "type": "Race",
+    "comment": "Etappe 1",
+    "place": "Oslo"
+  }
+]

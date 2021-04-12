@@ -1,222 +1,533 @@
 [
   {
-    "date": "27.05.2016",
+    "date": "2016-05-27",
     "name": "Dag Sørås",
     "type": "Comedy",
     "place": "Sentrum Scene",
-    "comment": "With Marte and Ann Harriet"
+    "people": ["Marte", "Ann Harriet"]
   },
   {
-    "date": "18.10.2014",
+    "date": "2014-10-18",
     "name": "Mordet på gjestgiveriet",
-    "type": "murermystery",
+    "type": "Theatre",
     "place": "Teaterkjeller'n",
-    "comment": "With Marte"
+    "people": ["Marte"]
   },
   {
-      "date": "29.01.2015",
+      "date": "2015-01-29",
       "name": "TEDxOslo",
-      "type": "",
+      "type": "Conference",
       "place": "Universitets Aula",
-      "comment": "With Marte"
+      "people": ["Marte"]
   },
   {
-      "date": "9.10.2015",
+      "date": "2015-10-09",
       "name": "Raske Menn",
-      "type": "comedy",
+      "type": "Comedy",
       "place": "Latter",
-      "comment": "With Marte"
+      "people": ["Marte"]
   },
   {
-      "date": "1.11.2015",
+      "date": "2015-11-01",
       "name": "Skrik forsvunnet",
-      "type": "escaperoom",
+      "type": "Escaperoom",
       "place": "TeamEscape Oslo",
-      "comment": "With Marte, Kristian and Jørgen"
+      "people": ["Marte", "Kristian", "Jørgen"]
   },
   {
-    "date": "29.10.2017",
+    "date": "2017-10-29",
     "name": "MYSTERIET PÅ SJØRØVERSKUTEN",
-    "type": "Escape Room",
+    "type": "Escaperoom",
     "place": "The Escape Games",
+    "people": ["Marte", "Victoria", "Alexandra", "Ole", "Fransesco"],
     "link": "http://www.escapegames.no/no/book/mystery-of-the-pirate-ship.html",
     "comment": "Solved in 36 minutes. 6 people. Marte, Victoria, Alexandra, Ole, Fransesco og meg"
   },
   {
-    "date": "21.10.2017",
+    "date": "2017-01-21",
     "name": "Book of Mormon",
     "place": "Det Norske Teater",
-    "type": "Teater",
+    "type": "Theatre",
     "link": "https://www.detnorsketeatret.no/framsyningar/the-book-of-mormon/",
-    "comment": "Med Marte"
+    "people": ["Marte"]
   },
   {
-    "date": "14.10.2017",
+    "date": "2017-10-14",
     "name": "Barberen i Sevilla",
-    "place": "Oepra",
+    "place": "Opera",
     "type": "Opera",
     "link": "https://operaen.no/Forestillinger/barberen-i-sevillah17/",
-    "comment": "Med Mamma"
+    "people": ["Ann Harriet"]
   },
   {
-    "date": "18.01.2018",
+    "date": "2018-01-18",
     "name": "Jim Gaffigan - Noble Ape Tour",
     "place": "Folketeateret",
-    "type": "standup",
-    "comment": "Med Jørgen"
+    "type": "Comedy",
+    "people": ["Jørgen"]
   },
   {
-    "date": "10.11.2017",
+    "date": "2017-11-10",
     "name": "Melissa Horn",
     "place": "Oslo Concert Hall",
-    "type": "concert",
-    "comment": "Med Marte"
+    "type": "Concert",
+    "people": ["Marte"]
   },
   {
-    "date": "24.01.2018",
+    "date": "2018-01-24",
     "name": "Blymandag",
     "place": "Parkteatret",
-    "type": "standup",
-    "comment": "med Marte"
+    "type": "Comedy",
+    "people": ["Marte"]
   },
   {
-    "date": "30.01.2018",
+    "date": "2018-01-30",
     "name": "Gratulerer - Else Kåss Furuseth",
     "place": "Nationaltheatret amfi",
-    "comment": "med Marte og Kari"
+      "type": "Theatre",
+      "people": ["Kari", "Marte"]
   },
   {
-    "date": "2018.02.28",
+    "date": "2018-02-28",
     "name": "Caaret intime - Lex Machina",
     "place": "Frokostkjelleren",
-    "comment": "med Marte"
+    "type": "Theatre",
+    "people": ["Marte"]
   },
   {
-    "date": "2018.03.08",
+    "date": "2018-03-08",
     "name": "Caaret intime - Fake Juss",
     "place": "Frokostkjelleren",
-    "comment": "med Fridtjof, Kari, Jørgen, Kristian, Ann Harriet og Marte"
+    "type": "Theatre",
+    "people": ["Fridtjof", "Kari", "Jørgen", "Kristian", "Ann Harriet", "Marte"]
   },
   {
-    "date": "2016.09.20",
-    "dateto": "2016.09.23",
+    "date": "2016-09-20",
+    "dateto": "2016-09-23",
     "name": "Reboot Schibsted",
-    "place": "Barcelona",
-    "comment": ""
+    "type": "Conference",
+    "place": "Barcelona"
   },
   {
-    "date": "2016.09.17",
-    "dateto": "2016.09.23",
-    "name": "Oslo Maraton 10KM",
-    "place": "Oslo",
-    "comment": "https://www.endomondo.com/users/357581/workouts/807346308"
-  },
-  {
-    "date": "2016.09.07",
-    "dateto": "2016.09.08",
+    "date": "2016-09-07",
+    "dateto": "2016-09-08",
     "name": "Javazone",
-    "place": "Oslo Spektrum",
-    "comment": ""
+    "type": "Conference",
+    "place": "Oslo Spektrum"
   },
   {
-    "date": "30.11.2017",
+    "date": "2017-11-30",
     "name": "Original Swiss Game",
-    "type": "Escape Room",
+    "type": "Escaperoom",
     "place": "AdventureRooms Oslo",
+    "people": ["Marte", "Ann Harriet", "Kristian"],
     "comment": "Solved in 58 minutes with 3 hints. 4 people. Marte, Ann Harriet, Kristian og Anders"
   },
   {
-    "date": "06.04.2018",
+    "date": "2018-04-06",
     "name": "Emokrati - Dag Sørås",
     "type": "Comedy",
     "place": "Rockefeller",
     "people": ["Kristian", "Anders"]
   },
   {
-    "date": "03.11.2018",
-    "name": "Dag Sørås - Dag Sørås",
+    "date": "2018-11-03",
+    "name": "Emokrati - Dag Sørås",
     "type": "Comedy",
     "place": "John Dee",
     "people": ["Morten", "Anders"]
-  }
+  },
+  {
+    "date": "2012-03-23",
+    "name": "Stand-up med Alex Rosén",
+    "type": "Comedy",
+    "place": "Studentersamfundet"
+  },
+  {
+    "date": "2012-02-23",
+    "name": "Radioresepsjonen",
+    "type": "Comedy",
+    "place": "Studentersamfundet"
+  },
+  {
+    "date": "2012-02-10",
+    "name": "Sondre Lerche",
+    "type": "Concert",
+    "place": "Studentersamfundet"
+  },
+  {
+    "date": "2013-01-23",
+    "name": "D-Dag Live!",
+    "type": "Comedy",
+    "place": "Studentersamfundet"
+  },
+  {
+    "date": "2018-04-23",
+    "name": "Tørnquiz",
+    "type": "Quiz",
+    "place": "Hva skjer"
+  },
+  {
+    "date": "2014-08-22",
+    "name": "Findings Festival",
+    "type": "Festival",
+    "place": "Bislett Stadion",
+    "people": ["Marte", "Jørgen"]
+  },
+  {
+    "date": "2018-05-18",
+    "name": "Mastering Markdown Mini Series",
+    "type": "Course",
+    "link": "https://masteringmarkdown.com/"
+  },
+  {
+    "date": "2015-12-02",
+    "name": "Introduction To Swift Programming",
+    "link": "https://www.coursera.org/account/accomplishments/verify/FRSBAMTXJU7Q",
+    "type": "Course"
+  },
+  {
+    "date": "2015-11-17",
+    "name": "Førstehjelpskurs",
+    "type": "Course"
+  },
+  {
+    "date": "2014-08-16",
+    "name": "Latter 10 år",
+    "type": "Comdey",
+    "people": ["Marte"]
+  },
+  {
+    "date": "2014-09-27",
+    "name": "NodeSchool",
+    "link": "https://www.meetup.com/OsloJS/events/184934982/",
+    "type": "Course"
+  },
+  {
+    "date": "2014-08-09",
+    "name": "Tusenfryd",
+    "type": "Themepark",
+    "people": ["Marte"]
+  },
+  {
+    "date": "2014-06-19",
+    "name": "Shuffleboard med Finn",
+    "place": "Tilt",
+    "type": "Sport"
+  },
+  {
+    "date": "2014-06-16",
+    "name": "Plattform Thinking",
+    "place": "Mesh",
+    "type": "Conference",
+    "people": ["Yvonne"]
+  },
+  {
+    "date": "2013-10-05",
+    "name": "Tusenfryd",
+    "type": "Themepark",
+    "people": ["Kristian", "Nina"]
+  },
+  {
+    "date": "2013-09-13",
+    "name": "Rockheim",
+    "type": "Museum",
+    "people": ["Ann Harriet"]
+  },
+  {
+    "date": "2013-06-26",
+    "name": "Minigolf",
+    "type": "Sport",
+    "place": "Marinlyst",
+    "people": ["Ann Harriet", "Ada"]
+  },
+  {
+    "date": "2013-06-20",
+    "name": "Loveshack",
+    "type": "Concert",
+    "place": "Cafe Mir",
+    "comment": "With Finn"
+  },
+  {
+    "date": "2013-06-14",
+    "name": "Byfesten",
+    "type": "Concert",
+    "place": "Lillestrøm",
+    "people": ["Christian", "Lars", "Catharina"]
+  },
+  {
+    "date": "2012-10-19",
+    "name": "Sondre Lerche",
+    "type": "Concert",
+    "place": "Stundentersamfundet",
+    "people": ["Maren"]
+  },
+  {
+    "date": "2012-02-23",
+    "name": "Radioresepsjonen",
+    "type": "Comedy",
+    "place": "Stundentersamfundet",
+    "people": ["Eirik", "Malin"]
+  },
+  {
+    "date": "2014-06-18",
+    "name": "OverOslo 2014",
+    "type": "Festival",
+    "place": "Grefsenkollen",
+    "comment": "Melissa Horn, Helbillies, Sivert Høyem, mm",
+    "people": ["Marte"]
+  },
+  {
+    "date": "2013-06-30",
+    "name": "Minigolf",
+    "type": "Sport",
+    "place": "Christiania Minigolf Club",
+    "comment": "Minigolf og middag med Finn, SudØst Asia Crossover"
+  },
+  {
+    "date": "2013-06-29",
+    "name": "Shuffle",
+    "type": "Sport",
+    "place": "Fyrhuset Kuba",
+    "people": ["Fredrik", "Cecilie"]
+  },
+  {
+    "date": "2013-06-13",
+    "name": "Shuffle",
+    "type": "Sport",
+    "place": "Fyrhuset Kuba",
+    "people": ["Linda", "Cecilie"]
+  },
+  {
+    "date": "2012-09-15",
+    "name": "Sirkus Eliassen",
+    "type": "Concert",
+    "place": "Stundentersamfundet",
+    "people": ["Morten", "Glenn Jacobsen"]
+  },
+  {
+    "date": "2012-10-06",
+    "name": "Lars Vaular",
+    "type": "Concert",
+    "place": "Stundentersamfundet"
+  },
+  {
+    "date": "2012-08-30",
+    "name": "Bedpress",
+    "type": "Course",
+    "place": "Graffi Grill Midtbyen"
+  },
+  {
+    "date": "2012-08-28",
+    "name": "Bedpress",
+    "type": "Course",
+    "place": "Graffi Grill Midtbyen"
+  },
+  {
+    "date": "2012-08-03",
+    "name": "Trøndersk Matfestival",
+    "type": "Festival",
+    "people": ["Ann Harriet"]
+  },
+  {
+    "date": "2014-10-16",
+    "name": "Finnovasjonsdagen 2014",
+    "type": "Hackaton",
+    "comment": "Bilapp"
+  },
+  {
+    "date": "2014-08-02",
+    "name": "Go-kart",
+    "type": "Sport",
+    "people": ["Jørgen", "Kristian", "Marte"],
+    "comment": "Jørgen 33.813 Anders 34.630 Kristian 36.604 Marte 37.702"
+  },
+  {
+    "date": "2013-03-09",
+    "name": "Klatrekort",
+    "type": "Course",
+    "people": ["Silje"],
+    "place": "UTE-hallen Trondheim"
+  },
+  {
+    "date": "2013-01-23",
+    "name": "D-dag",
+    "type": "Comdey",
+    "people": ["Henrik"],
+    "place": "Stundentersamfundet"
+  },
+  {
+    "date": "2013-01-20",
+    "name": "John Olav Nilsen og gjengen",
+    "type": "Concert",
+    "people": ["Morten"],
+    "place": "Stundentersamfundet"
+  },
+  {
+    "date": "2013-01",
+    "name": "Bursdag Kristine",
+    "type": "Party",
+    "place": "Korsgata 23C"
+  },
+  {
+    "date": "2012-12-28",
+    "name": "Grill og aketur til Sinober",
+    "type": "Sport",
+    "place": "Sinober",
+    "people": ["Cecilie", "Irene", "Mats", "Nora", "Paige"]
+  },
+  {
+    "date": "2012-06-17",
+    "name": "Tusenfryd",
+    "type": "Themepark",
+    "people": ["Christian"]
+  },
+  {
+    "date": "2012-02-17",
+    "name": "Kaizers Orchestra",
+    "type": "Concert",
+    "people": ["Simon"],
+    "place": "Stundentersamfundet"
+  },
+  {
+    "date": "2012-02-10",
+    "name": "Sondre Lerche",
+    "type": "Concert",
+    "place": "Stundentersamfundet"
+  },
+  {
+    "date": "2012-02-06",
+    "name": "Git med Capgemini så Graffi",
+    "type": "Course"
+  },
+  {
+    "date": "2011-12-2011",
+    "name": "Oslo Konserthus Julekonsert",
+    "type": "Consert",
+    "place": "Oslo Konserthus",
+    "people": ["Ann Harriet", "Jørgen", "Kristian"]
+  },
+  {
+    "date": "2011-12-15",
+    "name": "Bursdag Petter",
+    "type": "Party",
+    "place": "Korsgata 23C"
+  },
+  {
+    "date": "2011-11-06",
+    "name": "Pirbadet",
+    "type": "Sport",
+    "place": "Pirbadet"
+  },
+  {
+    "date": "2011-10-31",
+    "name": "Nedrigg Dødens Dal",
+    "type": "Sport",
+    "place": "Dødens Dal"
+  },
+  {
+    "date": "2011-10-29",
+    "name": "DJ Dan - Morten Ramm",
+    "type": "Concert"
+  },
+  {
+    "date": "2011-10-26",
+    "name": "UKA STYRE NACH",
+    "type": "Party"
+  },
+  {
+    "date": "2011-10-25",
+    "name": "Melissa Horn",
+    "type": "Concert",
+    "place": "Stundentersamfundet"
+  },
+  {
+    "date": "2011-10-24",
+    "name": "White Lies",
+    "type": "Concert"
+  },
+  {
+    "date": "2011-10-22",
+    "name": "E-type",
+    "type": "Concert",
+    "place": "Stundentersamfundet",
+    "people": ["Jørgen"]
+  },
+  {
+    "date": "2011-10-21",
+    "name": "Rai Rai DDE Trønderfest",
+    "type": "Concert",
+    "place": "Dødens Dal",
+    "people": ["Jørgen"]
+  },
+  {
+    "date": "2011-10-20",
+    "name": "David Guetta",
+    "type": "Concert",
+    "place": "Dødens Dal",
+    "people": ["Jørgen"]
+  },
+  {
+    "date": "2011-10-16",
+    "name": "Bye og Rønning",
+    "type": "Comedy",
+    "place": "Stundentersamfundet"
+  },
+  {
+    "date": "2011-10-15",
+    "name": "Snoop Dogg",
+    "type": "Concert",
+    "place": "Dødens Dal"
+  },
+  {
+    "date": "2011-10-15",
+    "name": "Envy",
+    "type": "Concert",
+    "place": "Dødens Dal"
+  },
 ]
 
-//
-Stand up med Alex Rosén 2012.03.23 Studenter samfundet
-Radioresepsjonen 2012.02.23 Studenter samfundet
-Sondre Lerche 2012.02.10 Stundeter samfundet
-D-Dag Live! 2013.01.23 Stundeter samfundet
-Tørnquiz 2018.04.23 Hva skjer
-Findings Festival 2014.08.22 Med Marte. Jørgen var der. Bislett Stadion.
-Latter 10 år med Marte 2014.08.16
-NodeSchool 2014.09.27 https://www.meetup.com/OsloJS/events/184934982/
-Tusenfryd 2014.08.09 Med Marte
-Tilt med Finn team 2014.06.19 Shuffleboard
-Platform Thinking 2014.06.16 Mesh med Yvonne.
-Tusenfryd med Kristian og Nina 2013.10.5
-Rockheim med mamma 2013.09.13.
-Marinelyst Minigolfpark med mamma og mormor 2013.06.26
-Loveshack med Finn på Cafe Mir 2013.06.20
-Byfesten i Lillestrøm 2013.06.14 Med blant annet Einvik, Catharina og Lars.
-Middag Fajitas så Sondre Lerche på Stundentersamfundet i Trondheim 2012.10.19 Maren Ø.
-Radioresepsjonen Samfundet med Eirik og Malin 2012.02.23
-Shuffleboard med Finn på Tilt 19 June 2014
-18. June 2014 OverOslo 2014 Melissa Horn, Helbillies og Sivert Høyem med Marte
-Minigolf og middag med Finn 30 july 2013 SudØst Asia Crossover
-29.july 2013 Shuffle Fyrhuset Kuba Fredrik Heesbråten og Cecilie
-13.july 2013 Shuffle Fyrhuset Kuba Cecilie og Linda W
-Trondheim Olavshallen April 12 2013
-Påsken 2013 Trysil Catharina, Christoffer P, Lars Moen, Einvik, Kristoffer Karlsen
-Sirkus Eliassen Samfunedet i Trondheim Morten Larsen og Glenn Jacobsen September 15 2012
-Lars Vaular Samfundet Trondheim Oktober 6 2012
-Bedpress Graffi Grill Midtbyen 30. August 2012
-Bedpress 28.8 2012 Graffi Grill Midtbyen
-Konsert August 18 2012 Morten Larsen
-Trøndersk Matfestival August 3 2012 med Mamma
-Finnovasjonsdagen 2014 Oktober 16 2014 Finn Bilapp
-Go-kart August 2 2014 Jørgen, Kristian og Marte Jørgen 33.813 Anders 34.630 Kristian 36.604 Marte 37.702
-Klatrekort med Silje Engelberg UTE-hallen Trondheim Mars 9 2013
-D-dag januar 23 2013 Samfundet Henrik Heggelund-Berg
-John Olav Nilsen og gjengen Morten Larsen 20. januar 2013
-Kristine FLo Halle Januar 2013 Korsgata 23C
-Grill og aketur til Sinober 28. desember 2012 Cecilie, Irene, Mats, Nora, Paige
-Tusenfryd 17 july 2012 med Einvik
-Kaizers med Simon Samfundet 17 feb 2012
-Sondre Lerche Samfundet Trondheim 10.feb 2012
-Git med Capgemini så Graffi Feb 6 2012
-Oslo Konserthus Julekonsert 22.12.2011 Mamma, kristian og Jørgen
-Petter Solberg 15.12.2011 Korsgata 23C
-Pirbadet 6. nov 2011 Trondheim
-31.10.2011 NEdrigg dødens dal
-29.10.2011 DJ Dan Morten ramm
-26.10.2011 UKA STYRE NACH
-25.10.2011 Melissa Horn
-24.10.2011 White Lies
-22.10.2011 E-type med Jørgen
-21.10.2011 Rai rai DDE Trønderfest med Jørgen
-20.10.2011 David Guetta med Jørgen
-16.10.2011 Bye og Rønning på UKA
-15.10.2011 Snoop Dogg
-15.10.2011 Envy oppvarming
-11.10.2011 John Olav Nilsen og Gjengen og Robyn + Hybelfylla.
-29.09.2011 Bygging av barer uka
-28.09.2011 Nattevakt Dødens dal.
-23.09.2011 Legger gulv i dødens dal
-21.09.2011 Rumpeldunk med Vertskapet
-04.09.2011 Datarock
-07.07.2011 Sommerfest med Abakus
-12.sept 2010 Swingkurs ntnui
-10.mars.2012 Abakus 35 års jubileum Radisson Blu Rotal Garden NidelvenTrondheim
-5.mai 2011 Lazertag med husvertene
-2018.0428 Hanne, Øystein, Marte og Anders 2 Bowling runder og 2 shuffleboard
-2018.05.30 VR på Ringen Kino med Kristian
+2009-08-03 Fremme i Trondheim (moved Trondheim)
+Hackathon NTNU Mandag, 13. april 2015
+Kjøpte leilighet 31.1.2014
+Flyttet til Grunerløkka 14.2.2014
+1.06.2015 Moved to St. Hanshaugen Fougstads gate 5A
+Fektebursdag 23.09.2017
+Justivalen 2017
+Stockholm NordicJS 2014 september 17 - 20 2014 Artipelag
+30.desember 2010 Grille og aketur med skredderudgjengen
+Web Rebels 2014
+JavaZone 2016
+Web Rebels 2015 May 21, 2015 at Scandic Vulkan 21 - 22 May 2015
+workshop: node.js microservices March 7, 2016 at Akersgata 55
+2012-04-08 The Blue Man Group Theater Blue man show
+2012-03-27 Sharks camp på HP Pavilion center eller noe
+2009-08-04 Became Roommates with Inger Lise og Hadrien
+2009-11-30 Badekarpadlingen ikke riktig dato
+Node Preformance Rescue Squad 5.1-9.1 Teknologihuset
+Fagdag BEKK Open April 15, 2016 at Radisson Blu Scandinavia Hotel, Oslo
+NodeConf Oslo June 4, 2016 at Dansens Hus, Oslo
+Web Rebels 2016 June 2, 2016 at Dansens Hus, Oslo 2.6 - 3.6
+CSSConf Nordic June 1, 2016 at Dansens Hus, Oslo
+2011-10-11John Olav Nilsen og Gjengen og Robyn + Hybelfylla.
+2011-09-29 Bygging av barer uka
+2011-09-28 Nattevakt Dødens dal.
+2011-09-23 Legger gulv i dødens dal
+2011-09-21 Rumpeldunk med Vertskapet
+2011-09-04 Datarock
+2011-07-07 Sommerfest med Abakus
+2010-09-12 Swingkurs ntnui
+2012-03-10 Abakus 35 års jubileum Radisson Blu Rotal Garden NidelvenTrondheim
+2011-05-05 Lazertag med husvertene
+2018-04-28 Hanne, Øystein, Marte og Anders 2 Bowling runder og 2 shuffleboard
+2018-05-30 VR på Ringen Kino med Kristian
 2011-10-06 Åpning av UKA 11 IMITI
 2011-10-05 Promonadekonsert UKA 11
 2011-10-19 G-side på klubben
 2011-07-27 RBK Kamp med pappa på Lerkendal Stadion
 2010-10-03 RBK - VIF på Lerkendal
 2010-09-27 NM i programmering lag WC4P
-August 2011 Became Roommates with Irene Tangen Korsgata 23
+2011-08 Became Roommates with Irene Tangen Korsgata 23
 2011-07-05 Kesha konsert med Jørgen og Kristian. Alice Cooper kom med en sang. Sentrum Scene
 2011-06-22 Paintball med @Bjørncs og @HauksA (Håkon kanskje?) i Trondheim
 2010-11-19 Louvre Paris
@@ -227,7 +538,7 @@ August 2011 Became Roommates with Irene Tangen Korsgata 23
 2010-08-13 Credo kanskje med mamma?
 2010-08-13 Kjøretur til Trondheim med Mamma
 2010-08-11 Ullevål med pappa. Frankrike Norge kanskje
-August 2010 Became Roommates with Morten Hestdal and Brit Elise Melhus in Trondheim, Norway
+2010-08 Became Roommates with Morten Hestdal and Brit Elise Melhus in Trondheim, Norway
 2010-05-17 17. Mai hos Terje Runde
 2010-03-27 Sushi med Malin og Kine.
 2010-02-11 Settlers Vanlig + Seafarers
@@ -249,7 +560,6 @@ August 2010 Became Roommates with Morten Hestdal and Brit Elise Melhus in Trondh
 2011-01-23 D-Dag Live! Studentersamfundet i Trondheim
 2011-10-10 das Nachspiel UKA11
 2011-10-10 Oktoberfest UKA11
-20
 2011-10-01 nm i programmering
 2011-10-05 Promonadekonserten
 2011-10-06 Åpningsfest med fyrverkeri
@@ -317,3 +627,9 @@ August 2010 Became Roommates with Morten Hestdal and Brit Elise Melhus in Trondh
 2020-08-13 Einer (mat)
 2020-01-25 Stallen ( mat)
 2020-08-14 taqueria (mat)
+2012-06-19 Ulriken med Merethe
+2009-01-14 Fortalte en vits på NRJ
+2008-04-26 Tryvann Russ
+2012-04-02 San Francisco Zoo med Terje og Håkon
+2013-04-12 Trondheim Olavshallen April
+2012-08-18 Konsert Morten Larsen
