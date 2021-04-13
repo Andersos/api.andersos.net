@@ -35,7 +35,10 @@ function w2f(timeline) {
 }
 
 const activity = addType(require("./activity.json"), "🚶‍♂️");
-const trips = addType(require("./trips.json"), "✈️");
+const trips = addDateFromProperty(
+  addType(require("./trips.json"), "✈️"),
+  "startDate"
+);
 const blood = addType(require("./blood.json"), "🩸");
 const books = addDateFromProperty(
   addType(require("./books.json"), "📖"),
