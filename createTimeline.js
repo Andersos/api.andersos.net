@@ -35,6 +35,7 @@ function w2f(timeline) {
 }
 
 const activity = addType(require("./activity.json"), "🚶‍♂️");
+const runs = addType(require("./runs.json"), "🏃‍♂️");
 const trips = addDateFromProperty(
   addType(require("./trips.json"), "✈️"),
   "startDate"
@@ -73,8 +74,8 @@ const timeline = [
   ...series,
   ...posts,
   ...trips,
+  ...runs,
   // culture
-  // runs
 ];
 
 timeline.sort((a, b) => new Date(b.date) - new Date(a.date));

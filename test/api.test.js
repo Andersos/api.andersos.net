@@ -1,19 +1,19 @@
 const assert = require("assert");
+const { photos } = require("../photostream.json");
+const { videos } = require("../photostream.json");
 const activity = require("../activity.json");
 const blood = require("../blood.json");
 const boardgames = require("../boardgames.json");
 const books = require("../books.json");
-// const culture = require('../culture.json');
+const divelog = require("../divelog.json");
+const movies = require("../movies.json");
 const playerlog = require("../playerlog.json");
 const podcasts = require("../podcasts.json");
-const series = require("../series.json");
-const movies = require("../movies.json");
-const trips = require("../trips.json");
-const divelog = require("../divelog.json");
 const posts = require("../posts.json");
-const { photos } = require("../photostream.json");
-const { videos } = require("../photostream.json");
-// const runs = require('../runs.json');
+const runs = require("../runs.json");
+const series = require("../series.json");
+const trips = require("../trips.json");
+// const culture = require('../culture.json');
 
 function ElementsHasProperty(elements, prop) {
   return elements.reduce((acc, value) => {
@@ -325,8 +325,17 @@ describe("The posts api", () => {
 });
 
 describe("The runs api", () => {
-  it.skip("is valid JSON", () => {
-    // TODO: Wait until runs api is updated
-    // assert(isValidJSON(trips));
+  it("is valid JSON", () => {
+    assert(isValidJSON(runs));
+  });
+
+  describe("each record", () => {
+    it("has date", () => {
+      assert(ElementsHasProperty(runs, "date"));
+    });
+
+    it("has title", () => {
+      assert(ElementsHasProperty(runs, "name"));
+    });
   });
 });
