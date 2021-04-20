@@ -173,13 +173,8 @@ describe("The playerlog", () => {
 
     it.skip("has winners", () => {
       const allHasWinners = playerlog.reduce((acc, value) => {
-        const hasWinners = Object.prototype.hasOwnProperty.call(
-          value,
-          "winners"
-        );
-        const noStats =
-          Object.prototype.hasOwnProperty.call(value, "stats") &&
-          value.stats === false;
+        const hasWinners = Object.prototype.hasOwnProperty.call(value, "winners");
+        const noStats = Object.prototype.hasOwnProperty.call(value, "stats") && value.stats === false;
         const countWinners = hasWinners || noStats;
         if (!countWinners) {
           console.log(value);
@@ -244,6 +239,10 @@ describe("The series api", () => {
 
     it("has lastWatched", () => {
       assert(ElementsHasProperty(series, "lastWatched"));
+    });
+
+    it("has lastKnown", () => {
+      assert(ElementsHasProperty(series, "lastKnown"));
     });
   });
 });
