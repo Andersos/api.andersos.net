@@ -264,7 +264,7 @@
     "location": {
       "@type": "Location",
       "name": "Stockholm",
-      "country": "Sweeden"
+      "country": "Sweden"
     },
     "comment": "NordicJS 2014",
     "startDate": "2014-09-17",
@@ -298,15 +298,7 @@
     },
     "startDate": "2014-04-16",
     "endDate": "2014-04-20",
-    "people": [
-      "Christoffer",
-      "Alexander",
-      "Kristoffer",
-      "Lars",
-      "Lars",
-      "Fredrick",
-      "Marthe"
-    ]
+    "people": ["Christoffer", "Alexander", "Kristoffer", "Lars", "Lars", "Fredrick", "Marthe"]
   },
   {
     "location": {
@@ -343,7 +335,7 @@
     "location": {
       "@type": "Place",
       "name": "Rocky Mountain National Park",
-      "country": "USA"
+      "country": "United States"
     },
     "startDate": "1992",
     "endDate": "1992"
@@ -382,7 +374,7 @@
     "location": {
       "@type": "City",
       "name": "Åre",
-      "country": "Sweeden"
+      "country": "Sweden"
     },
     "startDate": "2012-01-15",
     "endDate": "2012-01-19",
@@ -392,7 +384,7 @@
     "location": {
       "@type": "City",
       "name": "Åre",
-      "country": "Sweeden"
+      "country": "Sweden"
     },
     "startDate": "2011-01-16",
     "endDate": "2011-01-23",
@@ -451,7 +443,7 @@
     "location": {
       "@type": "Place",
       "name": "Grand Canyon",
-      "country": "USA"
+      "country": "United States"
     },
     "startDate": "2012-04-06",
     "endDate": "2012-04-06",
@@ -489,7 +481,7 @@
     "location": {
       "@type": "Place",
       "name": "Yasuragi",
-      "country": "Sweeden"
+      "country": "Sweden"
     },
     "startDate": "2015-11-10",
     "endDate": "2015-11-13",
@@ -521,7 +513,7 @@
     "location": {
       "@type": "Place",
       "name": "San Jose",
-      "country": "USA"
+      "country": "United States"
     },
     "startDate": "2012-03-23",
     "endDate": "2012-03-31",
@@ -531,7 +523,7 @@
     "location": {
       "@type": "Place",
       "name": "San Fransisco",
-      "country": "USA"
+      "country": "United States"
     },
     "startDate": "2012-03-31",
     "endDate": "2012-04-04",
@@ -541,7 +533,7 @@
     "location": {
       "@type": "Place",
       "name": "Las Vegas",
-      "country": "USA"
+      "country": "United States"
     },
     "startDate": "2012-04-04",
     "endDate": "2012-04-08",
@@ -551,10 +543,70 @@
     "location": {
       "@type": "Place",
       "name": "Los Angeles",
-      "country": "USA"
+      "country": "United States"
     },
     "startDate": "2012-04-08",
     "endDate": "2012-04-13",
     "comment": "XCOM. Queen Mary"
+  },
+  {
+    "location": {
+      "@type": "Place",
+      "name": "Nekla",
+      "country": "Polen"
+    },
+    "startDate": "2009-02-21",
+    "endDate": "2009-03-01",
+    "comment": "Youme utveksling"
+  },
+  {
+    "location": {
+      "@type": "City",
+      "name": "Budapest",
+      "country": "Hungary"
+    },
+    "startDate": "2019-03-29",
+    "endDate": "2019-03-31",
+    "comment": "Med Marte"
+  },
+  {
+    "location": {
+      "@type": "City",
+      "name": "Berlin",
+      "country": "Germany"
+    },
+    "startDate": "2017-05-04",
+    "endDate": "2017-05-14",
+    "comment": "CSSconf EU, JSconf EU, Mission Camp Netlife"
+  },
+  {
+    "location": {
+      "@type": "City",
+      "name": "Prague",
+      "country": "Czechia"
+    },
+    "startDate": "2015-06-10",
+    "endDate": "2015-06-13",
+    "comment": "Med Marte"
+  },
+  {
+    "location": {
+      "@type": "City",
+      "name": "Sharm el sheikh",
+      "country": "Egypt"
+    },
+    "startDate": "2007",
+    "endDate": "2007",
+    "comment": "Med familien og Joachim. Usikker på dato"
+  },
+  {
+    "location": {
+      "@type": "City",
+      "name": "Bali",
+      "country": "Indonesia"
+    },
+    "startDate": "2019-07-30",
+    "endDate": "2019-08-11",
+    "comment": "Med Marte"
   }
 ]

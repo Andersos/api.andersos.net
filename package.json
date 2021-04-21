@@ -7,7 +7,7 @@
     "start": "live-server --port=8080",
     "lint": "eslint .",
     "test": "jest && yarn lint",
-    "build": "node createTimeline.js",
+    "build": "node createTimeline.js && node createCountries.js",
     "build:ci": "yarn test && yarn build"
   },
   "dependencies": {
