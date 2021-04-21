@@ -26,14 +26,6 @@
   {
     "location": {
       "@type": "Place",
-      "name": "Nøklevann"
-    },
-    "startDate": "2018-03-31",
-    "endDate": "2018-04-01"
-  },
-  {
-    "location": {
-      "@type": "Place",
       "name": "Beitostølen"
     },
     "startDate": "2021-03-29",
