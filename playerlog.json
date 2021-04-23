@@ -902,14 +902,14 @@
   },
   {
     "date": "2020-01-03",
-    "game": "Lords of waterdeep",
+    "game": "Lords of Waterdeep",
     "players": ["Anders", "Kristian", "Jørgen", "Maria"],
     "winners": ["Anders"],
     "comment": "Maria 56, Kristian 74, Jørgen 89, Anders 103"
   },
   {
     "date": "2020-01-11",
-    "game": "Adorable Pandering",
+    "game": "Adorable Pandaring",
     "players": ["Anders", "Irene", "Kine", "Inger"],
     "winners": ["Anders"]
   },
@@ -940,7 +940,7 @@
   },
   {
     "date": "2020-03-10",
-    "game": "Pandemic Legacy",
+    "game": "Pandemic Legacy Season 1",
     "comment": "Game 1",
     "players": ["Francesco", "Victoria", "Anders", "Marte"],
     "winners": []
