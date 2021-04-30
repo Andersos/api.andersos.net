@@ -218,6 +218,14 @@
     "time": "13:00",
     "location": "Ullevål sykehus",
     "HbF": "15,9",
+    "Ferritin": "121",
     "gift": "Håndkle"
+  },
+  {
+    "date": "2021-04-30",
+    "time": "12:00",
+    "location": "Ullevål sykehus",
+    "HbF": "16,5",
+    "gift": "Sjokolade"
   }
 ]
