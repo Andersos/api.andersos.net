@@ -34,6 +34,13 @@
     "thumbnail": "https://d.gr-assets.com/books/1386593678l/19309829.jpg"
   },
   {
+    "isbn": "0",
+    "name": "Book of bad arguemnts",
+    "tags": ["read"],
+    "link": "https://bookofbadarguments.com/",
+    "read": "2013-08-26"
+  },
+  {
     "asin": "B00VY4B4RY",
     "name": "Day Trading: Beat the System and Make Money in Any Market Environment",
     "tags": ["to-read", "humble-bundle"],
@@ -584,6 +591,14 @@
     "read": "2016-05-18",
     "rating": 8,
     "thumbnail": "https://d.gr-assets.com/books/1383352779l/18213403.jpg"
+  },
+  {
+    "asin": "9781250107817",
+    "name": "Factfulness: Ten Reasons We're Wrong About the World—and Why Things Are Better Than You Think",
+    "tags": ["read", "kindle"],
+    "read": "2021-05-01",
+    "rating": 10,
+    "thumbnail": "https://d.gr-assets.com/books/1520379402l/36185940.jpg"
   },
   {
     "isbn": 9781400034239,
@@ -1433,7 +1448,7 @@
     "tags": ["abookapart"],
     "thumbnail": "https://cdn.shopify.com/s/files/1/0051/7692/products/ABA-cover-4_112x@3x.png?v=1463456131"
   },
-   {
+  {
     "name": "Can You Solve My Problems?: Ingenious, Perplexing, and Totally Satisfying Math and Logic Puzzles",
     "isbn": "9781615193882",
     "thumbnail": "https://images-na.ssl-images-amazon.com/images/I/51d7rrh8owL._SX385_BO1,204,203,200_.jpg"

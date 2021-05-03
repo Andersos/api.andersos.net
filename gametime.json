@@ -10,5 +10,10 @@
   {
     "platform": "battle",
     "time": 0
+  },
+  {
+    "name": "Journey",
+    "date": "2014-10-06",
+    "comment": "Date of completion"
   }
 ]

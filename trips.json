@@ -202,6 +202,36 @@
   {
     "location": {
       "@type": "City",
+      "name": "Sandefjord",
+      "country": "Norway"
+    },
+    "comment": "Yggdrasilkonferansen",
+    "startDate": "2017-04-03",
+    "endDate": "2017-04-04"
+  },
+  {
+    "location": {
+      "@type": "City",
+      "name": "Larvik",
+      "country": "Norway"
+    },
+    "comment": "Teamsamling på Farris bad",
+    "startDate": "2017-04-17",
+    "endDate": "2017-04-18"
+  },
+  {
+    "location": {
+      "@type": "City",
+      "name": "Lillehammer",
+      "country": "Norway"
+    },
+    "comment": "Bryllup Nina og Daniel",
+    "startDate": "2017-06-28",
+    "endDate": "2017-06-30"
+  },
+  {
+    "location": {
+      "@type": "City",
       "name": "Stockholm",
       "country": "Sweden"
     },
