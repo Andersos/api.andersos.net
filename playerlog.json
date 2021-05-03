@@ -81,7 +81,7 @@
     "game": "Eldritch Horror",
     "players": ["Anders", "Kristian"],
     "comment": "6 runder inn så drepte en Roumer oss. En giant spider. Fordi vi ikke hadde nok clues",
-    "winners": []
+    "stats": false
   },
   {
     "date": "2018-12-01",
@@ -115,7 +115,7 @@
     "date": "2014-08-31",
     "game": "Eldritch Horror",
     "players": ["Robin", "Lars", "Anders", "Jens", "Peder", "Martin"],
-    "winners": []
+    "stats": false
   },
   {
     "date": "2016-04-24",
@@ -713,38 +713,45 @@
   {
     "date": "2014-07-11",
     "game": "Archipelago",
-    "players": ["Robin", "Martin", "Jens", "Anders", "Lars"]
+    "players": ["Robin", "Martin", "Jens", "Anders", "Lars"],
+    "stats": false
   },
   {
     "date": "2008-03-08",
     "game": "Poker 500 Chips",
     "comment": "pokah Night Round 4",
-    "players": ["Robin", "Anders", "Christian", "Jens", "Ivar", "Fredrick"]
+    "players": ["Robin", "Anders", "Christian", "Jens", "Ivar", "Fredrick"],
+    "stats": false
   },
   {
     "date": "2014-06-08",
     "game": "Eldritch Horror",
-    "players": ["Robin", "Martin", "Jens", "Anders", "Peder", "Lars"]
+    "players": ["Robin", "Martin", "Jens", "Anders", "Peder", "Lars"],
+    "stats": false
   },
   {
     "date": "2014-04-04",
     "game": "Archipelago",
-    "players": ["Robin", "Anders", "Peder"]
+    "players": ["Robin", "Anders", "Peder"],
+    "stats": false
   },
   {
     "date": "2014-03-15",
     "game": "Archipelago",
-    "players": ["Robin", "Anders", "Peder", "Martin"]
+    "players": ["Robin", "Anders", "Peder", "Martin"],
+    "stats": false
   },
   {
     "date": "2014-03-15",
     "game": "Archipelago",
-    "players": ["Robin", "Anders", "Peder", "Martin"]
+    "players": ["Robin", "Anders", "Peder", "Martin"],
+    "stats": false
   },
   {
     "date": "2009-06-29",
     "game": "ukjent",
     "players": ["Oluf", "Anders", "Jørgen", "Kristian"],
+    "winners": ["Anders"],
     "comment": "O: 54 A:36 K:43 J:45"
   },
   {

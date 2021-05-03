@@ -171,7 +171,7 @@ describe("The playerlog", () => {
       assert(ElementsHasProperty(playerlog, "game"));
     });
 
-    it.skip("has winners", () => {
+    it("has winners", () => {
       const allHasWinners = playerlog.reduce((acc, value) => {
         const hasWinners = Object.prototype.hasOwnProperty.call(value, "winners");
         const noStats = Object.prototype.hasOwnProperty.call(value, "stats") && value.stats === false;
@@ -241,7 +241,7 @@ describe("The series api", () => {
       assert(ElementsHasProperty(series, "lastWatched"));
     });
 
-    it.skip("has lastKnown", () => {
+    it("has lastKnown", () => {
       assert(ElementsHasProperty(series, "lastKnown"));
     });
   });
