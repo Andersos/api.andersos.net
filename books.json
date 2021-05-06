@@ -84,7 +84,6 @@
   {
     "isbn": 0,
     "name": "Human Redux",
-    "reading": true,
     "tags": ["to-read", "free-online"],
     "link": "https://read.reduxbook.com/",
     "thumbnail": "https://api.andersos.net/assets/human-redux.png"
@@ -92,7 +91,6 @@
   {
     "isbn": 0,
     "name": "Human Javascript",
-    "reading": true,
     "tags": ["to-read", "free-online"],
     "link": "https://read.humanjavascript.com",
     "thumbnail": "https://api.andersos.net/assets/human-javascript.png"
@@ -1076,7 +1074,6 @@
   {
     "isbn": 9783945749432,
     "name": "Inclusive Design Patterns",
-    "reading": true,
     "tags": ["to-read"],
     "thumbnail": "https://api.andersos.net/assets/9783945749432.jpg"
   },
@@ -1095,6 +1092,7 @@
   {
     "isbn": 9788202411206,
     "name": "Et kvart liv",
+    "reading": true,
     "tags": ["to-read", "bookshelf"],
     "thumbnail": "https://d.gr-assets.com/books/1368447922l/17912952.jpg"
   },
@@ -1358,7 +1356,6 @@
   {
     "isbn": 9780998296609,
     "name": "Atomic Design",
-    "reading": true,
     "tags": ["to-read"],
     "thumbnail": "https://cdn.shopify.com/s/files/1/0727/0443/products/book-cover_1024x1024.png?v=1478041896"
   },
