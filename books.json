@@ -3,20 +3,17 @@
     "asin": "B003UYUP6M",
     "name": "In the plex",
     "tags": ["to-read"],
-    "index": 0,
     "thumbnail": "https://d.gr-assets.com/books/1442810207l/7841446.jpg"
   },
   {
     "asin": "B006431ADS",
     "name": "Simplify",
     "tags": ["to-read", "kindle"],
-    "index": 1,
     "thumbnail": "https://d.gr-assets.com/books/1328040364l/13049773.jpg"
   },
   {
     "asin": "B00C2UUJX4",
     "name": "How to talk to girls at parties",
-    "index": 2,
     "tags": ["to-read", "kindle"],
     "thumbnail": "https://d.gr-assets.com/books/1434003330l/13378509.jpg"
   },
@@ -41,24 +38,6 @@
     "thumbnail": "https://humblebundle-a.akamaihd.net/misc/files/hashed/e315907e80531853b840ba8546af9578276e1e0d.png"
   },
   {
-    "asin": "B010GUXQCW",
-    "name": "LinkedIn: Tell Your Story, Land the Job",
-    "tags": ["to-read", "humble-bundle"],
-    "thumbnail": "https://humblebundle-a.akamaihd.net/misc/files/hashed/e6998b2fcf1d135361f91f375787a937cc929660.png"
-  },
-  {
-    "isbn": "B006X2QEQS",
-    "name": "The Linux Command Line: A Complete Introduction",
-    "tags": ["humble-bundle", "ebook", "kindle"],
-    "thumbnail": "https://d.gr-assets.com/books/1384804026l/18661102.jpg"
-  },
-  {
-    "isbn": "B00I87B1H8",
-    "name": "The Principles of Object-Oriented JavaScript",
-    "tags": ["humble-bundle", "ebook", "kindle", "to-read"],
-    "thumbnail": "https://d.gr-assets.com/books/1392225080l/20799234.jpg"
-  },
-  {
     "isbn": 0,
     "name": "An Introduction to Programming in Go",
     "tags": ["to-read", "link"],
@@ -68,12 +47,8 @@
   {
     "isbn": 0,
     "name": "Front-end Handbook",
-    "link": "https://www.gitbook.com/star/book/frontendmasters/front-end-handbook"
-  },
-  {
-    "isbn": 0,
-    "name": "Neural Networks and Deep Learning",
-    "link": "https://neuralnetworksanddeeplearning.com/"
+    "link": "https://www.gitbook.com/star/book/frontendmasters/front-end-handbook",
+    "thumbnail": "https://frontendmasters.com/books/front-end-handbook/2019/assets/images/FM_2019Cover_final.jpg"
   },
   {
     "isbn": 0,
@@ -97,10 +72,10 @@
     "thumbnail": "https://ksr-ugc.imgix.net/projects/1694890/photo-original.jpeg?v=1426265725&w=1536&h=1152&fit=crop&auto=format&q=92&s=da476ac23590d4d59e07bf0e6d22871d"
   },
   {
-    "isbn": 0,
+    "isbn": 9780147523303,
     "name": "The Startup Way - Eric Ries",
     "tags": ["to-read"],
-    "thumbnail": "https://ksr-ugc.imgix.net/projects/1694890/photo-original.jpeg?v=1426265725&w=1536&h=1152&fit=crop&auto=format&q=92&s=da476ac23590d4d59e07bf0e6d22871d"
+    "thumbnail": "https://d.gr-assets.com/books/1498813353l/34267304.jpg"
   },
   {
     "isbn": 140008381,
@@ -109,11 +84,6 @@
     "read": "2016-09-25",
     "rating": 10,
     "thumbnail": "https://d.gr-assets.com/books/1424037542l/7613.jpg"
-  },
-  {
-    "isbn": 8200012573,
-    "name": "Logikk oppgaver til Arne Næss",
-    "tags": ["to-read", "bookshelf"]
   },
   {
     "isbn": 8276830560,
@@ -148,11 +118,6 @@
     "tags": ["audible", "read", "kindle"],
     "read": "2013",
     "thumbnail": "https://books.google.com/books/content?id=ldI78Ed-9csC&printsec=frontcover&img=1&zoom=1"
-  },
-  {
-    "isbn": 9780062268358,
-    "name": "Yes Please",
-    "tags": ["to-read", "audible"]
   },
   {
     "isbn": 9780062273208,
@@ -866,24 +831,6 @@
     "thumbnail": "https://images.gr-assets.com/books/1343162459l/15768473.jpg"
   },
   {
-    "isbn": 9781623155278,
-    "name": "Paleo in 28: 4 Weeks, 5 Ingredients, 130 Recipes",
-    "tags": ["to-read", "humble-bundle"],
-    "thumbnail": "https://humblebundle-a.akamaihd.net/misc/files/hashed/4155f1e270e023119b79efd56631289bafab861d.png"
-  },
-  {
-    "isbn": 9781623155971,
-    "name": "Sushi at Home: A Mat-to-Table Sushi Cookbook",
-    "tags": ["to-read", "humble-bundle"],
-    "thumbnail": "https://humblebundle-a.akamaihd.net/misc/files/hashed/d4b776777338b85e76c868a47e1d21b799ba5698.png"
-  },
-  {
-    "isbn": 9781623156008,
-    "name": "Real BBQ: The Ultimate Step-by-Step Smoker Cookbook",
-    "tags": ["to-read", "humble-bundle"],
-    "thumbnail": "https://humblebundle-a.akamaihd.net/misc/files/hashed/ec6bd0604a7297ede50f15828706d4dd71ca6765.png"
-  },
-  {
     "isbn": 9781623156237,
     "name": "Thriving With Social Anxiety: Daily Strategies for Overcoming Anxiety and Building Self-Confidence",
     "tags": ["to-read", "humble-bundle"],
@@ -936,18 +883,6 @@
     "name": "Psychology: Essential Thinkers, Classic Theories, and How They Inform Your World",
     "tags": ["to-read", "humble-bundle"],
     "thumbnail": "https://humblebundle-a.akamaihd.net/misc/files/hashed/f4e5c91fe4684953aac4dc72b88d8600c025d6e3.png"
-  },
-  {
-    "isbn": 9781623157401,
-    "name": "The Portable Essential Oils: A Pocket Reference of 250 Everyday Essential Oils Remedies for Natural Health",
-    "tags": ["to-read", "humble-bundle"],
-    "thumbnail": "https://humblebundle-a.akamaihd.net/misc/files/hashed/cd40898ae0bf3926b863971bf6112adbd7411958.png"
-  },
-  {
-    "isbn": 9781623157654,
-    "name": "The Ultimate Bodybuilding Cookbook: High-Impact Recipes to Make You Stronger Than Ever",
-    "tags": ["to-read", "humble-bundle"],
-    "thumbnail": "https://humblebundle-a.akamaihd.net/misc/files/hashed/31dd2893fc55dc8a1f095247263aa2f82c4f14a8.png"
   },
   {
     "isbn": 9781743216897,
@@ -1197,7 +1132,7 @@
     "isbn": 9788205330979,
     "name": "feedback",
     "tags": ["to-read"],
-    "thumbnail": "https://www.gyldendal.no/var/ezwebin_site/storage/images/gyldendal/faglitteratur/psykologi/generell-psykologi/feedback/485866-1-nor-NO/Feedback_productimage.jpg"
+    "thumbnail": "https://pim.bibsent.no/ImageImport/97/9788205330979.jpg"
   },
   {
     "isbn": 9788205366824,
