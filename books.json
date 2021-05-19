@@ -4,14 +4,7 @@
     "name": "In the plex",
     "tags": ["to-read"],
     "index": 0,
-    "thumbnail": "https://www.stevenlevy.com/wp-content/uploads/2011/04/in-the-plex.jpg"
-  },
-  {
-    "asin": "B004JF4NOQ",
-    "name": "Vim and Vi Tips: Essential Vim and Vi Editor Skills, 3rd ed. ",
-    "index": 0,
-    "tags": ["kindle"],
-    "thumbnail": "https://g-images.amazon.com/images/I/41XBrRjPrVL._SS130_.jpg"
+    "thumbnail": "https://d.gr-assets.com/books/1442810207l/7841446.jpg"
   },
   {
     "asin": "B006431ADS",
@@ -92,6 +85,7 @@
   {
     "isbn": 0,
     "name": "Human Javascript",
+    "index": 3,
     "tags": ["to-read", "free-online"],
     "link": "https://read.humanjavascript.com",
     "thumbnail": "https://api.andersos.net/assets/human-javascript.png"
@@ -1394,11 +1388,6 @@
     "thumbnail": "https://images.gr-assets.com/books/1391275636l/6732019.jpg"
   },
   {
-    "isbn": 9780804148993,
-    "name": "Remote: Office Not Required",
-    "thumbnail": "https://images.gr-assets.com/books/1363265098l/17316682.jpg"
-  },
-  {
     "isbn": 9780525533832,
     "name": "No Hard Feelings: The Secret Power of Embracing Emotions at Work",
     "thumbnail": "https://images.gr-assets.com/books/1541754307l/40062678.jpg"
@@ -1409,11 +1398,14 @@
   },
   {
     "name": "The Phoenix Project",
+    "index": 9,
     "isbn": "9780988262591"
   },
   {
     "name": "Humble Pi",
-    "isbn": "9780241360231"
+    "isbn": "9780241360231",
+    "index": 1,
+    "thumbnail": "https://d.gr-assets.com/books/1552885037l/39074550.jpg"
   },
   {
     "name": "Staff Engineer: Leadership beyond the management track by Will Larson",
