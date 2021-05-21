@@ -22,6 +22,7 @@
     "name": "The Nerd's Guide to Being Confident",
     "tags": ["kindle", "audible", "read"],
     "read": "2021-05-20",
+    "rating": 3,
     "thumbnail": "https://d.gr-assets.com/books/1386593678l/19309829.jpg"
   },
   {
@@ -1220,7 +1221,9 @@
   {
     "isbn": 9788251681278,
     "name": "Ibsen på en time",
-    "tags": ["to-read"],
+    "tags": ["read", "deichman"],
+    "read": "2021-05-20",
+    "rating": 5,
     "thumbnail": "https://d.gr-assets.com/books/1384984452l/18873549.jpg"
   },
   {
