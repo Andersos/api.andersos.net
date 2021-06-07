@@ -139,7 +139,7 @@
   { "name": "Magnus", "lastWatched": "S01E06", "lastKnown": "S01E06", "cancelled": true, "tag": "NRK" },
   { "name": "Mammon", "lastWatched": "S01E06", "lastKnown": "S01E08", "cancelled": true },
   { "name": "Maniac (US)", "lastWatched": "S01E10", "lastKnown": "S01E10", "cancelled": true, "tag": "Netflix" },
-  { "name": "Master of none", "lastWatched": "S02E10", "lastKnown": "S02E10" },
+  { "name": "Master of none", "lastWatched": "S02E10", "lastKnown": "S03E05", "cancelled": true, "ignore": true },
   { "name": "Match", "lastWatched": "S02E10", "lastKnown": "S02E10", "tag": "NRK", "cancelled": true },
   { "name": "Melk", "lastWatched": "S01E20", "lastKnown": "S01E20", "cancelled": true },
   { "name": "Mesternes mester", "lastWatched": "S12E10", "lastKnown": "S12E10", "S11": "2021-01-08", "S12": "2021-02-26", "tag": "NRK" },
