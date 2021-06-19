@@ -1024,8 +1024,9 @@
   {
     "isbn": 9788202411206,
     "name": "Et kvart liv",
-    "reading": true,
-    "tags": ["to-read", "bookshelf"],
+    "read": "2021-06-19",
+    "rating": 7,
+    "tags": ["read"],
     "thumbnail": "https://d.gr-assets.com/books/1368447922l/17912952.jpg"
   },
   {
