@@ -1,6 +1,8 @@
 [
   {
     "asin": "B003UYUP6M",
+    "isbn": "9781416596585",
+    "pages": 432,
     "name": "In the plex",
     "tags": ["to-read"],
     "thumbnail": "https://d.gr-assets.com/books/1442810207l/7841446.jpg"
@@ -8,6 +10,7 @@
   {
     "asin": "B006431ADS",
     "name": "Simplify",
+    "pages": 46,
     "tags": ["to-read", "kindle"],
     "thumbnail": "https://d.gr-assets.com/books/1328040364l/13049773.jpg"
   },
@@ -150,6 +153,7 @@
   {
     "isbn": 9780141187761,
     "name": "Nineteen Eighty-Four",
+    "pages": 355,
     "tags": ["to-read", "bookshelf"]
   },
   {
@@ -299,13 +303,9 @@
     "tags": ["kindle"]
   },
   {
-    "isbn": 9780486275437,
-    "name": "Alice's Adventures in Wonderland",
-    "tags": ["kindle"]
-  },
-  {
     "isbn": 9780544272996,
     "name": "What If?: Serious Scientific Answers to Absurd Hypothetical Questions",
+    "pages": 303,
     "tags": ["kindle"]
   },
   {
@@ -749,12 +749,6 @@
     "thumbnail": "https://d.gr-assets.com/books/1294497489l/6593810.jpg"
   },
   {
-    "isbn": 9781593273842,
-    "name": "The Art of R Programming: A Tour of Statistical Software Design",
-    "tags": ["humble-bundle", "ebook", "kindle"],
-    "thumbnail": "https://d2arxad8u2l0g7.cloudfront.net/books/1328753512l/11746626.jpg"
-  },
-  {
     "isbn": 9781593274245,
     "name": "Think Like a Programmer: An Introduction to Creative Problem Solving",
     "tags": ["humble-bundle", "ebook", "kindle"],
@@ -809,12 +803,6 @@
     "name": "Automate the Boring Stuff with Python: Practical Programming for Total Beginners",
     "tags": ["humble-bundle", "ebook", "kindle"],
     "thumbnail": "https://d2arxad8u2l0g7.cloudfront.net/books/1418768948l/22514127.jpg"
-  },
-  {
-    "isbn": 9781593276041,
-    "name": "Python Playground: Geeky Projects for the Curious Programmer",
-    "tags": ["humble-bundle", "ebook", "kindle"],
-    "thumbnail": "https://d.gr-assets.com/books/1444635675l/22978167.jpg"
   },
   {
     "isbn": 9781607066019,
@@ -1010,12 +998,6 @@
     "thumbnail": "https://api.andersos.net/assets/9783945749432.jpg"
   },
   {
-    "isbn": 9788202249120,
-    "name": "Madonna-gåten",
-    "tags": ["to-read", "bookshelf"],
-    "thumbnail": "https://d.gr-assets.com/books/1421173317l/24483723.jpg"
-  },
-  {
     "isbn": 9788202343507,
     "name": "Praktisk brukertesting",
     "tags": ["to-read", "bookshelf"],
@@ -1070,30 +1052,6 @@
     "tags": ["read"],
     "read": "2009",
     "thumbnail": "https://d.gr-assets.com/books/1280493634l/3567798.jpg"
-  },
-  {
-    "isbn": 9788203255427,
-    "name": "Doktor Proktors prompepulver",
-    "tags": ["to-read", "ebok.no"],
-    "thumbnail": "https://d.gr-assets.com/books/1295914059l/10308644.jpg"
-  },
-  {
-    "isbn": 9788203255502,
-    "name": "Doktor Proktors tidsbadekar",
-    "tags": ["to-read"],
-    "thumbnail": "https://d.gr-assets.com/books/1342386531l/15753633.jpg"
-  },
-  {
-    "isbn": 9788203255519,
-    "name": "Doktor Proktor og verdens undergang. Kanskje",
-    "tags": ["to-read"],
-    "thumbnail": "https://d.gr-assets.com/books/1296075939l/10322943.jpg"
-  },
-  {
-    "isbn": 9788203255526,
-    "name": "Doktor Proktor og det store gullrøveriet",
-    "tags": ["to-read"],
-    "thumbnail": "https://d.gr-assets.com/books/1356556413l/17183601.jpg"
   },
   {
     "isbn": 9788203351082,
@@ -1338,23 +1296,27 @@
   },
   {
     "name": "The Phoenix Project",
+    "pages": 345,
     "index": 9,
     "isbn": "9780988262591"
   },
   {
     "name": "Humble Pi",
+    "pages": 314,
     "isbn": "9780241360231",
     "index": 1,
     "thumbnail": "https://d.gr-assets.com/books/1552885037l/39074550.jpg"
   },
   {
     "name": "Staff Engineer: Leadership beyond the management track by Will Larson",
+    "pages": 337,
     "isbn": "9781736417911",
     "thumbnail": "https://api.andersos.net/assets/9781736417911.jpg",
     "tags": ["to-read"]
   },
   {
     "name": "The Opinionated Guide to React",
+    "pages": 190,
     "isbn": 0,
     "link": "https://opinionatedreact.com/",
     "thumbnail": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1597300911l/54905880._SX318_.jpg",
@@ -1381,6 +1343,7 @@
   {
     "name": "Can You Solve My Problems?: Ingenious, Perplexing, and Totally Satisfying Math and Logic Puzzles",
     "isbn": "9781615193882",
+    "pages": 352,
     "index": 2,
     "thumbnail": "https://images-na.ssl-images-amazon.com/images/I/51d7rrh8owL._SX385_BO1,204,203,200_.jpg"
   }
