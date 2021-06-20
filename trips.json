@@ -583,7 +583,7 @@
     "location": {
       "@type": "Place",
       "name": "Nekla",
-      "country": "Polen"
+      "country": "Poland"
     },
     "startDate": "2009-02-21",
     "endDate": "2009-03-01",
@@ -613,7 +613,7 @@
     "location": {
       "@type": "City",
       "name": "Prague",
-      "country": "Czechia"
+      "country": "Czech Republic"
     },
     "startDate": "2015-06-10",
     "endDate": "2015-06-13",
